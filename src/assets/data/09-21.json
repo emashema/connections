@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RESTAURANT WORKERS",
+        "values": [
+            "BARTENDER",
+            "CHEF",
+            "HOST",
+            "SERVER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MOTOR VEHICLES",
+        "values": [
+            "BUS",
+            "CAR",
+            "MOTORCYCLE",
+            "TRUCK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MUPPETS",
+        "values": [
+            "ANIMAL",
+            "BEAKER",
+            "GONZO",
+            "SCOOTER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HAND- AND FOOT-RELATED SLANG",
+        "values": [
+            "DIGIT",
+            "DOG",
+            "MITT",
+            "PIGGY"
+        ]
+    }
+]

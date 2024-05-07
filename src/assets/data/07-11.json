@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "NFL PLAYERS",
+        "values": [
+            "BRONCO",
+            "COWBOY",
+            "PACKER",
+            "RAVEN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PASTA SHAPES",
+        "values": [
+            "BOWTIE",
+            "ELBOW",
+            "SHELL",
+            "SPIRAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "JOINTS",
+        "values": [
+            "HIP",
+            "KNEE",
+            "SHOULDER",
+            "WRIST"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MOVIES WITH \u201c!\u201d",
+        "values": [
+            "AIRPLANE",
+            "MOTHER",
+            "OKLAHOMA",
+            "THEM"
+        ]
+    }
+]

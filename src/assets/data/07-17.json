@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MARSUPIALS",
+        "values": [
+            "KANGAROO",
+            "KOALA",
+            "WALLABY",
+            "WOMBAT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CHOCOLATE BARS",
+        "values": [
+            "CHUNKY",
+            "CRUNCH",
+            "MARS",
+            "MOUNDS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLANG FOR MONEY",
+        "values": [
+            "CHEDDAR",
+            "DOUGH",
+            "PAPER",
+            "STACKS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NAKED ___",
+        "values": [
+            "EYE",
+            "GUN",
+            "MOLE RAT",
+            "TRUTH"
+        ]
+    }
+]

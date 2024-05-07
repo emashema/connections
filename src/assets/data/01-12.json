@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TOPIC OF DISCUSSION",
+        "values": [
+            "ISSUE",
+            "MATTER",
+            "POINT",
+            "SUBJECT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SECTION OF ONE\u2019S LIFE",
+        "values": [
+            "CHAPTER",
+            "PERIOD",
+            "PHASE",
+            "STAGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARTS OF A CAR, INFORMALLY",
+        "values": [
+            "DASH",
+            "SHOCK",
+            "TANK",
+            "WHEEL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COLOR HOMOPHONES",
+        "values": [
+            "BLEW",
+            "CHORAL",
+            "READ",
+            "ROWS"
+        ]
+    }
+]

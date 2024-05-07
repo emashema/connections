@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "60\u2019s BAND MEMBERS",
+        "values": [
+            "BEACH BOY",
+            "BEATLE",
+            "BYRD",
+            "MONKEE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DANCE FADS",
+        "values": [
+            "DOUGIE",
+            "MACARENA",
+            "MASHED POTATO",
+            "TWIST"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAGAZINES",
+        "values": [
+            "FORTUNE",
+            "ROLLING STONE",
+            "VOGUE",
+            "WIRED"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH LINKS",
+        "values": [
+            "CHAIN",
+            "GOLF COURSE",
+            "SAUSAGE",
+            "WEBSITE"
+        ]
+    }
+]

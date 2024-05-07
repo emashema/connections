@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MERRIMENT",
+        "values": [
+            "CHEER",
+            "GLEE",
+            "FESTIVITY",
+            "MIRTH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOOKED FOR A WEDDING",
+        "values": [
+            "BAND",
+            "CATERER",
+            "FLORIST",
+            "OFFICIANT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RHYMES",
+        "values": [
+            "CHOIR",
+            "FIRE",
+            "LIAR",
+            "FRYER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ PIT",
+        "values": [
+            "BARBECUE",
+            "ORCHESTRA",
+            "SNAKE",
+            "TAR"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TIMEKEEPING DEVICES",
+        "values": [
+            "CLOCK",
+            "HOURGLASS",
+            "SUNDIAL",
+            "WATCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HAIRSTYLES",
+        "values": [
+            "BOB",
+            "CROP",
+            "PIXIE",
+            "SHAG"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNITS OF MEASURE",
+        "values": [
+            "HERTZ",
+            "MOLE",
+            "NEWTON",
+            "SECOND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "DR. ___",
+        "values": [
+            "EVIL",
+            "J",
+            "NO",
+            "PEPPER"
+        ]
+    }
+]

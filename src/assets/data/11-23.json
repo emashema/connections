@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOODS WITH CRUSTS",
+        "values": [
+            "PASTY",
+            "PIE",
+            "TART",
+            "TURNOVER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ENDING IN A SILENT \u201cT\u201d",
+        "values": [
+            "BOUQUET",
+            "PARFAIT",
+            "RAGOUT",
+            "RAPPORT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COUNTRIES WITH RED AND WHITE FLAGS",
+        "values": [
+            "JAPAN",
+            "POLAND",
+            "TUNISIA",
+            "TURKEY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "N.B.A. GREATS",
+        "values": [
+            "BIRD",
+            "CURRY",
+            "JAMES",
+            "JORDAN"
+        ]
+    }
+]

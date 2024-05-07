@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THINGS A DOG CAN FETCH",
+        "values": [
+            "BALL",
+            "BONE",
+            "FRISBEE",
+            "STICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CONCEAL",
+        "values": [
+            "BLOCK",
+            "COVER",
+            "HIDE",
+            "OBSCURE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAC KEYBOARD KEYS",
+        "values": [
+            "COMMAND",
+            "CONTROL",
+            "OPTION",
+            "SHIFT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "EXPERIENCE A MEMORY LAPSE",
+        "values": [
+            "BLANK",
+            "FLAKE",
+            "FORGET",
+            "SPACE"
+        ]
+    }
+]

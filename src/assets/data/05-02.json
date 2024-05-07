@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HIGHLY SKILLED",
+        "values": [
+            "ACE",
+            "CRACKERJACK",
+            "EXPERT",
+            "HOTSHOT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "USED TO FIX A FLAT",
+        "values": [
+            "CHOCK",
+            "JACK",
+            "TIRE",
+            "WRENCH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "JOAQUIN PHOENIX MOVIES",
+        "values": [
+            "GLADIATOR",
+            "HER",
+            "JOKER",
+            "SIGNS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS STARTING WITH MUSIC GENRES",
+        "values": [
+            "POPCORN",
+            "RAPTURE",
+            "ROCKETRY",
+            "SOULMATE"
+        ]
+    }
+]

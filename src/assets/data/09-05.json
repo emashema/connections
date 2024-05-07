@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INFORMATION DISPLAYS",
+        "values": [
+            "CHART",
+            "DIAGRAM",
+            "GRAPH",
+            "MAP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ADDITIONAL BENEFIT",
+        "values": [
+            "BONUS",
+            "EXTRA",
+            "ICING",
+            "PERK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THANKSGIVING FOOD",
+        "values": [
+            "GRAVY",
+            "PIE",
+            "STUFFING",
+            "TURKEY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SONG TITLES WITH PARENTHESES",
+        "values": [
+            "I RAN",
+            "ISTANBUL",
+            "MONTERO",
+            "SATISFACTION"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DIGITAL NOTIFICATION SOUNDS",
+        "values": [
+            "CHIME",
+            "DING",
+            "PING",
+            "RING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TATTLE",
+        "values": [
+            "RAT",
+            "SING",
+            "SNITCH",
+            "SQUEAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GROUP WITHIN A GROUP",
+        "values": [
+            "CAMP",
+            "DIVISION",
+            "FACTION",
+            "WING"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MICROSOFT PRODUCTS",
+        "values": [
+            "BING",
+            "EDGE",
+            "SURFACE",
+            "WORD"
+        ]
+    }
+]

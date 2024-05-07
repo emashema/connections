@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "APPETIZER UNIT",
+        "values": [
+            "FRY",
+            "NACHO",
+            "POPPER",
+            "WING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RESPONSE TO A CORRECT ANSWER",
+        "values": [
+            "BINGO",
+            "CORRECT",
+            "RIGHT",
+            "YES"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAR",
+        "values": [
+            "CHIP",
+            "DING",
+            "NICK",
+            "SCRATCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___JACK",
+        "values": [
+            "APPLE",
+            "CRACKER",
+            "FLAP",
+            "LUMBER"
+        ]
+    }
+]

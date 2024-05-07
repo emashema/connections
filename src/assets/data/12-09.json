@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ICE CREAM TREATS",
+        "values": [
+            "FLOAT",
+            "SHAKE",
+            "SPLIT",
+            "SUNDAE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HARDWARE FASTENERS",
+        "values": [
+            "BOLT",
+            "NAIL",
+            "RIVET",
+            "SCREW"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF COOKING OIL",
+        "values": [
+            "CORN",
+            "OLIVE",
+            "PALM",
+            "PEANUT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STICKY ___",
+        "values": [
+            "FINGERS",
+            "NOTE",
+            "RICE",
+            "WICKET"
+        ]
+    }
+]

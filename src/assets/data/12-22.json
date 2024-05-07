@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CLASSIC HALLOWEEN COSTUMES",
+        "values": [
+            "ANGEL",
+            "CLOWN",
+            "PIRATE",
+            "WITCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BEE CREATIONS",
+        "values": [
+            "COMB",
+            "HIVE",
+            "HONEY",
+            "WAX"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "INTERVAL OF TIME",
+        "values": [
+            "PERIOD",
+            "SPELL",
+            "STRETCH",
+            "WHILE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ANIMAL HOMOPHONES",
+        "values": [
+            "DEAR",
+            "HAIR",
+            "HOARSE",
+            "WAIL"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOVIDS",
+        "values": [
+            "BUFFALO",
+            "COW",
+            "GOAT",
+            "SHEEP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EMIT LIGHT",
+        "values": [
+            "BEAM",
+            "GLOW",
+            "RADIATE",
+            "SHINE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GYMNASTICS APPARATUS",
+        "values": [
+            "FLOOR",
+            "HORSE",
+            "RINGS",
+            "VAULT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS THAT SOUND LIKE TWO LETTERS",
+        "values": [
+            "CUTIE",
+            "ENVY",
+            "EXCEL",
+            "SEEDY"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "COMPUTER EQUIPMENT",
+        "values": [
+            "KEYBOARD",
+            "MONITOR",
+            "MOUSE",
+            "SPEAKER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RODENTS",
+        "values": [
+            "GERBIL",
+            "HAMSTER",
+            "RAT",
+            "VOLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MUSICAL INSTRUMENTS",
+        "values": [
+            "HARP",
+            "HORN",
+            "ORGAN",
+            "TRIANGLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SYNONYMS FOR COMPLAIN",
+        "values": [
+            "CARP",
+            "GRIPE",
+            "GROUSE",
+            "MOAN"
+        ]
+    }
+]

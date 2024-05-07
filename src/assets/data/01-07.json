@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TECH COMPANIES",
+        "values": [
+            "ALPHABET",
+            "AMAZON",
+            "APPLE",
+            "META"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF EXAMS",
+        "values": [
+            "BAR",
+            "FINAL",
+            "ORAL",
+            "PHYSICAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SOMETHING EXEMPLARY",
+        "values": [
+            "BEAUTY",
+            "GEM",
+            "MARVEL",
+            "PEACH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ TOOTH",
+        "values": [
+            "BABY",
+            "EYE",
+            "SWEET",
+            "WISDOM"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MUSIC PLAYER BUTTONS",
+        "values": [
+            "REWIND",
+            "SHUFFLE",
+            "SKIP",
+            "STOP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BROADCAST",
+        "values": [
+            "AIR",
+            "RUN",
+            "SCREEN",
+            "SHOW"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS YOU CAN DRAW",
+        "values": [
+            "BATH",
+            "CARD",
+            "CURTAIN",
+            "PICTURE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NUMBER ANAGRAMS",
+        "values": [
+            "EON",
+            "ETHER",
+            "NET",
+            "TOW"
+        ]
+    }
+]

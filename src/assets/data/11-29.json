@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOOT PARTS",
+        "values": [
+            "ARCH",
+            "BALL",
+            "SOLE",
+            "TOE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSICAL INSTRUMENTS",
+        "values": [
+            "BASS",
+            "HARP",
+            "HORN",
+            "ORGAN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DOG COMMANDS",
+        "values": [
+            "COME",
+            "DOWN",
+            "SIT",
+            "STAY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BADDIE",
+        "values": [
+            "DOG",
+            "HEEL",
+            "JERK",
+            "SNAKE"
+        ]
+    }
+]

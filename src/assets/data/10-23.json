@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CELL PHONE MODES",
+        "values": [
+            "FOCUS",
+            "RING",
+            "SILENT",
+            "VIBRATE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "IMPEL",
+        "values": [
+            "DRIVE",
+            "INSPIRE",
+            "MOTIVATE",
+            "SPUR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ROMANTIC BEGINNINGS",
+        "values": [
+            "CONNECTION",
+            "FEELINGS",
+            "SPARK",
+            "VIBE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HARD ___",
+        "values": [
+            "CANDY",
+            "COPY",
+            "KNOCKS",
+            "SELTZER"
+        ]
+    }
+]

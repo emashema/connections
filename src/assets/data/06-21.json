@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FRUIT",
+        "values": [
+            "DATE",
+            "KIWI",
+            "LEMON",
+            "ORANGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COUNTRIES",
+        "values": [
+            "CHAD",
+            "GEORGIA",
+            "JORDAN",
+            "TOGO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BIRDS",
+        "values": [
+            "CRANE",
+            "JAY",
+            "SWALLOW",
+            "TURKEY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ZODIAC SYMBOLS",
+        "values": [
+            "FISH",
+            "GOAT",
+            "SCALES",
+            "TWINS"
+        ]
+    }
+]

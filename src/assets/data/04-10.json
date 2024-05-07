@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PERSON IN CHARGE",
+        "values": [
+            "CHAIR",
+            "CHIEF",
+            "DIRECTOR",
+            "HEAD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GRASSY AREA",
+        "values": [
+            "FIELD",
+            "GREEN",
+            "GROUNDS",
+            "LAWN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORDS BEFORE \u201cNUT\u201d",
+        "values": [
+            "CHEST",
+            "COCO",
+            "HAZEL",
+            "PEA"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SECOND WORDS IN TARANTINO MOVIES",
+        "values": [
+            "BROWN",
+            "DOGS",
+            "FICTION",
+            "UNCHAINED"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MODES OF TRANSPORTATION",
+        "values": [
+            "BOAT",
+            "CAR",
+            "PLANE",
+            "TRAIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NBA PLAYERS",
+        "values": [
+            "KING",
+            "MAGIC",
+            "SUN",
+            "THUNDER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FAST FOOD CHAINS",
+        "values": [
+            "CHECKERS",
+            "OUTBACK",
+            "SONIC",
+            "SUBWAY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BAND NAMES MINUS COLORS",
+        "values": [
+            "DAY",
+            "FLOYD",
+            "SABBATH",
+            "STRIPES"
+        ]
+    }
+]

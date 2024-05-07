@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DELI BREAD OPTIONS",
+        "values": [
+            "BUN",
+            "HERO",
+            "ROLL",
+            "WRAP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SLANG FOR MOUTH",
+        "values": [
+            "CHOPS",
+            "KISSER",
+            "TRAP",
+            "YAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KEEP RHYTHM WITH MUSIC",
+        "values": [
+            "BOB",
+            "CLAP",
+            "SNAP",
+            "TAP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ROUND OF ___",
+        "values": [
+            "APPLAUSE",
+            "DRINKS",
+            "FUNDING",
+            "GOLF"
+        ]
+    }
+]

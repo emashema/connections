@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WAYS TO PREPARE EGGS",
+        "values": [
+            "BOIL",
+            "FRY",
+            "POACH",
+            "SCRAMBLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EXHILARATION",
+        "values": [
+            "BUZZ",
+            "KICK",
+            "RUSH",
+            "THRILL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THROWN IN TARGET GAMES",
+        "values": [
+            "AXE",
+            "DART",
+            "HORSESHOE",
+            "RING"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ WRAP",
+        "values": [
+            "BODY",
+            "BUBBLE",
+            "GIFT",
+            "SHRINK"
+        ]
+    }
+]

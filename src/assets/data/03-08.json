@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THINGS TO SEW",
+        "values": [
+            "DART",
+            "HEM",
+            "PLEAT",
+            "SEAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WAYS TO PRESERVE FOOD",
+        "values": [
+            "CAN",
+            "CURE",
+            "DRY",
+            "FREEZE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHARP QUALITY",
+        "values": [
+            "BITE",
+            "EDGE",
+            "PUNCH",
+            "SPICE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BIRDS MINUS LAST LETTER",
+        "values": [
+            "CONDO",
+            "HAW",
+            "HERO",
+            "LOO"
+        ]
+    }
+]

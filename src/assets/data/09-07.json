@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ROCKY HORROR PICTURE SHOW",
+        "values": [
+            "HORROR",
+            "PICTURE",
+            "ROCKY",
+            "SHOW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WHO FRAMED ROGER RABBIT",
+        "values": [
+            "FRAMED",
+            "RABBIT",
+            "ROGER",
+            "WHO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WHEN HARRY MET SALLY",
+        "values": [
+            "HARRY",
+            "MET",
+            "SALLY",
+            "WHEN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MAD MAX FURY ROAD",
+        "values": [
+            "FURY",
+            "MAD",
+            "MAX",
+            "ROAD"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BIT OF HAIR",
+        "values": [
+            "CURL",
+            "LOCK",
+            "RINGLET",
+            "TRESS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MEDIA ATTENTION",
+        "values": [
+            "COVERAGE",
+            "EXPOSURE",
+            "PRESS",
+            "PUBLICITY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "NOUN SUFFIXES",
+        "values": [
+            "DOM",
+            "ION",
+            "NESS",
+            "SHIP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CIRCUS",
+        "values": [
+            "FAMILY",
+            "FLEA",
+            "FLYING",
+            "MEDIA"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNIT OF LANGUAGE",
+        "values": [
+            "LETTER",
+            "PARAGRAPH",
+            "SENTENCE",
+            "WORD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TRADEMARK",
+        "values": [
+            "FEATURE",
+            "HALLMARK",
+            "STAMP",
+            "TRAIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FUNNY PERSON",
+        "values": [
+            "CARD",
+            "CLOWN",
+            "CUTUP",
+            "JOKER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH LEAVES",
+        "values": [
+            "BOOK",
+            "TABLE",
+            "TEA",
+            "TREE"
+        ]
+    }
+]

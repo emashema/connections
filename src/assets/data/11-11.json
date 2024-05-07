@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SPARSE/LACKING",
+        "values": [
+            "LIGHT",
+            "SHORT",
+            "SPARE",
+            "THIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FUN TIME",
+        "values": [
+            "BALL",
+            "BLAST",
+            "KICK",
+            "RIOT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FILMMAKING EQUIPMENT",
+        "values": [
+            "BOOM",
+            "DOLLY",
+            "LENS",
+            "TRIPOD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cGET A ___!\u201d",
+        "values": [
+            "CLUE",
+            "GRIP",
+            "LIFE",
+            "ROOM"
+        ]
+    }
+]

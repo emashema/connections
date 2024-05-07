@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLAYING CARD SUITS",
+        "values": [
+            "CLUB",
+            "DIAMOND",
+            "HEART",
+            "SPADE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GOLF CLUBS",
+        "values": [
+            "IRON",
+            "PUTTER",
+            "WEDGE",
+            "WOOD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "YEARN",
+        "values": [
+            "ACHE",
+            "LONG",
+            "PINE",
+            "THIRST"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "INSUFFICIENT",
+        "values": [
+            "LOW",
+            "SHORT",
+            "SHY",
+            "WANTING"
+        ]
+    }
+]

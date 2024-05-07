@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DESSERTS",
+        "values": [
+            "CAKE",
+            "COBBLER",
+            "PIE",
+            "TART"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "OCCUPATIONAL SURNAMES",
+        "values": [
+            "FISHER",
+            "MASON",
+            "MILLER",
+            "SMITH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ALTER DECEPTIVELY",
+        "values": [
+            "DISTORT",
+            "DOCTOR",
+            "FUDGE",
+            "TWIST"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SQUARE ___",
+        "values": [
+            "DANCE",
+            "MEAL",
+            "ONE",
+            "ROOT"
+        ]
+    }
+]

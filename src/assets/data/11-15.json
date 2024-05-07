@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "\u201cGROSS!\u201d",
+        "values": [
+            "EW",
+            "ICK",
+            "PU",
+            "UGH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MAGAZINES",
+        "values": [
+            "O",
+            "OK",
+            "US",
+            "W"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "\u201cYES\u201d IN DIFFERENT LANGUAGES",
+        "values": [
+            "HAI",
+            "JA",
+            "SI",
+            "DA"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HOMOPHONES",
+        "values": [
+            "OUI",
+            "WE",
+            "WEE",
+            "WII"
+        ]
+    }
+]

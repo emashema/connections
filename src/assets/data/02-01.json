@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MAKE SHORTER",
+        "values": [
+            "CLIP",
+            "CUT",
+            "PARE",
+            "TRIM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSCULAR",
+        "values": [
+            "BUILT",
+            "JACKED",
+            "RIPPED",
+            "SWOLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ENTHUSIAST",
+        "values": [
+            "BUFF",
+            "FAN",
+            "LOVER",
+            "NUT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WRINKLY THINGS",
+        "values": [
+            "BRAIN",
+            "PRUNE",
+            "PUG",
+            "WALNUT"
+        ]
+    }
+]

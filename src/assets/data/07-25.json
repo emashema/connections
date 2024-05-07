@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATES OF MATTER",
+        "values": [
+            "GAS",
+            "LIQUID",
+            "PLASMA",
+            "SOLID"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EDIT MENU COMMANDS",
+        "values": [
+            "COPY",
+            "CUT",
+            "PASTE",
+            "UNDO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DEFEAT BADLY",
+        "values": [
+            "CRUSH",
+            "ROUT",
+            "SHELLAC",
+            "TRASH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ANAGRAMS",
+        "values": [
+            "LEAST",
+            "SLATE",
+            "STALE",
+            "TESLA"
+        ]
+    }
+]

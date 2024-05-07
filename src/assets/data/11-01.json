@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SOCIAL MEDIA ACTIONS",
+        "values": [
+            "FOLLOW",
+            "LIKE",
+            "SHARE",
+            "SUBSCRIBE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "USE A NEEDLE AND THREAD",
+        "values": [
+            "DARN",
+            "HEM",
+            "SEAM",
+            "SEW"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHOWS SET IN HOSPITALS",
+        "values": [
+            "ER",
+            "HOUSE",
+            "RATCHED",
+            "SCRUBS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "EXPRESSIONS OF HESITATION",
+        "values": [
+            "ERM",
+            "UH",
+            "UM",
+            "WELL"
+        ]
+    }
+]

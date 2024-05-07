@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LONG SANDWICHES",
+        "values": [
+            "HERO",
+            "HOAGIE",
+            "GRINDER",
+            "SUB"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DATING APPS",
+        "values": [
+            "BUMBLE",
+            "HINGE",
+            "MATCH",
+            "TINDER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "VAMPIRE MOVIES",
+        "values": [
+            "BLADE",
+            "LOST BOYS",
+            "NEAR DARK",
+            "TWILIGHT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ADAMS",
+        "values": [
+            "ANT",
+            "DRIVER",
+            "SCOTT",
+            "WEST"
+        ]
+    }
+]

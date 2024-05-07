@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DIPPING SAUCES",
+        "values": [
+            "AIOLI",
+            "BARBECUE",
+            "MARINARA",
+            "RANCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INTERROGATE",
+        "values": [
+            "EXAMINE",
+            "GRILL",
+            "PROBE",
+            "QUESTION"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TRANSACTION RECORD",
+        "values": [
+            "BILL",
+            "INVOICE",
+            "RECEIPT",
+            "STATEMENT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cSTOCK\u201d MIGHT MEAN",
+        "values": [
+            "ANCESTRY",
+            "BROTH",
+            "CATTLE",
+            "MERCHANDISE"
+        ]
+    }
+]

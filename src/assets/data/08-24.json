@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EXTINCT ANIMALS",
+        "values": [
+            "DODO",
+            "MAMMOTH",
+            "MASTODON",
+            "TRILOBITE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FAILURES",
+        "values": [
+            "BUSTS",
+            "FLOPS",
+            "MISSES",
+            "TURKEYS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLANG FOR CLOTHES",
+        "values": [
+            "DUDS",
+            "GETUP",
+            "OUTFIT",
+            "THREADS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "KISS",
+        "values": [
+            "PECK",
+            "SMACK",
+            "SMOOCH",
+            "X"
+        ]
+    }
+]

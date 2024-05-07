@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CONNECT",
+        "values": [
+            "COUPLE",
+            "JOIN",
+            "LINK",
+            "TIE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NUISANCE",
+        "values": [
+            "BOTHER",
+            "HANDFUL",
+            "PAIN",
+            "PEST"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "QUANTITY WORDS",
+        "values": [
+            "FEW",
+            "MANY",
+            "SEVERAL",
+            "SOME"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TAROT CARDS, WITH \u201cTHE\u201d",
+        "values": [
+            "FOOL",
+            "LOVERS",
+            "MAGICIAN",
+            "TOWER"
+        ]
+    }
+]

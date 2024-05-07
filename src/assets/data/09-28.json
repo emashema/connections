@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "REFLECT LIGHT",
+        "values": [
+            "FLASH",
+            "GLEAM",
+            "GLITTER",
+            "SPARKLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WAYS TO GATHER FOOD",
+        "values": [
+            "FISH",
+            "FORAGE",
+            "HUNT",
+            "TRAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RAP SUBGENRES",
+        "values": [
+            "BOUNCE",
+            "CRUNK",
+            "DRILL",
+            "GRIME"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LIGHT ___",
+        "values": [
+            "BEER",
+            "BULB",
+            "RAIL",
+            "YEAR"
+        ]
+    }
+]

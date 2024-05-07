@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RESERVE FOR LATER",
+        "values": [
+            "BANK",
+            "SAVE",
+            "STASH",
+            "STORE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOLDNESS, FIGURATIVELY",
+        "values": [
+            "GALL",
+            "GUTS",
+            "NERVE",
+            "STONES"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "USED TO BUILD A SNOWMAN",
+        "values": [
+            "CARROT",
+            "COAL",
+            "SNOW",
+            "STICKS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FUNNY ___",
+        "values": [
+            "BONE",
+            "BUSINESS",
+            "GIRL",
+            "PAGES"
+        ]
+    }
+]

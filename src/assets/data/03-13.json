@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HALLOWEEN PURCHASES",
+        "values": [
+            "CANDY",
+            "COSTUME",
+            "DECORATIONS",
+            "PUMPKIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PLANTS WITH SIMILAR FLAVORS",
+        "values": [
+            "ANISE",
+            "FENNEL",
+            "LICORICE",
+            "TARRAGON"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FOOD SLANG FOR HEAD",
+        "values": [
+            "BEAN",
+            "MELON",
+            "NOODLE",
+            "NUT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GEMSTONE CUTS",
+        "values": [
+            "BAGUETTE",
+            "EMERALD",
+            "PRINCESS",
+            "RADIANT"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BIOMES",
+        "values": [
+            "DESERT",
+            "FOREST",
+            "GRASSLAND",
+            "TUNDRA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LIZARDS",
+        "values": [
+            "CHAMELEON",
+            "GECKO",
+            "IGUANA",
+            "MONITOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "YOGA POSES",
+        "values": [
+            "COBRA",
+            "LOTUS",
+            "TREE",
+            "WARRIOR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "DANCES WHEN DOUBLED",
+        "values": [
+            "CAN",
+            "CHA",
+            "GO",
+            "NAE"
+        ]
+    }
+]

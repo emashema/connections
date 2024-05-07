@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOLLOW ATTENTIVELY",
+        "values": [
+            "MONITOR",
+            "SURVEY",
+            "TRACK",
+            "WATCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WHERE YOU MIGHT FIND SAND",
+        "values": [
+            "BEACH",
+            "DESERT",
+            "HOURGLASS",
+            "PLAYGROUND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "OVEN BUTTONS",
+        "values": [
+            "BAKE",
+            "BROIL",
+            "LIGHT",
+            "TIMER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BRITPOP BANDS",
+        "values": [
+            "BLUR",
+            "OASIS",
+            "PULP",
+            "SUEDE"
+        ]
+    }
+]

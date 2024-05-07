@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ESPECIALLY",
+        "values": [
+            "MIGHTY",
+            "PRETTY",
+            "REALLY",
+            "VERY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DISNEY CHARACTERS",
+        "values": [
+            "DAISY",
+            "GOOFY",
+            "HAPPY",
+            "LADY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF BLUE",
+        "values": [
+            "BABY",
+            "NAVY",
+            "SKY",
+            "TIFFANY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BODY PARTS PLUS \"Y\"",
+        "values": [
+            "ARMY",
+            "COLONY",
+            "LIVERY",
+            "SHINY"
+        ]
+    }
+]

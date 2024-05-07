@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GARDENING NOUNS/VERBS",
+        "values": [
+            "PLANT",
+            "SEED",
+            "WATER",
+            "WEED"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF SALADS",
+        "values": [
+            "CAESAR",
+            "GREEK",
+            "GREEN",
+            "WEDGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CLASSIC GAME SHOWS, FAMILIARLY",
+        "values": [
+            "FEUD",
+            "MILLIONAIRE",
+            "PYRAMID",
+            "WHEEL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "W + VOWEL SOUND",
+        "values": [
+            "WAY",
+            "WEE",
+            "WHY",
+            "WHOA"
+        ]
+    }
+]

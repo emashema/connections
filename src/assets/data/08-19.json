@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FRIEND",
+        "values": [
+            "BUD",
+            "CHUM",
+            "MATE",
+            "PAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COOKWEAR",
+        "values": [
+            "CROCK",
+            "POT",
+            "SKILLET",
+            "WOK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHOES",
+        "values": [
+            "CLOG",
+            "PUMP",
+            "SLIDE",
+            "WEDGE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SLANG FOR CANNABIS",
+        "values": [
+            "GRASS",
+            "HERB",
+            "MARY JANE",
+            "WEED"
+        ]
+    }
+]

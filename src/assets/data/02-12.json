@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BAD THINGS FOR A VIDEO CALL TO DO",
+        "values": [
+            "DROP",
+            "ECHO",
+            "FREEZE",
+            "LAG"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COSTUMES WITH STRIPED SHIRTS",
+        "values": [
+            "MIME",
+            "PRISONER",
+            "REFEREE",
+            "SAILOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEEN IN \u201cALADDIN\u201d",
+        "values": [
+            "GENIE",
+            "MONKEY",
+            "PARROT",
+            "PRINCESS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MOVIES MINUS NUMBERS",
+        "values": [
+            "APOLLO",
+            "CANDLES",
+            "FANTASTIC",
+            "SAMURAI"
+        ]
+    }
+]

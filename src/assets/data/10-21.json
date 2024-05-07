@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TABLEWARE",
+        "values": [
+            "BOWL",
+            "DISH",
+            "PLATE",
+            "SAUCER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NONSENSE",
+        "values": [
+            "BALONEY",
+            "BUNK",
+            "CROCK",
+            "TRIPE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BRA PARTS",
+        "values": [
+            "CUP",
+            "HOOK",
+            "STRAP",
+            "WIRE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ACRONYMS",
+        "values": [
+            "LASER",
+            "RADAR",
+            "SCUBA",
+            "SPAM"
+        ]
+    }
+]

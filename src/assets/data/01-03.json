@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MOVE THROUGH THE AIR",
+        "values": [
+            "FLOAT",
+            "FLY",
+            "GLIDE",
+            "SOAR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HIDDEN LISTENING DEVICES",
+        "values": [
+            "BUG",
+            "MIKE",
+            "TAP",
+            "WIRE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SELECT, AS A BOX ON A FORM",
+        "values": [
+            "CHECK",
+            "MARK",
+            "TICK",
+            "X"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "RAPPERS MINUS FIRST LETTER",
+        "values": [
+            "40",
+            "COLE",
+            "PAIN",
+            "TIP"
+        ]
+    }
+]

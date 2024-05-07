@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LONG-HAIRED ANIMALS",
+        "values": [
+            "AFGHAN",
+            "ALPACA",
+            "ANGORA",
+            "YAK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRATTLE ON",
+        "values": [
+            "BLATHER",
+            "CHAT",
+            "JABBER",
+            "GAB"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SNEAKER BRANDS",
+        "values": [
+            "CONVERSE",
+            "JORDAN",
+            "PUMA",
+            "VANS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BALLOON",
+        "values": [
+            "LEAD",
+            "SPEECH",
+            "TRIAL",
+            "WATER"
+        ]
+    }
+]

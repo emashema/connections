@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MARINE MAMMALS",
+        "values": [
+            "DOLPHIN",
+            "MANATEE",
+            "OTTER",
+            "SEAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIKE PARTS",
+        "values": [
+            "BRAKE",
+            "CHAIN",
+            "SADDLE",
+            "SPOKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SYNONYMS FOR SELL",
+        "values": [
+            "HAWK",
+            "MOVE",
+            "PEDDLE",
+            "VEND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COUNTRIES WHEN \u201cA\u201d IS ADDED",
+        "values": [
+            "CHIN",
+            "CUB",
+            "MALT",
+            "TONG"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WALK HEAVILY",
+        "values": [
+            "LUMBER",
+            "PLOD",
+            "STOMP",
+            "TRUDGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FLEXIBLE",
+        "values": [
+            "ELASTIC",
+            "LIMBER",
+            "PLASTIC",
+            "SUPPLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FENCING EQUIPMENT",
+        "values": [
+            "FOIL",
+            "GLOVE",
+            "JACKET",
+            "MASK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS BEGINNING WITH INSTRUMENTS",
+        "values": [
+            "BASSINET",
+            "CELLOPHANE",
+            "HARPOON",
+            "ORGANISM"
+        ]
+    }
+]

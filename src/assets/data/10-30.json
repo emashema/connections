@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BIRD FEATURES",
+        "values": [
+            "BEAK",
+            "FEATHER",
+            "TALON",
+            "WING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BLINK OF AN EYE",
+        "values": [
+            "FLASH",
+            "HEARTBEAT",
+            "SECOND",
+            "WINK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAHJONG TILES",
+        "values": [
+            "BAMBOO",
+            "DRAGON",
+            "SEASON",
+            "WIND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BUTTON",
+        "values": [
+            "BELLY",
+            "HOT",
+            "PANIC",
+            "SNOOZE"
+        ]
+    }
+]

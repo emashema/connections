@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GENTLE",
+        "values": [
+            "LIGHT",
+            "MELLOW",
+            "MILD",
+            "SOFT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CUTS OF PORK",
+        "values": [
+            "BELLY",
+            "CHOP",
+            "HOCK",
+            "SHOULDER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "STATUE OF LIBERTY FEATURES",
+        "values": [
+            "CROWN",
+            "ROBE",
+            "TABLET",
+            "TORCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS TO BLOW ON FOR WISHES/LUCK",
+        "values": [
+            "CANDLE",
+            "DANDELION",
+            "DICE",
+            "EYELASH"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DRINK VESSELS",
+        "values": [
+            "GOBLET",
+            "SNIFTER",
+            "TUMBLER",
+            "STEIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WOODWINDS",
+        "values": [
+            "CLARINET",
+            "FLUTE",
+            "OBOE",
+            "SAXOPHONE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AMERICAN POETS",
+        "values": [
+            "BISHOP",
+            "FROST",
+            "OLDS",
+            "POUND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CONSECUTIVE DOUBLE LETTERS",
+        "values": [
+            "BALLOON",
+            "BASSOON",
+            "COFFEE",
+            "FRICASSEE"
+        ]
+    }
+]

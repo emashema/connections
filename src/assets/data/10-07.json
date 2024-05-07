@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RHYMES",
+        "values": [
+            "DARREN",
+            "KAREN",
+            "SHARON",
+            "AARON"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NATURAL FEATURES",
+        "values": [
+            "DALE",
+            "BROOK",
+            "SAVANNA",
+            "CLIFF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "IRREGULAR VERBS",
+        "values": [
+            "DREW",
+            "ROSE",
+            "WILL",
+            "MAY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PALINDROMES",
+        "values": [
+            "EVE",
+            "HANNAH",
+            "OTTO",
+            "NATAN"
+        ]
+    }
+]

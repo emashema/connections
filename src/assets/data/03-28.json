@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EXITED",
+        "values": [
+            "DEPARTED",
+            "LEFT",
+            "SPLIT",
+            "WENT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ONE FLYING AN AIRPLANE",
+        "values": [
+            "ACE",
+            "AVIATOR",
+            "FLIER",
+            "PILOT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF WHALES",
+        "values": [
+            "BLUE",
+            "FIN",
+            "GRAY",
+            "RIGHT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH SLOTS",
+        "values": [
+            "ATM",
+            "CASINO",
+            "SCHEDULE",
+            "SPATULA"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNIT OF BREAD",
+        "values": [
+            "BAGUETTE",
+            "BUN",
+            "LOAF",
+            "ROLL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ASSURE, AS A WIN",
+        "values": [
+            "CLINCH",
+            "GUARANTEE",
+            "LOCK",
+            "SECURE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SMALL IMPERFECTION",
+        "values": [
+            "CHIP",
+            "MARK",
+            "NICK",
+            "SCRATCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HEAD OF ___",
+        "values": [
+            "HAIR",
+            "LETTUCE",
+            "STATE",
+            "STEAM"
+        ]
+    }
+]

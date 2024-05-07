@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CAMPING SUPPLIES",
+        "values": [
+            "COOLER",
+            "LANTERN",
+            "SLEEPING BAG",
+            "TENT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INSULT",
+        "values": [
+            "BARB",
+            "DIG",
+            "DISS",
+            "JAB"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TINY",
+        "values": [
+            "MINUTE",
+            "SLIGHT",
+            "SMALL",
+            "WEE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HAPPY ___",
+        "values": [
+            "CAMPER",
+            "HOUR",
+            "MEAL",
+            "MEDIUM"
+        ]
+    }
+]

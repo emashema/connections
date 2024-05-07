@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MOVIE TITLE CITIES",
+        "values": [
+            "CHICAGO",
+            "MUNICH",
+            "PHILADELPHIA",
+            "RIO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FASHION MAGAZINES",
+        "values": [
+            "ALLURE",
+            "ELLE",
+            "GLAMOUR",
+            "W"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "STORMS",
+        "values": [
+            "BLIZZARD",
+            "CYCLONE",
+            "SQUALL",
+            "TORNADO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COCKTAILS",
+        "values": [
+            "COSMOPOLITAN",
+            "HURRICANE",
+            "MANHATTAN",
+            "SCREWDRIVER"
+        ]
+    }
+]

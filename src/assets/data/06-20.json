@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SPORTS",
+        "values": [
+            "CRICKET",
+            "FENCING",
+            "POLO",
+            "SQUASH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TOPS",
+        "values": [
+            "CAMI",
+            "HALTER",
+            "TANK",
+            "TEE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "VEGETABLES",
+        "values": [
+            "BEET",
+            "CARROT",
+            "CORN",
+            "ONION"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "INSECTS",
+        "values": [
+            "ANT",
+            "BEETLE",
+            "MANTIS",
+            "TERMITE"
+        ]
+    }
+]

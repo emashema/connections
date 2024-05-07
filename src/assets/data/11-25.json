@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SECLUDED",
+        "values": [
+            "HIDDEN",
+            "PRIVATE",
+            "REMOTE",
+            "SECRET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AGGREGATE SIZE",
+        "values": [
+            "AMOUNT",
+            "NUMBER",
+            "QUANTITY",
+            "VOLUME"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BODIES OF WATER",
+        "values": [
+            "CANAL",
+            "CHANNEL",
+            "SOUND",
+            "STRAIT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "READS THE SAME ROTATED 180\u00b0",
+        "values": [
+            "96",
+            "MOW",
+            "NOON",
+            "SIS"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LIST OF CANDIDATES",
+        "values": [
+            "BALLOT",
+            "ROSTER",
+            "SLATE",
+            "TICKET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PROTECTIVE BARRIER",
+        "values": [
+            "BUFFER",
+            "CUSHION",
+            "PAD",
+            "SHIELD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MEDICINE FORMATS",
+        "values": [
+            "CAPSULE",
+            "CREAM",
+            "SYRUP",
+            "TABLET"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PEA ___",
+        "values": [
+            "COAT",
+            "GREEN",
+            "POD",
+            "SOUP"
+        ]
+    }
+]

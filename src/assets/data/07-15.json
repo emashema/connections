@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLEASANT SMELLS",
+        "values": [
+            "AROMA",
+            "BOUQUET",
+            "FRAGRANCE",
+            "SCENT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSIC GENRES",
+        "values": [
+            "BLUES",
+            "COUNTRY",
+            "FUNK",
+            "SOUL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ROCK PAPER SCISSORS",
+        "values": [
+            "PAPER",
+            "ROCK",
+            "SCISSORS",
+            "SHOOT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MALE ANIMALS",
+        "values": [
+            "BOAR",
+            "BUCK",
+            "BULL",
+            "JACK"
+        ]
+    }
+]

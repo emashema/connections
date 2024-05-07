@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FALSIFY",
+        "values": [
+            "FABRICATE",
+            "FAKE",
+            "FIX",
+            "FORGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MILD OATHS",
+        "values": [
+            "FIDDLESTICKS",
+            "FIE",
+            "FRICK",
+            "FUDGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TV SHOWS",
+        "values": [
+            "FARGO",
+            "FIREFLY",
+            "FLEABAG",
+            "FLIPPER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FAST ___",
+        "values": [
+            "FASHION",
+            "FOOD",
+            "FORWARD",
+            "FRIENDS"
+        ]
+    }
+]

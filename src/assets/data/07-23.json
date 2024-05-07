@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SCUBA GEAR",
+        "values": [
+            "FINS",
+            "MASK",
+            "SNORKEL",
+            "TANK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PUNCTUATION MARKS",
+        "values": [
+            "COLON",
+            "COMMA",
+            "HYPHEN",
+            "PERIOD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RUN QUICKLY",
+        "values": [
+            "BOLT",
+            "DASH",
+            "RACE",
+            "SPRINT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CAT",
+        "values": [
+            "DOJA",
+            "FAT",
+            "HOUSE",
+            "JUNGLE"
+        ]
+    }
+]

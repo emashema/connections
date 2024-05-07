@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RIP OFF",
+        "values": [
+            "FLEECE",
+            "HOSE",
+            "ROB",
+            "STIFF"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "THINGS MADE OF WAX",
+        "values": [
+            "CANDLE",
+            "CRAYON",
+            "HONEYCOMB",
+            "SEAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARTS OF AN AIRPLANE",
+        "values": [
+            "CABIN",
+            "ENGINE",
+            "NOSE",
+            "WING"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "UNITS OF VEGETABLES",
+        "values": [
+            "BULB",
+            "EAR",
+            "HEAD",
+            "STALK"
+        ]
+    }
+]

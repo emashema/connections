@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EAT A LITTLE",
+        "values": [
+            "GRAZE",
+            "NIBBLE",
+            "PECK",
+            "SNACK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PURSUE",
+        "values": [
+            "HUNT",
+            "TRACK",
+            "TRAIL",
+            "STALK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "INGREDIENTS IN MINESTRONE",
+        "values": [
+            "BEANS",
+            "PASTA",
+            "STOCK",
+            "VEGETABLES"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___CAST",
+        "values": [
+            "BROAD",
+            "FORE",
+            "POD",
+            "TYPE"
+        ]
+    }
+]

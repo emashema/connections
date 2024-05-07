@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLAYFULLY BOTHER",
+        "values": [
+            "JOSH",
+            "KID",
+            "RIB",
+            "TEASE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "APEX",
+        "values": [
+            "HEIGHT",
+            "MAX",
+            "PEAK",
+            "TOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORDS FOR SPECIFIC QUANTITIES",
+        "values": [
+            "DOZEN",
+            "GROSS",
+            "PAIR",
+            "SCORE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cX\u201d MIGHT MEAN",
+        "values": [
+            "ADULT",
+            "KISS",
+            "TEN",
+            "TIMES"
+        ]
+    }
+]

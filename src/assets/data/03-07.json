@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHARED",
+        "values": [
+            "COLLECTIVE",
+            "COMMON",
+            "JOINT",
+            "MUTUAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RID OF CONTENTS",
+        "values": [
+            "CLEAR",
+            "DRAIN",
+            "EMPTY",
+            "FLUSH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ASSOCIATED WITH \u201cSTUB\u201d",
+        "values": [
+            "CIGARETTE",
+            "PENCIL",
+            "TICKET",
+            "TOE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ DREAM",
+        "values": [
+            "AMERICAN",
+            "FEVER",
+            "LUCID",
+            "PIPE"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CLASSIC ARCADE GAMES",
+        "values": [
+            "ASTEROIDS",
+            "BREAKOUT",
+            "FROGGER",
+            "PONG"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DANCES",
+        "values": [
+            "HUSTLE",
+            "SALSA",
+            "SWING",
+            "TANGO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TOUCHSCREEN GESTURES",
+        "values": [
+            "PINCH",
+            "SPREAD",
+            "SWIPE",
+            "TAP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "RAPPERS MINUS NUMBERS",
+        "values": [
+            "CENT",
+            "CHAINZ",
+            "PAC",
+            "SAVAGE"
+        ]
+    }
+]

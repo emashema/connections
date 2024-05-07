@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNCHANGING",
+        "values": [
+            "EVEN",
+            "LEVEL",
+            "STABLE",
+            "STEADY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LONG, SHARP OBJECTS",
+        "values": [
+            "LANCE",
+            "PIN",
+            "SKEWER",
+            "SPIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MUSIC PUBLICATIONS",
+        "values": [
+            "BILLBOARD",
+            "PITCHFORK",
+            "ROLLING STONE",
+            "SPIN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS WITH NUMERICAL PREFIXES",
+        "values": [
+            "UNIFORM",
+            "BICYCLE",
+            "TRILOGY",
+            "QUADRANT"
+        ]
+    }
+]

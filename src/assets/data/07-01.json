@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GRAINS",
+        "values": [
+            "BARLEY",
+            "OAT",
+            "RYE",
+            "SPELT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ROYAL TITLES",
+        "values": [
+            "BARON",
+            "EARL",
+            "KING",
+            "PRINCE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNIVERSITIES",
+        "values": [
+            "BROWN",
+            "DUKE",
+            "HOWARD",
+            "RICE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BEST DIRECTOR OSCAR WINNERS",
+        "values": [
+            "BONG",
+            "FORD",
+            "LEE",
+            "STONE"
+        ]
+    }
+]

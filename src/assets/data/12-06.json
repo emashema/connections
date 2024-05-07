@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOUND ON SHEET MUSIC",
+        "values": [
+            "CLEF",
+            "NOTE",
+            "REST",
+            "STAFF"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ZODIAC SYMBOLS",
+        "values": [
+            "BULL",
+            "CRAB",
+            "SCALES",
+            "TWINS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RECORD LABELS",
+        "values": [
+            "CAPITOL",
+            "COLUMBIA",
+            "VIRGIN",
+            "ISLAND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ZODIAC SIGN BEGINNINGS",
+        "values": [
+            "CAN",
+            "GEM",
+            "LIB",
+            "TAU"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SPICES BEGINNING WITH \u201cC\u201d",
+        "values": [
+            "CARDAMOM",
+            "CLOVE",
+            "CORIANDER",
+            "CUMIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TERMS OF ENDEARMENT",
+        "values": [
+            "BOO",
+            "HONEY",
+            "SUGAR",
+            "SWEETIE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS WITH WINGS",
+        "values": [
+            "AIRPLANE",
+            "ANGEL",
+            "BIRD",
+            "PEGASUS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SPICE GIRLS",
+        "values": [
+            "BABY",
+            "GINGER",
+            "POSH",
+            "SCARY"
+        ]
+    }
+]

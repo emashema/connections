@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "AVOID",
+        "values": [
+            "DODGE",
+            "DUCK",
+            "ESCAPE",
+            "SKIRT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HITCHCOCK MOVIES",
+        "values": [
+            "BIRDS",
+            "NOTORIOUS",
+            "REBECCA",
+            "ROPE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SIDEKICKS",
+        "values": [
+            "GOOSE",
+            "HOBBES",
+            "ROBIN",
+            "WATSON"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CHEESE",
+        "values": [
+            "COTTAGE",
+            "CREAM",
+            "SAY",
+            "STRING"
+        ]
+    }
+]

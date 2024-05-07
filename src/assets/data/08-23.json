@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FACIAL HAIR",
+        "values": [
+            "BEARD",
+            "GOATEE",
+            "MUSTACHE",
+            "STUBBLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIKE PARTS",
+        "values": [
+            "GEAR",
+            "HANDLEBAR",
+            "PEDAL",
+            "WHEEL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PURSUE",
+        "values": [
+            "DOG",
+            "FOLLOW",
+            "TAIL",
+            "TRACK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT ARE CAST",
+        "values": [
+            "DOUBT",
+            "MOVIE",
+            "SHADOW",
+            "VOTE"
+        ]
+    }
+]

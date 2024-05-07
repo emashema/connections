@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BRIEF MOMENT",
+        "values": [
+            "FLASH",
+            "HEARTBEAT",
+            "JIFF",
+            "WINK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DISPUTE",
+        "values": [
+            "CLASH",
+            "SCRAP",
+            "TANGLE",
+            "TIFF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLANG FOR ZERO",
+        "values": [
+            "JACK",
+            "LOVE",
+            "SQUAT",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ACCESSORIES FOR MR. PEANUT",
+        "values": [
+            "CANE",
+            "MONOCLE",
+            "SPAT",
+            "TOP HAT"
+        ]
+    }
+]

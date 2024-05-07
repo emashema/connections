@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GOLF COURSE PARTS",
+        "values": [
+            "BUNKER",
+            "FAIRWAY",
+            "GREEN",
+            "ROUGH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cI GIVE!\u201d",
+        "values": [
+            "ENOUGH",
+            "MERCY",
+            "STOP",
+            "UNCLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "INDECENT",
+        "values": [
+            "BAWDY",
+            "BLUE",
+            "COARSE",
+            "RISQUE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201d-OUGH\u201d WORDS THAT DON\u2019T RHYME",
+        "values": [
+            "BOUGH",
+            "COUGH",
+            "DOUGH",
+            "TOUGH"
+        ]
+    }
+]

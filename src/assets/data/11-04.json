@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WAYS TO PREPARE",
+        "values": [
+            "DRILL",
+            "PRACTICE",
+            "STUDY",
+            "TRAIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HOLLOW CYLINDERS",
+        "values": [
+            "HOSE",
+            "PIPE",
+            "STRAW",
+            "TUBE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WEAPONS IN THE GAME CLUE",
+        "values": [
+            "CANDLESTICK",
+            "KNIFE",
+            "ROPE",
+            "WRENCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cE-\u201d THINGS",
+        "values": [
+            "CIGARETTE",
+            "BIKE",
+            "TICKET",
+            "SPORTS"
+        ]
+    }
+]

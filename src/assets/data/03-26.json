@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MUSICAL INSTRUMENTS",
+        "values": [
+            "BASS",
+            "BASSOON",
+            "HARP",
+            "RECORDER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PLANT GROWTHS",
+        "values": [
+            "BLOOM",
+            "BUD",
+            "SHOOT",
+            "SPROUT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BRING UP",
+        "values": [
+            "FOSTER",
+            "NURSE",
+            "RAISE",
+            "REAR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SOLAR EMANATIONS",
+        "values": [
+            "CORONA",
+            "FLARE",
+            "LIGHT",
+            "RADIATION"
+        ]
+    }
+]

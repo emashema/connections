@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FASTENING VERBS",
+        "values": [
+            "BUCKLE",
+            "BUTTON",
+            "SNAP",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SLANG FOR ZERO",
+        "values": [
+            "JACK",
+            "NADA",
+            "NOTHING",
+            "SQUAT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GYM EXERCISES",
+        "values": [
+            "CURL",
+            "LUNGE",
+            "PLANK",
+            "PRESS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cCAPTAINS\u201d",
+        "values": [
+            "CRUNCH",
+            "KANGAROO",
+            "OBVIOUS",
+            "PLANET"
+        ]
+    }
+]

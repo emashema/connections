@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SLANG FOR FRIEND",
+        "values": [
+            "BUD",
+            "CHUM",
+            "MATE",
+            "PAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ADJECTIVES FOR A BASEMENT",
+        "values": [
+            "COLD",
+            "DANK",
+            "DARK",
+            "MUSTY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "STUBBLE",
+        "values": [
+            "FUZZ",
+            "SCRUFF",
+            "SHADOW",
+            "WHISKERS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COLLECTION OF MONEY",
+        "values": [
+            "FUND",
+            "KITTY",
+            "POOL",
+            "POT"
+        ]
+    }
+]

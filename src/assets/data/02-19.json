@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "USED IN BUILDING A FIRE",
+        "values": [
+            "KINDLING",
+            "LOG",
+            "MATCH",
+            "TINDER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MESS UP",
+        "values": [
+            "BLOW",
+            "BUMBLE",
+            "FLUFF",
+            "SPOIL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORKSHOP TOOLS",
+        "values": [
+            "DRILL",
+            "GRINDER",
+            "ROUTER",
+            "SAW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PARTS OF A DOOR",
+        "values": [
+            "FRAME",
+            "HANDLE",
+            "HINGE",
+            "LOCK"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "VEGETABLES THAT ARE ALSO FRUITS",
+        "values": [
+            "CUCUMBER",
+            "EGGPLANT",
+            "PEPPER",
+            "TOMATO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "3-D SHAPES",
+        "values": [
+            "CONE",
+            "CUBE",
+            "PYRAMID",
+            "SPHERE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORDS WITH \u201ci\u201d",
+        "values": [
+            "MAC",
+            "PAD",
+            "PHONE",
+            "POD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS WITH TWO PRONUNCIATIONS",
+        "values": [
+            "JOB",
+            "LIMA",
+            "MOBILE",
+            "POLISH"
+        ]
+    }
+]

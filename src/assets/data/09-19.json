@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WEB BROWSER-RELATED",
+        "values": [
+            "BOOKMARK",
+            "HISTORY",
+            "TAB",
+            "WINDOW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHIRT FEATURES",
+        "values": [
+            "BUTTON",
+            "COLLAR",
+            "CUFF",
+            "POCKET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CONNECTION",
+        "values": [
+            "BOND",
+            "LINK",
+            "RELATION",
+            "TIE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "DIRTY ___",
+        "values": [
+            "DOZEN",
+            "JOKE",
+            "LAUNDRY",
+            "MARTINI"
+        ]
+    }
+]

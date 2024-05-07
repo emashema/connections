@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MODEL FOR REFERENCE",
+        "values": [
+            "BENCHMARK",
+            "GAUGE",
+            "STANDARD",
+            "YARDSTICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "POKER ACTIONS",
+        "values": [
+            "BET",
+            "CALL",
+            "CHECK",
+            "FOLD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SKIN TYPES",
+        "values": [
+            "COMBINATION",
+            "DRY",
+            "NORMAL",
+            "OILY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTS OF U.S. STATES",
+        "values": [
+            "KENT",
+            "MARY",
+            "MASS",
+            "WASH"
+        ]
+    }
+]

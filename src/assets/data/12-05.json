@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ENORMOUS",
+        "values": [
+            "BIG",
+            "GIANT",
+            "GREAT",
+            "HUGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOOKSTORE SECTIONS",
+        "values": [
+            "FICTION",
+            "HUMOR",
+            "POETRY",
+            "TRAVEL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TV SHOWS WITH HAPPY-SOUNDING NAMES",
+        "values": [
+            "CHEERS",
+            "EUPHORIA",
+            "FELICITY",
+            "GLEE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CRANE",
+        "values": [
+            "CONSTRUCTION",
+            "FRASIER",
+            "PAPER",
+            "WHOOPING"
+        ]
+    }
+]

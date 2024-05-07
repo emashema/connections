@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CROPS",
+        "values": [
+            "CORN",
+            "CUCUMBER",
+            "PEPPER",
+            "TOMATO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SLANG FOR HEAD",
+        "values": [
+            "CROWN",
+            "DOME",
+            "MELON",
+            "NOODLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SONG",
+        "values": [
+            "CUT",
+            "NUMBER",
+            "SINGLE",
+            "TRACK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT WHISTLE",
+        "values": [
+            "BIRD",
+            "KETTLE",
+            "REFEREE",
+            "TRAIN"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNSPECIFIED QUANTITIES",
+        "values": [
+            "FEW",
+            "HANDFUL",
+            "SEVERAL",
+            "SOME"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CELESTIAL OBJECTS",
+        "values": [
+            "ASTEROID",
+            "COMET",
+            "MOON",
+            "PLANET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "NEWSPAPERS",
+        "values": [
+            "GLOBE",
+            "JOURNAL",
+            "POST",
+            "SUN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FRUIT HOMOPHONES",
+        "values": [
+            "LYME",
+            "MELLON",
+            "PAIR",
+            "PLUMB"
+        ]
+    }
+]

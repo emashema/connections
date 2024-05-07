@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TIME PERIODS",
+        "values": [
+            "CENTURY",
+            "DECADE",
+            "MILLENNIUM",
+            "YEAR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BREAKFAST FOODS",
+        "values": [
+            "CEREAL",
+            "OMELET",
+            "PANCAKE",
+            "WAFFLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PAINTERS",
+        "values": [
+            "BACON",
+            "CLOSE",
+            "MUNCH",
+            "WHISTLER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ONE IN A DOZEN",
+        "values": [
+            "EGG",
+            "JUROR",
+            "MONTH",
+            "ROSE"
+        ]
+    }
+]

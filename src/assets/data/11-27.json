@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CARRY A TUNE",
+        "values": [
+            "HUM",
+            "SING",
+            "SCAT",
+            "WHISTLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WHOLE AMOUNT",
+        "values": [
+            "COUNT",
+            "GROSS",
+            "SUM",
+            "TOTAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MOJITO INGREDIENTS",
+        "values": [
+            "LIME",
+            "MINT",
+            "RUM",
+            "SODA"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT ARE \u201cSTICKY\u201d",
+        "values": [
+            "GLUE",
+            "GUM",
+            "TAPE",
+            "STICK"
+        ]
+    }
+]

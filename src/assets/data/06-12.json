@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WET WEATHER",
+        "values": [
+            "HAIL",
+            "RAIN",
+            "SLEET",
+            "SNOW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NBA TEAMS",
+        "values": [
+            "BUCKS",
+            "HEAT",
+            "JAZZ",
+            "NETS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KEYBOARD KEYS",
+        "values": [
+            "OPTION",
+            "RETURN",
+            "SHIFT",
+            "TAB"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PALINDROMES",
+        "values": [
+            "KAYAK",
+            "LEVEL",
+            "MOM",
+            "RACECAR"
+        ]
+    }
+]

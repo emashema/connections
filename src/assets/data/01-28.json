@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HIGHEST POINT",
+        "values": [
+            "CREST",
+            "PEAK",
+            "SUMMIT",
+            "VERTEX"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cCAN I GET YOUR ___?\u201d (PHONE INFO REQUEST)",
+        "values": [
+            "CELL",
+            "CONTACT",
+            "DIGITS",
+            "NUMBER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MODIFIERS MEANING \u201cSMALL\u201d",
+        "values": [
+            "BABY",
+            "MINI",
+            "POCKET",
+            "TOY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "INSIDE A SCRABBLE BOX",
+        "values": [
+            "BAG",
+            "BOARD",
+            "RACKS",
+            "TILES"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CLASSIC TOYS",
+        "values": [
+            "BLOCKS",
+            "DOLL",
+            "TOP",
+            "YO-YO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WORDS WITH THREE G\u2019S",
+        "values": [
+            "BAGGAGE",
+            "EGGNOG",
+            "GIGGLE",
+            "LEGGINGS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHAKESPEARE CHARACTERS",
+        "values": [
+            "DUNCAN",
+            "JULIET",
+            "PUCK",
+            "VIOLA"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ STICK",
+        "values": [
+            "FISH",
+            "HOCKEY",
+            "MEMORY",
+            "SELFIE"
+        ]
+    }
+]

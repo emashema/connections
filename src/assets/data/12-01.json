@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLACES TO SHOP",
+        "values": [
+            "MALL",
+            "MARKET",
+            "OUTLET",
+            "STORE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WAYS TO REMOVE HAIR",
+        "values": [
+            "SHAVE",
+            "THREAD",
+            "TWEEZE",
+            "WAX"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PORTION OF PROFIT",
+        "values": [
+            "CUT",
+            "PIECE",
+            "SHARE",
+            "TAKE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "KINDS OF WRENCHES",
+        "values": [
+            "ALLEN",
+            "CRESCENT",
+            "MONKEY",
+            "SOCKET"
+        ]
+    }
+]

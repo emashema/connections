@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CONTACT VIA PHONE",
+        "values": [
+            "BUZZ",
+            "CALL",
+            "DIAL",
+            "RING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOOK SECTIONS",
+        "values": [
+            "APPENDIX",
+            "CHAPTER",
+            "INDEX",
+            "PREFACE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WEE",
+        "values": [
+            "DINKY",
+            "LITTLE",
+            "MINUTE",
+            "SLIGHT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CARTOON MICE",
+        "values": [
+            "ITCHY",
+            "JERRY",
+            "PINKY",
+            "SPEEDY"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BLACK-AND-WHITE ANIMALS",
+        "values": [
+            "ORCA",
+            "PANDA",
+            "SKUNK",
+            "ZEBRA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SEQUENCE",
+        "values": [
+            "CHAIN",
+            "SERIES",
+            "STRING",
+            "TRAIN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HETERONYMS",
+        "values": [
+            "BASS",
+            "DOVE",
+            "DESERT",
+            "WIND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ TRAP",
+        "values": [
+            "BEAR",
+            "SAND",
+            "SPEED",
+            "TOURIST"
+        ]
+    }
+]

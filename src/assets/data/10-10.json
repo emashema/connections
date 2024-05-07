@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ORIGIN",
+        "values": [
+            "GENESIS",
+            "GERM",
+            "SEED",
+            "SOURCE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIBLE BOOKS",
+        "values": [
+            "ACTS",
+            "JOB",
+            "KINGS",
+            "MARK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "N.H.L. TEAMS",
+        "values": [
+            "FLAMES",
+            "KRAKEN",
+            "STARS",
+            "WILD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "POWER ___",
+        "values": [
+            "NAP",
+            "PLANT",
+            "RANGER",
+            "TRIP"
+        ]
+    }
+]

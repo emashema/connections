@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SECTION",
+        "values": [
+            "CLASS",
+            "DIVISION",
+            "RANK",
+            "TIER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INCLUDING",
+        "values": [
+            "AND",
+            "ALSO",
+            "PLUS",
+            "WITH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DOG BREEDS, INFORMALLY",
+        "values": [
+            "BOSTON",
+            "GOLDEN",
+            "LAB",
+            "PIT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FAMOUS POEMS",
+        "values": [
+            "DADDY",
+            "HARLEM",
+            "HOWL",
+            "IF"
+        ]
+    }
+]

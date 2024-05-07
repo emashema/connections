@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ANIMAL GROUP NAMES",
+        "values": [
+            "COLONY",
+            "HERD",
+            "PRIDE",
+            "SWARM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "STONED",
+        "values": [
+            "BAKED",
+            "BLAZED",
+            "HIGH",
+            "LIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AP CLASSES",
+        "values": [
+            "BIO",
+            "CHEM",
+            "GOV",
+            "STATS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TAXONOMY RANKS",
+        "values": [
+            "CLASS",
+            "DOMAIN",
+            "FAMILY",
+            "ORDER"
+        ]
+    }
+]

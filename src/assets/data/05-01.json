@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FEATURES ON A PAIR OF JEANS",
+        "values": [
+            "BUTTON",
+            "FLY",
+            "POCKET",
+            "RIVET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+        "values": [
+            "LINE",
+            "PLANE",
+            "POINT",
+            "SOLID"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WEB BROWSER MENUS",
+        "values": [
+            "FILE",
+            "HISTORY",
+            "VIEW",
+            "WINDOW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MEMBER OF A \u201960S BAND",
+        "values": [
+            "ANIMAL",
+            "DOOR",
+            "KINK",
+            "SUPREME"
+        ]
+    }
+]

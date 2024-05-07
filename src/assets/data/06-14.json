@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FACIAL FEATURES",
+        "values": [
+            "CHEEK",
+            "EYE",
+            "MOUTH",
+            "NOSE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SYNONYMS FOR EAT",
+        "values": [
+            "CHOW",
+            "GOBBLE",
+            "SCARF",
+            "WOLF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DOG BREEDS, INFORMALLY",
+        "values": [
+            "LAB",
+            "PEKE",
+            "PIT",
+            "POM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MEMBERS OF A TRIO",
+        "values": [
+            "AMIGO",
+            "KING",
+            "STOOGE",
+            "TENOR"
+        ]
+    }
+]

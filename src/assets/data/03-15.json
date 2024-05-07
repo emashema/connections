@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CRITICIZE",
+        "values": [
+            "BLAST",
+            "KNOCK",
+            "SLAM",
+            "TRASH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cMY MISTAKE!\u201d",
+        "values": [
+            "APOLOGIES",
+            "OOPS",
+            "PARDON",
+            "SORRY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ALIBI",
+        "values": [
+            "DEFENSE",
+            "EXCUSE",
+            "OUT",
+            "REASON"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PLAY ___",
+        "values": [
+            "DATE",
+            "DEAD",
+            "DIRTY",
+            "DOH"
+        ]
+    }
+]

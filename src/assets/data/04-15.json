@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INVENT AS YOU GO",
+        "values": [
+            "AD-LIB",
+            "FREESTYLE",
+            "IMPROV",
+            "MAKE UP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "THINGS BABIES DO",
+        "values": [
+            "BABBLE",
+            "COO",
+            "CRAWL",
+            "NURSE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUPERFICIAL",
+        "values": [
+            "COSMETIC",
+            "EXTERNAL",
+            "SHALLOW",
+            "SURFACE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ EFFECT",
+        "values": [
+            "BUTTERFLY",
+            "DOMINO",
+            "PLACEBO",
+            "SIDE"
+        ]
+    }
+]

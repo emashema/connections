@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SYNONYMS FOR ANGRY",
+        "values": [
+            "FURIOUS",
+            "INCENSED",
+            "IRATE",
+            "LIVID"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "THINGS THAT ARE YELLOW",
+        "values": [
+            "BANANA",
+            "CANARY",
+            "SCHOOL BUS",
+            "SUNFLOWER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MARINE BIRDS",
+        "values": [
+            "BOOBY",
+            "GULL",
+            "PELICAN",
+            "PUFFIN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BOYS",
+        "values": [
+            "BEACH",
+            "BEASTIE",
+            "HARDY",
+            "LOST"
+        ]
+    }
+]

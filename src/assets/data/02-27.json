@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "'80S FASHION TRENDS",
+        "values": [
+            "HEADBAND",
+            "MULLET",
+            "NEON",
+            "SPANDEX"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GYMNASTICS POSITIONS",
+        "values": [
+            "PIKE",
+            "SPLIT",
+            "STRADDLE",
+            "TUCK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF CRACKERS",
+        "values": [
+            "ANIMAL",
+            "GOLDFISH",
+            "OYSTER",
+            "RITZ"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ LADDER",
+        "values": [
+            "CORPORATE",
+            "ROPE",
+            "SALMON",
+            "WORD"
+        ]
+    }
+]

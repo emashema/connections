@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TRUST AS REAL",
+        "values": [
+            "ACCEPT",
+            "BELIEVE",
+            "BUY",
+            "SWALLOW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "POWER ISSUES",
+        "values": [
+            "OUTAGE",
+            "SHORT",
+            "SPIKE",
+            "SURGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUMMARY",
+        "values": [
+            "ABSTRACT",
+            "BRIEF",
+            "DIGEST",
+            "OUTLINE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NAME HOMOPHONES",
+        "values": [
+            "CURT",
+            "HAIRY",
+            "KNEEL",
+            "WANE"
+        ]
+    }
+]

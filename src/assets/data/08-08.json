@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ARACHNIDS",
+        "values": [
+            "MITE",
+            "SCORPION",
+            "SPIDER",
+            "TICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FISH",
+        "values": [
+            "CHAR",
+            "EEL",
+            "PERCH",
+            "SHARK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUPERHEROES",
+        "values": [
+            "BLACK WIDOW",
+            "BLADE",
+            "FLASH",
+            "STORM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MTV SHOWS",
+        "values": [
+            "CATFISH",
+            "CRIBS",
+            "JACKASS",
+            "STATE"
+        ]
+    }
+]

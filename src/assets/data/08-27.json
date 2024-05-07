@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PIECES OF CHICKEN",
+        "values": [
+            "BREAST",
+            "DRUMSTICK",
+            "TENDER",
+            "WING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GOLF TERMS",
+        "values": [
+            "DRIVER",
+            "EAGLE",
+            "HOLE",
+            "STROKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DRUM SET COMPONENTS",
+        "values": [
+            "CYMBAL",
+            "KICK",
+            "SNARE",
+            "TOM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ASSOCIATED WITH \u201cCRAWL\u201d",
+        "values": [
+            "INFANT",
+            "PUB",
+            "SWIMMING",
+            "TICKER"
+        ]
+    }
+]

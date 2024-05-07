@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FARM TOOLS",
+        "values": [
+            "HOE",
+            "PLOW",
+            "RAKE",
+            "SICKLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SCHEME",
+        "values": [
+            "PLOT",
+            "PLOY",
+            "RUSE",
+            "TRICK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAKE HAPPY",
+        "values": [
+            "AMUSE",
+            "DELIGHT",
+            "PLEASE",
+            "TICKLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ONOMATOPOEIA",
+        "values": [
+            "BANG",
+            "PLOP",
+            "SPLASH",
+            "THUD"
+        ]
+    }
+]

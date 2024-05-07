@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PERFORMING ARTISTS",
+        "values": [
+            "ACTOR",
+            "DANCER",
+            "SINGER",
+            "STAND-UP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SANTA\u2019S REINDEER",
+        "values": [
+            "COMET",
+            "CUPID",
+            "DASHER",
+            "VIXEN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEEN ON VALENTINE\u2019S DAY",
+        "values": [
+            "CARD",
+            "CHOCOLATE",
+            "HEART",
+            "ROSE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cBAD ___\u201d MOVIES",
+        "values": [
+            "BOYS",
+            "LIEUTENANT",
+            "SANTA",
+            "TASTE"
+        ]
+    }
+]

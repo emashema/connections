@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HOW FAST SOMETHING IS GOING",
+        "values": [
+            "CLIP",
+            "PACE",
+            "RATE",
+            "SPEED"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\"STEP ON IT!\"",
+        "values": [
+            "FASTER",
+            "GO",
+            "HURRY",
+            "MOVE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "N.B.A. TEAM PLAYER",
+        "values": [
+            "CLIPPER",
+            "PACER",
+            "ROCKET",
+            "SPUR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TELE___",
+        "values": [
+            "COMMUTE",
+            "MEDICINE",
+            "PROMPTER",
+            "VISION"
+        ]
+    }
+]

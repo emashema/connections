@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MONTHLY BILLS",
+        "values": [
+            "CABLE",
+            "ELECTRIC",
+            "GAS",
+            "WATER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RELATED TO SOUND/HEARING",
+        "values": [
+            "ACOUSTIC",
+            "AUDITORY",
+            "HEARD",
+            "SONIC"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CONNECT",
+        "values": [
+            "COUPLE",
+            "HITCH",
+            "LINK",
+            "TIE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "EXCITE, WITH \u201cUP\u201d",
+        "values": [
+            "AMP",
+            "FIRE",
+            "HYPE",
+            "PUMP"
+        ]
+    }
+]

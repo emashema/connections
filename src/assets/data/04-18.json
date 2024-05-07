@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SIDEWALK SIGHTS",
+        "values": [
+            "CURB",
+            "GRATE",
+            "GUTTER",
+            "MANHOLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HAVE IN MIND",
+        "values": [
+            "AIM",
+            "INTEND",
+            "MEAN",
+            "PLAN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNIT ABBREVIATIONS",
+        "values": [
+            "CAL",
+            "GAL",
+            "IN",
+            "OZ"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GOLDEN ___",
+        "values": [
+            "FLEECE",
+            "GIRLS",
+            "PARACHUTE",
+            "RULE"
+        ]
+    }
+]

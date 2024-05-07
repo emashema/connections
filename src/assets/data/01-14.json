@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THINGS TO PAY",
+        "values": [
+            "BILL",
+            "CHECK",
+            "INVOICE",
+            "TAB"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "THIEVE",
+        "values": [
+            "PINCH",
+            "ROB",
+            "STEAL",
+            "SWIPE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MALE ANIMALS",
+        "values": [
+            "BUCK",
+            "BULL",
+            "JACK",
+            "TOM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LEGWEAR, IN THE SINGULAR",
+        "values": [
+            "JEAN",
+            "PANT",
+            "SHORT",
+            "TIGHT"
+        ]
+    }
+]

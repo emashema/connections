@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STRONG SMELL",
+        "values": [
+            "FUNK",
+            "MUSK",
+            "ODOR",
+            "TANG"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MOVE BACK AND FORTH",
+        "values": [
+            "ROCK",
+            "SWAY",
+            "SWING",
+            "WAVE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS TO PICK",
+        "values": [
+            "AFRO",
+            "BONE",
+            "FIGHT",
+            "LOCK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BALL",
+        "values": [
+            "CRYSTAL",
+            "DISCO",
+            "FOUL",
+            "GUTTER"
+        ]
+    }
+]

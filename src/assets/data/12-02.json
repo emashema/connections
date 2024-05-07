@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CONTAINERS",
+        "values": [
+            "BASKET",
+            "BIN",
+            "CHEST",
+            "HAMPER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CIRCULAR SHAPES",
+        "values": [
+            "BAND",
+            "CIRCLE",
+            "HOOP",
+            "RING"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RESTRICT",
+        "values": [
+            "CAP",
+            "CHECK",
+            "CURB",
+            "LIMIT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ JAM",
+        "values": [
+            "NBA",
+            "PAPER",
+            "PEARL",
+            "TRAFFIC"
+        ]
+    }
+]

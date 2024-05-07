@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INTRINSIC MOTIVATORS",
+        "values": [
+            "DESIRE",
+            "DRIVE",
+            "RESOLVE",
+            "WILL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SUMMER GEAR",
+        "values": [
+            "HAT",
+            "SHORTS",
+            "SUNGLASSES",
+            "TEE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COLLECTION",
+        "values": [
+            "ARRAY",
+            "BATTERY",
+            "SET",
+            "SERIES"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HORSE___",
+        "values": [
+            "FLY",
+            "POWER",
+            "RADISH",
+            "SHOE"
+        ]
+    }
+]

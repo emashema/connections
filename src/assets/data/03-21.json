@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CHAT, INFORMALLY",
+        "values": [
+            "GAB",
+            "JAW",
+            "YAK",
+            "YAP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FEMALE ANIMALS",
+        "values": [
+            "COW",
+            "DOE",
+            "EWE",
+            "HEN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PALINDROMES",
+        "values": [
+            "BIB",
+            "EYE",
+            "GAG",
+            "POP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTS OF PLANET NAMES",
+        "values": [
+            "EAR",
+            "MAR",
+            "MER",
+            "SAT"
+        ]
+    }
+]

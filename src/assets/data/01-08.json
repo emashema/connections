@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THINGS THAT ARE ORANGE",
+        "values": [
+            "BASKETBALL",
+            "CARROT",
+            "GOLDFISH",
+            "PUMPKIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LONG, SKINNY OBJECTS",
+        "values": [
+            "POLE",
+            "ROD",
+            "STAFF",
+            "STICK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEEN ON A GOLF COURSE",
+        "values": [
+            "CART",
+            "CLUB",
+            "HOLE",
+            "TEE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SHAPES OF CAPITAL GREEK LETTERS",
+        "values": [
+            "CIRCLE",
+            "HORSESHOE",
+            "PITCHFORK",
+            "TRIANGLE"
+        ]
+    }
+]

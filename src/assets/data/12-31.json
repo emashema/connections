@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ORGANIZATION",
+        "values": [
+            "CLUB",
+            "GROUP",
+            "PARTY",
+            "TEAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHARPNESS, AS OF AN IMAGE",
+        "values": [
+            "CLARITY",
+            "DEFINITION",
+            "DETAIL",
+            "RESOLUTION"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PLACES IN FRANCE",
+        "values": [
+            "CHAMPAGNE",
+            "DIJON",
+            "NICE",
+            "TOURS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HAPPY NEW YEAR!",
+        "values": [
+            "BALL",
+            "COUNTDOWN",
+            "FIREWORKS",
+            "KISS"
+        ]
+    }
+]

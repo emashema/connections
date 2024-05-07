@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MONOTONOUS SOUNDS",
+        "values": [
+            "BUZZ",
+            "DRONE",
+            "HUM",
+            "PURR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOATS",
+        "values": [
+            "BARGE",
+            "DORY",
+            "SCOW",
+            "SLOOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CAPTAINS",
+        "values": [
+            "AMERICA",
+            "HOOK",
+            "MORGAN",
+            "NEMO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PREFIXES WITH -CRACY",
+        "values": [
+            "AUTO",
+            "BUREAU",
+            "DEMO",
+            "PLUTO"
+        ]
+    }
+]

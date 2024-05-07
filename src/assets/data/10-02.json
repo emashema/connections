@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WAYS TO SHOW RESPECT",
+        "values": [
+            "BOW",
+            "KNEEL",
+            "SALUTE",
+            "STAND"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "IPHONE APPS",
+        "values": [
+            "CLOCK",
+            "MAIL",
+            "MAPS",
+            "NOTES"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ANIMAL COVERINGS",
+        "values": [
+            "DOWN",
+            "FUR",
+            "SCALES",
+            "SHELL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cPOINTERS\u201d",
+        "values": [
+            "ARROW",
+            "DOG",
+            "FINGER",
+            "HINT"
+        ]
+    }
+]

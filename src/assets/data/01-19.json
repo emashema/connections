@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SUNDAE TOPPINGS",
+        "values": [
+            "CHERRY",
+            "FUDGE",
+            "NUTS",
+            "SPRINKLES"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LEAVE HIGH AND DRY",
+        "values": [
+            "DESERT",
+            "DITCH",
+            "MAROON",
+            "STRAND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "\u201cPHOOEY!\u201d",
+        "values": [
+            "CURSES",
+            "DARN",
+            "RATS",
+            "SHOOT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS IN TONGUE TWISTERS",
+        "values": [
+            "FUZZY",
+            "PEPPERS",
+            "SEASHELLS",
+            "WOODCHUCK"
+        ]
+    }
+]

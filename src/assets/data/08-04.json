@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLACES FOR WORSHIP",
+        "values": [
+            "ALTAR",
+            "RELIQUARY",
+            "SHRINE",
+            "TEMPLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CARTOON CATS",
+        "values": [
+            "FELIX",
+            "GARFIELD",
+            "SYLVESTER",
+            "TOM"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PRESIDENTIAL FIRST NAMES",
+        "values": [
+            "CALVIN",
+            "CHESTER",
+            "GROVER",
+            "HARRY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ ROAD",
+        "values": [
+            "ABBEY",
+            "HIGH",
+            "ROCKY",
+            "SILK"
+        ]
+    }
+]

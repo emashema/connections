@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TOOLS",
+        "values": [
+            "FILE",
+            "HAMMER",
+            "LEVEL",
+            "SAW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PULL",
+        "values": [
+            "JERK",
+            "TUG",
+            "WRENCH",
+            "YANK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHORTCUT COMMANDS",
+        "values": [
+            "COPY",
+            "FIND",
+            "PRINT",
+            "SAVE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TITLE MOVIE ANIMALS",
+        "values": [
+            "BABE",
+            "BEETHOVEN",
+            "CHARLOTTE",
+            "WILLY"
+        ]
+    }
+]

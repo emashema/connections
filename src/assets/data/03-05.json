@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "POP MEGASTARS",
+        "values": [
+            "GRANDE",
+            "MARS",
+            "STYLES",
+            "SWIFT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "METHOD",
+        "values": [
+            "CHANNEL",
+            "MEANS",
+            "MEDIUM",
+            "VEHICLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNLIKELY, AS CHANCES",
+        "values": [
+            "OUTSIDE",
+            "REMOTE",
+            "SLIM",
+            "SMALL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LIVING ___",
+        "values": [
+            "LARGE",
+            "LEGEND",
+            "PROOF",
+            "ROOM"
+        ]
+    }
+]

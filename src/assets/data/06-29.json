@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MUSCLES, INFORMALLY",
+        "values": [
+            "LAT",
+            "PEC",
+            "QUAD",
+            "TRI"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AWARDS",
+        "values": [
+            "CUP",
+            "MEDAL",
+            "RIBBON",
+            "TROPHY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TITLE TV DOCTORS",
+        "values": [
+            "GREY",
+            "HOUSE",
+            "HOWSER",
+            "QUINN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NFL PLAYERS",
+        "values": [
+            "BEAR",
+            "BILL",
+            "BROWN",
+            "COMMANDER"
+        ]
+    }
+]

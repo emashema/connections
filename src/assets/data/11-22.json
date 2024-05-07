@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "AREAS BETWEEN MOUNTAINS AND HILLS",
+        "values": [
+            "CANYON",
+            "GULCH",
+            "PASS",
+            "RAVINE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EAT VORACIOUSLY",
+        "values": [
+            "GORGE",
+            "GULP",
+            "SCARF",
+            "WOLF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FEATURED IN \u201cSNOW WHITE\u201d",
+        "values": [
+            "APPLE",
+            "BASHFUL",
+            "MIRROR",
+            "QUEEN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cC\u201d + BIRD",
+        "values": [
+            "CHEN",
+            "CLARK",
+            "COWL",
+            "CRAVEN"
+        ]
+    }
+]

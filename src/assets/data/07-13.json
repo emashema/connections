@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHOE PARTS",
+        "values": [
+            "HEEL",
+            "LACE",
+            "SOLE",
+            "TONGUE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOARD GAMES",
+        "values": [
+            "CLUE",
+            "RISK",
+            "SORRY",
+            "TROUBLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FICTIONAL SPIES",
+        "values": [
+            "BOND",
+            "HUNT",
+            "RYAN",
+            "SMART"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "RUBBER ___",
+        "values": [
+            "BAND",
+            "CEMENT",
+            "DUCKIE",
+            "SOUL"
+        ]
+    }
+]

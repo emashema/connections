@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "\u201cSKEDADDLE!\u201d",
+        "values": [
+            "GET OUT",
+            "GO",
+            "LEAVE",
+            "SCRAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRONOUNS",
+        "values": [
+            "ME",
+            "THEM",
+            "US",
+            "YOU"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ANAGRAMS",
+        "values": [
+            "NOPE",
+            "OPEN",
+            "PEON",
+            "PONE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BABY",
+        "values": [
+            "BEANIE",
+            "FUR",
+            "NEPO",
+            "SANTA"
+        ]
+    }
+]

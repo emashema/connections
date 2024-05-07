@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ROAD NAMES",
+        "values": [
+            "ALLEY",
+            "DRIVE",
+            "LANE",
+            "STREET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PAPER IN A BOOK",
+        "values": [
+            "FOLIO",
+            "LEAF",
+            "PAGE",
+            "SHEET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RESTRAIN",
+        "values": [
+            "CHECK",
+            "CURB",
+            "LIMIT",
+            "STEM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS YOU CAN DO TO YOUR NOSE",
+        "values": [
+            "BLOW",
+            "HOLD",
+            "PICK",
+            "THUMB"
+        ]
+    }
+]

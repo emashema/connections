@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BALDERDASH",
+        "values": [
+            "BULL",
+            "HOGWASH",
+            "NONSENSE",
+            "ROT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HELM",
+        "values": [
+            "DIRECT",
+            "GUIDE",
+            "LEAD",
+            "STEER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SINGLE/PLURAL ANIMALS",
+        "values": [
+            "BUFFALO",
+            "DEER",
+            "FISH",
+            "MOOSE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GREAT ___",
+        "values": [
+            "DANE",
+            "LAKE",
+            "SEAL",
+            "WHITE"
+        ]
+    }
+]

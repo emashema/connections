@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EXERCISES",
+        "values": [
+            "BRIDGE",
+            "CRUNCH",
+            "DIP",
+            "SQUAT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FEATURED IN WESTERNS",
+        "values": [
+            "BOUNTY",
+            "COWBOY",
+            "DUEL",
+            "SALOON"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+        "values": [
+            "CARTER",
+            "GORE",
+            "KING",
+            "TUTU"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BEE",
+        "values": [
+            "BUSY",
+            "HONEY",
+            "QUEEN",
+            "SPELLING"
+        ]
+    }
+]

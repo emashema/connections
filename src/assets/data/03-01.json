@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GARLIC BREAD INGREDIENTS",
+        "values": [
+            "BREAD",
+            "BUTTER",
+            "GARLIC",
+            "PARSLEY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WAGER",
+        "values": [
+            "BET",
+            "GAMBLE",
+            "RISK",
+            "STAKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DISNEYLAND LANDS",
+        "values": [
+            "ADVENTURE",
+            "FANTASY",
+            "FRONTIER",
+            "TOMORROW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BAT",
+        "values": [
+            "BASEBALL",
+            "CRICKET",
+            "FRUIT",
+            "VAMPIRE"
+        ]
+    }
+]

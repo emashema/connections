@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "REFINED SENSIBILITY",
+        "values": [
+            "ELEGANCE",
+            "GRACE",
+            "STYLE",
+            "TASTE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CATCH SOME RAYS",
+        "values": [
+            "BAKE",
+            "BASK",
+            "SUN",
+            "TAN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EMOTIONALLY SWAY ",
+        "values": [
+            "AFFECT",
+            "IMPACT",
+            "MOVE",
+            "TOUCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NUMBERS WITH FIRST LETTERS REPLACED BY \u201cS\u201d",
+        "values": [
+            "SEN",
+            "SIGHT",
+            "SINE",
+            "SOUR"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RELIGIOUS FIGURES",
+        "values": [
+            "CARDINAL",
+            "LAMA",
+            "MONK",
+            "PASTOR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRIMATES",
+        "values": [
+            "BABOON",
+            "BONOBO",
+            "GIBBON",
+            "GORILLA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CHUTNEY VARIETIES",
+        "values": [
+            "MANGO",
+            "MINT",
+            "TAMARIND",
+            "TOMATO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "IMITATE",
+        "values": [
+            "APE",
+            "MIME",
+            "MIRROR",
+            "PARROT"
+        ]
+    }
+]

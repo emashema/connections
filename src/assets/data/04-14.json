@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PULL USING FORCE",
+        "values": [
+            "RIP",
+            "TEAR",
+            "WRENCH",
+            "YANK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIT OF REPETITIVE TRAINING",
+        "values": [
+            "DRILL",
+            "EXERCISE",
+            "PRACTICE",
+            "ROUTINE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "U.S.-BASED AIRLINES",
+        "values": [
+            "AMERICAN",
+            "FRONTIER",
+            "SPIRIT",
+            "UNITED"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BEGINNING WITH DAY ABBREVIATIONS",
+        "values": [
+            "FRIAR",
+            "MONKEY",
+            "SUNDRY",
+            "WEDDING"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BRIDAL ACCESSORIES",
+        "values": [
+            "BOUQUET",
+            "RING",
+            "TRAIN",
+            "VEIL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cC\u201d WORDS FOR \u201cENVELOP\u201d",
+        "values": [
+            "CAKE",
+            "COAT",
+            "COVER",
+            "CRUST"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "JACKS",
+        "values": [
+            "BLACK",
+            "FROST",
+            "MA",
+            "SPARROW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SOCIAL MEDIA APP ENDINGS",
+        "values": [
+            "BOOK",
+            "GRAM",
+            "IN",
+            "TUBE"
+        ]
+    }
+]

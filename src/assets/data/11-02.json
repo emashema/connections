@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "IGNITE",
+        "values": [
+            "BURN",
+            "KINDLE",
+            "LIGHT",
+            "TORCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INFORMATION",
+        "values": [
+            "DATA",
+            "INFO",
+            "INTEL",
+            "NEWS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SMALL WOODED AREA",
+        "values": [
+            "DELL",
+            "GLEN",
+            "HOLLOW",
+            "VALLEY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH CORES",
+        "values": [
+            "APPLE",
+            "COMPUTER",
+            "PLANET",
+            "REACTOR"
+        ]
+    }
+]

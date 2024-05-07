@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CRITICIZE",
+        "values": [
+            "KNOCK",
+            "PAN",
+            "ROAST",
+            "SLAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "REALITY SHOWS",
+        "values": [
+            "ALONE",
+            "CATFISH",
+            "CHOPPED",
+            "SURVIVOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CAR BRANDS",
+        "values": [
+            "FIAT",
+            "JAGUAR",
+            "MINI",
+            "RAM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ PAD",
+        "values": [
+            "BACHELOR",
+            "LILY",
+            "MAXI",
+            "MOUSE"
+        ]
+    }
+]

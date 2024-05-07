@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ENJOY",
+        "values": [
+            "FANCY",
+            "LOVE",
+            "RELISH",
+            "SAVOR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FILLER WORDS",
+        "values": [
+            "LIKE",
+            "LITERALLY",
+            "UM",
+            "WELL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COMPONENTS OF A LOCK",
+        "values": [
+            "CYLINDER",
+            "PIN",
+            "SPRING",
+            "TUMBLER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HOMOPHONES OF UNITS OF MEASURE",
+        "values": [
+            "CARROT",
+            "HURTS",
+            "JEWEL",
+            "OM"
+        ]
+    }
+]

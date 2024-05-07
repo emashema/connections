@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THEORETICAL PHYSICISTS",
+        "values": [
+            "EINSTEIN",
+            "FEYNMAN",
+            "HAWKING",
+            "OPPENHEIMER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TALENT",
+        "values": [
+            "FACULTY",
+            "FLAIR",
+            "GENIUS",
+            "GIFT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AUSTRALIAN TERMS",
+        "values": [
+            "BARBIE",
+            "BUSH",
+            "CRIKEY",
+            "MATE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ POINT",
+        "values": [
+            "MATCH",
+            "MOOT",
+            "SELLING",
+            "WEST"
+        ]
+    }
+]

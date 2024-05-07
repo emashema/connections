@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DO SOME MARKETING FOR",
+        "values": [
+            "PITCH",
+            "PLUG",
+            "PROMOTE",
+            "PUSH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ROMANTIC TWOSOME",
+        "values": [
+            "COUPLE",
+            "ITEM",
+            "PAIR",
+            "THING"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TENNIS SCORING TERMS",
+        "values": [
+            "AD",
+            "ALL",
+            "DEUCE",
+            "LOVE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS WITH \u201cFRUIT\u201d",
+        "values": [
+            "BREAD",
+            "DRAGON",
+            "JACK",
+            "PASSION"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "OSTENTATIOUS, AS AN OUTFIT",
+        "values": [
+            "BRIGHT",
+            "FLASHY",
+            "GARISH",
+            "LOUD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EUPHEMISMS FOR FLATULENCE",
+        "values": [
+            "GAS",
+            "STINKER",
+            "TOOT",
+            "WIND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF BLOND",
+        "values": [
+            "DIRTY",
+            "HONEY",
+            "PLATINUM",
+            "STRAWBERRY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cO\u201d MIGHT MEAN",
+        "values": [
+            "HUG",
+            "OF",
+            "OXYGEN",
+            "ZERO"
+        ]
+    }
+]

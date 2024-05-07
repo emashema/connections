@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "AU NATUREL",
+        "values": [
+            "BARE",
+            "NAKED",
+            "NUDE",
+            "UNCLAD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BAKED GOODS",
+        "values": [
+            "BUN",
+            "DANISH",
+            "MUFFIN",
+            "TURNOVER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AMERICAN FOOTBALL ACTIONS",
+        "values": [
+            "FUMBLE",
+            "PUNT",
+            "SACK",
+            "SNAP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MANICURE STEPS",
+        "values": [
+            "BUFF",
+            "CLIP",
+            "FILE",
+            "POLISH"
+        ]
+    }
+]

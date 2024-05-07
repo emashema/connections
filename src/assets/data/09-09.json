@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BASEBALL CALLS",
+        "values": [
+            "BALL",
+            "OUT",
+            "SAFE",
+            "STRIKE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HEAT SOURCES",
+        "values": [
+            "FORGE",
+            "FURNACE",
+            "KILN",
+            "OVEN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FISH THAT ARE VERBS",
+        "values": [
+            "CARP",
+            "CATFISH",
+            "FLOUNDER",
+            "SMELT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SILENT \u201cL\u201d",
+        "values": [
+            "COLONEL",
+            "SALMON",
+            "WALK",
+            "YOLK"
+        ]
+    }
+]

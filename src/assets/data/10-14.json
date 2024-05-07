@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BUTT",
+        "values": [
+            "BOTTOM",
+            "BUNS",
+            "SEAT",
+            "TAIL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ROTARY PHONE PARTS",
+        "values": [
+            "CORD",
+            "CRADLE",
+            "DIAL",
+            "HANDSET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLANG FOR HOME",
+        "values": [
+            "CRIB",
+            "DIGS",
+            "JOINT",
+            "PAD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PLUNDER",
+        "values": [
+            "BOOTY",
+            "LOOT",
+            "SPOILS",
+            "SWAG"
+        ]
+    }
+]

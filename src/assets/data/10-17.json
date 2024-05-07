@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TAUNTS",
+        "values": [
+            "BOO",
+            "HISS",
+            "JEER",
+            "RASPBERRY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FAILURE",
+        "values": [
+            "BOMB",
+            "DUD",
+            "FLOP",
+            "LEMON"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RUDELY BREAK OFF CONTACT",
+        "values": [
+            "DESERT",
+            "GHOST",
+            "IGNORE",
+            "JILT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ROCK ___",
+        "values": [
+            "BOTTOM",
+            "CANDY",
+            "GARDEN",
+            "STAR"
+        ]
+    }
+]

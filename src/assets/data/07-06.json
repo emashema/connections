@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DESSERTS",
+        "values": [
+            "CHEESECAKE",
+            "FLAN",
+            "MOUSSE",
+            "TIRAMISU"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MILD OATHS",
+        "values": [
+            "DARN",
+            "FUDGE",
+            "HECK",
+            "SHOOT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ANIMALS WITH TUSKS",
+        "values": [
+            "ELEPHANT",
+            "HIPPO",
+            "NARWHAL",
+            "WARTHOG"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MUSTACHES",
+        "values": [
+            "HANDLEBAR",
+            "HORSESHOE",
+            "PENCIL",
+            "WALRUS"
+        ]
+    }
+]

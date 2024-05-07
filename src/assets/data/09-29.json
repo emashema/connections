@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "VERY IMPORTANT",
+        "values": [
+            "CENTRAL",
+            "CRITICAL",
+            "KEY",
+            "VITAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RECYCLING CATEGORIES",
+        "values": [
+            "GLASS",
+            "METAL",
+            "PAPER",
+            "PLASTIC"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HUDSONS",
+        "values": [
+            "HENRY",
+            "JENNIFER",
+            "KATE",
+            "ROCK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cBEAT\u201d MAY MEAN",
+        "values": [
+            "ASSIGNMENT",
+            "DEFEAT",
+            "TEMPO",
+            "TIRED"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SMARTPHONE FEATURES BEGINNING WITH \u201cC\u201d",
+        "values": [
+            "CALCULATOR",
+            "CALENDAR",
+            "CAMERA",
+            "CLOCK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PARTS OF THE EYE",
+        "values": [
+            "CONE",
+            "IRIS",
+            "LENS",
+            "PUPIL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FAMILIAL NICKNAMES",
+        "values": [
+            "DADA",
+            "GRAMMY",
+            "MUM",
+            "POPPY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS",
+        "values": [
+            "EXPOSE",
+            "PATE",
+            "RESUME",
+            "ROSE"
+        ]
+    }
+]

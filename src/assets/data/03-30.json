@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BREATHES HEAVILY",
+        "values": [
+            "GASPS",
+            "HUFFS",
+            "PANTS",
+            "PUFFS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRESERVES, AS MEAT",
+        "values": [
+            "CANS",
+            "CURES",
+            "SALTS",
+            "SMOKES"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PREDICAMENTS",
+        "values": [
+            "BINDS",
+            "JAMS",
+            "PICKLES",
+            "SPOTS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS IN \u201cMY FAVORITE THINGS\u201d",
+        "values": [
+            "KETTLES",
+            "MITTENS",
+            "RAINDROPS",
+            "WHISKERS"
+        ]
+    }
+]

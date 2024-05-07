@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATES OF MATTER",
+        "values": [
+            "GAS",
+            "LIQUID",
+            "PLASMA",
+            "SOLID"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ALL-TIMER",
+        "values": [
+            "GREAT",
+            "HERO",
+            "ICON",
+            "LEGEND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "\u201cPH\u201d WORDS THAT ALSO WORK WITH \u201cF\u201d",
+        "values": [
+            "PHAT",
+            "PHEW",
+            "PHILLY",
+            "PHISH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ PITCH",
+        "values": [
+            "ELEVATOR",
+            "FEVER",
+            "PERFECT",
+            "SALES"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOARD GAMES",
+        "values": [
+            "RISK",
+            "SORRY",
+            "TABOO",
+            "TROUBLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NEWSPAPER SECTIONS",
+        "values": [
+            "BUSINESS",
+            "NATIONAL",
+            "OPINION",
+            "STYLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FIGURES IN GREEK MYTH",
+        "values": [
+            "ATLAS",
+            "HERMES",
+            "NIKE",
+            "PARIS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FIRST WORDS IN RAPPERS\u2019 NAMES",
+        "values": [
+            "FOXY",
+            "GUCCI",
+            "KILLER",
+            "NOTORIOUS"
+        ]
+    }
+]

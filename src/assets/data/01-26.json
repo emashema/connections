@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BASEBALL EQUIPMENT",
+        "values": [
+            "BALL",
+            "BASE",
+            "BAT",
+            "GLOVE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HARD HIT",
+        "values": [
+            "BLOW",
+            "LICK",
+            "SOCK",
+            "STRIKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ORIGINAL MONOPOLY TOKENS",
+        "values": [
+            "BOOT",
+            "IRON",
+            "THIMBLE",
+            "TOP HAT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BUNNY",
+        "values": [
+            "BAD",
+            "BUGS",
+            "DUST",
+            "HONEY"
+        ]
+    }
+]

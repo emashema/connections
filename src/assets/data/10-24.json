@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ANIMAL GROUPS",
+        "values": [
+            "COLONY",
+            "HERD",
+            "PRIDE",
+            "SCHOOL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SMALL OPENING",
+        "values": [
+            "CRANNY",
+            "NICHE",
+            "NOOK",
+            "RECESS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARADIGMATIC",
+        "values": [
+            "CLASSIC",
+            "DEFINITIVE",
+            "MODEL",
+            "TEXTBOOK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "RHYMING COMPOUND WORDS",
+        "values": [
+            "BACKPACK",
+            "BIGWIG",
+            "DOWNTOWN",
+            "RAGTAG"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PARTY POOPER",
+        "values": [
+            "BORE",
+            "DRAG",
+            "DRIP",
+            "DUD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSICAL SECTIONS",
+        "values": [
+            "BRASS",
+            "RHYTHM",
+            "STRING",
+            "WIND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BIT OF LIQUID",
+        "values": [
+            "BEAD",
+            "DROP",
+            "GLOB",
+            "TEAR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "VEGETABLE HOMOPHONES",
+        "values": [
+            "BEAT",
+            "CHARRED",
+            "LEAK",
+            "PEE"
+        ]
+    }
+]

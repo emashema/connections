@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TIME OFF",
+        "values": [
+            "BREAK",
+            "HOLIDAY",
+            "LEAVE",
+            "RECESS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FEATURES OF A BELT",
+        "values": [
+            "BUCKLE",
+            "HOLE",
+            "LOOP",
+            "STRAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HOMOPHONES",
+        "values": [
+            "HOLEY",
+            "HOLI",
+            "HOLY",
+            "WHOLLY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___WOOD",
+        "values": [
+            "DOG",
+            "DRIFT",
+            "HOLLY",
+            "SANDAL"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MURKY CONDITION",
+        "values": [
+            "CLOUD",
+            "FOG",
+            "HAZE",
+            "MIST"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FOLLOW",
+        "values": [
+            "SHADOW",
+            "TAIL",
+            "TRACK",
+            "TRAIL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PINBALL MACHINE COMPONENTS",
+        "values": [
+            "BALL",
+            "BUMPER",
+            "FLIPPER",
+            "PLUNGER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___LAND",
+        "values": [
+            "FIN",
+            "GREEN",
+            "ICE",
+            "IRE"
+        ]
+    }
+]

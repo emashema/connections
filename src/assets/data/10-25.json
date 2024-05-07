@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GRAMMAR TENSE TERMS",
+        "values": [
+            "FUTURE",
+            "PAST",
+            "PERFECT",
+            "PRESENT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cGRACIOUS ME!\u201d",
+        "values": [
+            "GOODNESS",
+            "HEAVENS",
+            "LORD",
+            "MERCY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "12 DAYS OF CHRISTMAS",
+        "values": [
+            "DRUMMER",
+            "LADY",
+            "RING",
+            "SWAN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ SYRUP",
+        "values": [
+            "CORN",
+            "COUGH",
+            "MAPLE",
+            "SIMPLE"
+        ]
+    }
+]

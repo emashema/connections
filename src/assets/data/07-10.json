@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WINGED INSECTS",
+        "values": [
+            "FLY",
+            "GNAT",
+            "MOTH",
+            "WASP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ARITHMETIC OPERATIONS",
+        "values": [
+            "ADD",
+            "DIVIDE",
+            "MULTIPLY",
+            "SUBTRACT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FISH",
+        "values": [
+            "TANG",
+            "TETRA",
+            "SKATE",
+            "SOLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CAT",
+        "values": [
+            "ALLEY",
+            "COOL",
+            "COPY",
+            "LAP"
+        ]
+    }
+]

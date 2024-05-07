@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MEANS OF TRANSPORTATION",
+        "values": [
+            "BOAT",
+            "CAR",
+            "PLANE",
+            "TRAIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WILLING TO PARTICIPATE",
+        "values": [
+            "DOWN",
+            "GAME",
+            "IN",
+            "ON BOARD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "LITTLE BIT, IN A RECIPE",
+        "values": [
+            "DASH",
+            "DROP",
+            "PINCH",
+            "SPLASH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___BERRY ",
+        "values": [
+            "BLUE",
+            "GOOSE",
+            "RASP",
+            "STRAW"
+        ]
+    }
+]

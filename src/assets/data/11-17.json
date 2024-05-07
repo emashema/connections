@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BODYWEIGHT EXERCISES",
+        "values": [
+            "DIPS",
+            "LUNGES",
+            "PLANKS",
+            "SQUATS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EMAIL SIGN-OFFS",
+        "values": [
+            "BEST",
+            "CHEERS",
+            "REGARDS",
+            "THANKS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "M.L.B. TEAMS, FOR SHORT",
+        "values": [
+            "CARDS",
+            "JAYS",
+            "NATS",
+            "YANKS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ELIZABETHS (AND ONE ELISABETH)",
+        "values": [
+            "BANKS",
+            "MOSS",
+            "TAYLOR",
+            "WARREN"
+        ]
+    }
+]

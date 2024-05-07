@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ATTACH WITH ADHESIVE",
+        "values": [
+            "ADHERE",
+            "GLUE",
+            "PASTE",
+            "STICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PUBLISHED LINES",
+        "values": [
+            "COPY",
+            "TEXT",
+            "WORDS",
+            "WRITING"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DIAMOND QUALITIES",
+        "values": [
+            "CARAT",
+            "CLARITY",
+            "COLOR",
+            "CUT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "A-___",
+        "values": [
+            "LIST",
+            "OK",
+            "PLUS",
+            "ROD"
+        ]
+    }
+]

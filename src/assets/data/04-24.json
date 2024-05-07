@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TACO TOPPINGS",
+        "values": [
+            "CILANTRO",
+            "LIME",
+            "ONION",
+            "SALSA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "METRIC PREFIXES",
+        "values": [
+            "KILO",
+            "MEGA",
+            "MICRO",
+            "PICO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF SKIRTS",
+        "values": [
+            "MINI",
+            "PENCIL",
+            "POODLE",
+            "WRAP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS WITH \u201cHILL\u201d",
+        "values": [
+            "CAPITOL",
+            "FAITH",
+            "FOOT",
+            "MOLE"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEGMENT OF A PROCESS",
+        "values": [
+            "CYCLE",
+            "PHASE",
+            "ROUND",
+            "STAGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CONSTELLATIONS",
+        "values": [
+            "CYGNUS",
+            "GEMINI",
+            "ORION",
+            "PEGASUS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SPIRALS IN NATURE",
+        "values": [
+            "CYCLONE",
+            "GALAXY",
+            "SNAIL",
+            "SUNFLOWER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ASSOCIATED WITH \u201cONE\u201d",
+        "values": [
+            "CYCLOPS",
+            "MONOLOGUE",
+            "SOLITAIRE",
+            "UNICYCLE"
+        ]
+    }
+]

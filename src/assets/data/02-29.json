@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PROPEL INTO THE AIR",
+        "values": [
+            "HOP",
+            "JUMP",
+            "LEAP",
+            "SPRING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PLACE TO STORE VALUABLES",
+        "values": [
+            "CHEST",
+            "COFFER",
+            "SAFE",
+            "VAULT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PERIOD",
+        "values": [
+            "AGE",
+            "DAY",
+            "ERA",
+            "TIME"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ANIMALS BACKWARD",
+        "values": [
+            "DRIB",
+            "FLOW",
+            "REED",
+            "TANG"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SYMBOLIC RODS",
+        "values": [
+            "BATON",
+            "SCEPTER",
+            "STAFF",
+            "WAND"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DENTAL TERMS",
+        "values": [
+            "CAVITY",
+            "CROWN",
+            "FILLING",
+            "PLAQUE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RUBBER STAMP WORDS",
+        "values": [
+            "APPROVED",
+            "PAID",
+            "URGENT",
+            "VOID"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ YEAR",
+        "values": [
+            "GAP",
+            "LEAP",
+            "LIGHT",
+            "SCHOOL"
+        ]
+    }
+]

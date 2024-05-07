@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HORROR FRANCHISES",
+        "values": [
+            "PURGE",
+            "RING",
+            "SAW",
+            "SCREAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SPORTS VENUES",
+        "values": [
+            "COURT",
+            "DIAMOND",
+            "FIELD",
+            "RINK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAKE HAPPY",
+        "values": [
+            "CHARM",
+            "DELIGHT",
+            "PLEASE",
+            "TICKLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "JEWELRY",
+        "values": [
+            "ANKLET",
+            "BANGLE",
+            "BROOCH",
+            "PENDANT"
+        ]
+    }
+]

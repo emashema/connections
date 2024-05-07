@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "REPLACEMENT",
+        "values": [
+            "BACKUP",
+            "COPY",
+            "EXTRA",
+            "SPARE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BOWLING",
+        "values": [
+            "ALLEY",
+            "BALL",
+            "LANE",
+            "PIN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COMMON SWAG ITEMS",
+        "values": [
+            "MUG",
+            "PEN",
+            "TEE",
+            "TOTE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NUMBER HOMOPHONES",
+        "values": [
+            "ATE",
+            "FOR",
+            "TOO",
+            "WON"
+        ]
+    }
+]

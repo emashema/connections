@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DOG SOUNDS",
+        "values": [
+            "BARK",
+            "GROWL",
+            "HOWL",
+            "WHINE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DEPARTMENT",
+        "values": [
+            "ARM",
+            "BRANCH",
+            "CHAPTER",
+            "WING"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ORIGIN",
+        "values": [
+            "CRADLE",
+            "FONT",
+            "ROOT",
+            "SOURCE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COLORS WITH THEIR FIRST LETTERS CHANGED",
+        "values": [
+            "CLUE",
+            "FROWN",
+            "MELLOW",
+            "PREEN"
+        ]
+    }
+]

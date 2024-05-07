@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOX OFFICE VICTORY",
+        "values": [
+            "HIT",
+            "SMASH",
+            "SUCCESS",
+            "WINNER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "VOLLEYBALL MOVES",
+        "values": [
+            "BUMP",
+            "SERVE",
+            "SET",
+            "SPIKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HOMOPHONES OF GREEK LETTERS",
+        "values": [
+            "MOO",
+            "NEW",
+            "PIE",
+            "ROW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___-O",
+        "values": [
+            "DADDY",
+            "DAY",
+            "JACKIE",
+            "JELL"
+        ]
+    }
+]

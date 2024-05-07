@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOARD GAMES",
+        "values": [
+            "BACKGAMMON",
+            "CHECKERS",
+            "CHESS",
+            "GO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MATTRESS SIZES",
+        "values": [
+            "FULL",
+            "KING",
+            "QUEEN",
+            "TWIN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS THAT ARE RED",
+        "values": [
+            "CHERRY",
+            "FIRE TRUCK",
+            "RUBY",
+            "STOP SIGN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH KEYS",
+        "values": [
+            "CRYPTOGRAPHY",
+            "FLORIDA",
+            "LOCKSMITH",
+            "PIANO"
+        ]
+    }
+]

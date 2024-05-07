@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THROW OUT",
+        "values": [
+            "BOOT",
+            "BOUNCE",
+            "EJECT",
+            "TOSS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TERRA FIRMA",
+        "values": [
+            "EARTH",
+            "GROUND",
+            "LAND",
+            "SOIL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEAS",
+        "values": [
+            "BALTIC",
+            "BLACK",
+            "PHILIPPINE",
+            "RED"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TOM HANKS MOVIES",
+        "values": [
+            "BIG",
+            "PHILADELPHIA",
+            "SPLASH",
+            "SULLY"
+        ]
+    }
+]

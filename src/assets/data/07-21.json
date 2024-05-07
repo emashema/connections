@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "WOODWINDS",
+        "values": [
+            "BASSOON",
+            "CLARINET",
+            "FLUTE",
+            "OBOE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COVERINGS",
+        "values": [
+            "CAP",
+            "COVER",
+            "LID",
+            "TOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUNGLASSES",
+        "values": [
+            "AVIATOR",
+            "CAT EYE",
+            "WAYFARER",
+            "WRAPAROUND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SEALS",
+        "values": [
+            "HARBOR",
+            "HARP",
+            "HOODED",
+            "MONK"
+        ]
+    }
+]

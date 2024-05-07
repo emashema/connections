@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BASIC TASTES",
+        "values": [
+            "BITTER",
+            "SALTY",
+            "SOUR",
+            "SWEET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "STAND UP TO, AS A CHALLENGE",
+        "values": [
+            "BRAVE",
+            "CONFRONT",
+            "FACE",
+            "MEET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ILK",
+        "values": [
+            "KIND",
+            "SORT",
+            "TYPE",
+            "VARIETY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ART MOVEMENTS, WITH -ISM",
+        "values": [
+            "EXPRESSION",
+            "MANNER",
+            "ROMANTIC",
+            "SURREAL"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BIT OF MAGIC",
+        "values": [
+            "CHARM",
+            "CURSE",
+            "HEX",
+            "SPELL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FOUND AROUND A FIREPLACE",
+        "values": [
+            "FLUE",
+            "GRATE",
+            "LOG",
+            "POKER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS SEEN AT A CASINO",
+        "values": [
+            "CARDS",
+            "CHIPS",
+            "DICE",
+            "SLOTS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WAYS TO PREPARE CHEESE",
+        "values": [
+            "CRUMBLE",
+            "MELT",
+            "SHRED",
+            "SLICE"
+        ]
+    }
+]

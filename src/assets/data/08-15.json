@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATES OF MATTER",
+        "values": [
+            "GAS",
+            "LIQUID",
+            "PLASMA",
+            "SOLID"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ENERGY",
+        "values": [
+            "JUICE",
+            "SPIRIT",
+            "STEAM",
+            "VIGOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CLASSICAL ELEMENTS",
+        "values": [
+            "AIR",
+            "EARTH",
+            "FIRE",
+            "WATER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH RINGS",
+        "values": [
+            "CIRCUS",
+            "SATURN",
+            "TREE",
+            "WEDDING"
+        ]
+    }
+]

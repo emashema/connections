@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HIT HARD",
+        "values": [
+            "BANG",
+            "HAMMER",
+            "POUND",
+            "SLAM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NEWSPAPER NAMES",
+        "values": [
+            "CHRONICLE",
+            "HERALD",
+            "REGISTER",
+            "SUN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CRESCENT-SHAPED THINGS",
+        "values": [
+            "BANANA",
+            "CROISSANT",
+            "MOON",
+            "SICKLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "POWER-UPS IN SUPER MARIO WORLD",
+        "values": [
+            "FEATHER",
+            "FLOWER",
+            "MUSHROOM",
+            "STAR"
+        ]
+    }
+]

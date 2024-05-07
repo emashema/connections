@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOATS",
+        "values": [
+            "FERRY",
+            "JUNK",
+            "TUG",
+            "YACHT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SANDWICHES",
+        "values": [
+            "CLUB",
+            "CUBAN",
+            "MELT",
+            "SUB"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CUTS OF BEEF",
+        "values": [
+            "FLANK",
+            "LOIN",
+            "ROUND",
+            "SHANK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NICKNAMES THAT ARE VERBS",
+        "values": [
+            "CHUCK",
+            "JOSH",
+            "ROB",
+            "SUE"
+        ]
+    }
+]

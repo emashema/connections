@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TREES",
+        "values": [
+            "ASH",
+            "CEDAR",
+            "MAPLE",
+            "PINE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LAND FORMATIONS",
+        "values": [
+            "HILL",
+            "MOUNTAIN",
+            "PLATEAU",
+            "VALLEY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BAGEL FLAVORS",
+        "values": [
+            "EVERYTHING",
+            "ONION",
+            "PLAIN",
+            "POPPY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STREETS ON SCREEN",
+        "values": [
+            "ELM",
+            "FEAR",
+            "JUMP",
+            "SESAME"
+        ]
+    }
+]

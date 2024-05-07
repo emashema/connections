@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BREADTH",
+        "values": [
+            "EXTENT",
+            "RANGE",
+            "REACH",
+            "SCOPE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HAIR TOOLS",
+        "values": [
+            "BRUSH",
+            "COMB",
+            "DRYER",
+            "IRON"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HERALDRY TERMS",
+        "values": [
+            "ARMS",
+            "COAT",
+            "CREST",
+            "SHIELD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS BEFORE \u201cDRUM\u201d",
+        "values": [
+            "EAR",
+            "KETTLE",
+            "OIL",
+            "STEEL"
+        ]
+    }
+]

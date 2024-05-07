@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DIVISION",
+        "values": [
+            "ARM",
+            "BRANCH",
+            "CHAPTER",
+            "WING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "IMPERIAL UNITS",
+        "values": [
+            "BUSHEL",
+            "PECK",
+            "STONE",
+            "TON"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "M.L.B. TEAM MEMBER",
+        "values": [
+            "ANGEL",
+            "CUB",
+            "MET",
+            "RED"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "INSECT HOMOPHONES",
+        "values": [
+            "AUNT",
+            "BEATLE",
+            "FLEE",
+            "NAT"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MUNICIPALITIES",
+        "values": [
+            "CITY",
+            "COUNTY",
+            "TOWN",
+            "VILLAGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BLENDER BUTTONS",
+        "values": [
+            "CHOP",
+            "GRIND",
+            "PULSE",
+            "PUREE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FINANCIAL TERMS",
+        "values": [
+            "CAPITAL",
+            "EQUITY",
+            "INTEREST",
+            "STOCK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ LEAGUE",
+        "values": [
+            "IVY",
+            "JUSTICE",
+            "LITTLE",
+            "PREMIER"
+        ]
+    }
+]

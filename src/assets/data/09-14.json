@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EYE PARTS",
+        "values": [
+            "IRIS",
+            "LENS",
+            "PUPIL",
+            "RETINA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COUNTERFEIT",
+        "values": [
+            "BOGUS",
+            "FAKE",
+            "PHONY",
+            "SHAM"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RADIO LINGO",
+        "values": [
+            "COPY",
+            "OUT",
+            "OVER",
+            "ROGER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SONGS THAT ARE NAMES",
+        "values": [
+            "ALEJANDRO",
+            "LOLA",
+            "MICHELLE",
+            "STAN"
+        ]
+    }
+]

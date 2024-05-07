@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INCREASE",
+        "values": [
+            "BUILD",
+            "GROW",
+            "SWELL",
+            "MOUNT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EXCELLENT, IN OLD SLANG",
+        "values": [
+            "ACES",
+            "KEEN",
+            "NEATO",
+            "NIFTY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FINE BUBBLES",
+        "values": [
+            "FOAM",
+            "FROTH",
+            "HEAD",
+            "LATHER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SPHERICAL THINGS",
+        "values": [
+            "BUBBLE",
+            "GLOBE",
+            "MARBLE",
+            "PEARL"
+        ]
+    }
+]

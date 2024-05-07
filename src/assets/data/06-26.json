@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BIRD SOUNDS",
+        "values": [
+            "CAW",
+            "CHIRP",
+            "CLUCK",
+            "TWEET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COLORS",
+        "values": [
+            "BROWN",
+            "PINK",
+            "TURQUOISE",
+            "VIOLET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FISHING GEAR",
+        "values": [
+            "LURE",
+            "REEL",
+            "ROD",
+            "TACKLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FICTIONAL PIRATES",
+        "values": [
+            "HOOK",
+            "JONES",
+            "SILVER",
+            "SPARROW"
+        ]
+    }
+]

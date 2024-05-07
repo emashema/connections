@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ANIMAL HOMES",
+        "values": [
+            "DEN",
+            "HIVE",
+            "LAIR",
+            "NEST"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "VIRTUAL SPACES",
+        "values": [
+            "CLOUD",
+            "METAVERSE",
+            "NET",
+            "WEB"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EQUITABLE",
+        "values": [
+            "EQUAL",
+            "EVEN",
+            "FAIR",
+            "JUST"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BURGER",
+        "values": [
+            "GOOD",
+            "IMPOSSIBLE",
+            "NOTHING",
+            "WARREN"
+        ]
+    }
+]

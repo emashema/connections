@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DECEIVE",
+        "values": [
+            "CON",
+            "DUPE",
+            "FOOL",
+            "TRICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INSIDE INFO",
+        "values": [
+            "DOPE",
+            "SCOOP",
+            "SKINNY",
+            "WORD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TILT TO ONE SIDE",
+        "values": [
+            "CANT",
+            "LEAN",
+            "LIST",
+            "SLOPE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR",
+        "values": [
+            "BOOB",
+            "EGGSHELL",
+            "GIGGLE",
+            "HELLO"
+        ]
+    }
+]

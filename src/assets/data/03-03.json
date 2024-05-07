@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LARGE AMOUNT",
+        "values": [
+            "MASS",
+            "SEA",
+            "SLEW",
+            "TON"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FALL IN UNDER PRESSURE",
+        "values": [
+            "BUCKLE",
+            "CAVE",
+            "COLLAPSE",
+            "GIVE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WAYS TO GET ATTENTION",
+        "values": [
+            "SHOUT",
+            "SNAP",
+            "WAVE",
+            "WHISTLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BELLY ___",
+        "values": [
+            "BUTTON",
+            "DANCE",
+            "FLOP",
+            "LAUGH"
+        ]
+    }
+]

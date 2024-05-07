@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LAB EQUIPMENT",
+        "values": [
+            "BEAKER",
+            "DROPPER",
+            "GOGGLES",
+            "MICROSCOPE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NEXUS",
+        "values": [
+            "CENTER",
+            "HEART",
+            "HUB",
+            "NUCLEUS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SPREADSHEET TERMS",
+        "values": [
+            "CELL",
+            "FORMULA",
+            "SHEET",
+            "SORT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ LANGUAGE",
+        "values": [
+            "BODY",
+            "LOVE",
+            "ROMANCE",
+            "SIGN"
+        ]
+    }
+]

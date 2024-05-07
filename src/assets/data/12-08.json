@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DECLINE",
+        "values": [
+            "EBB",
+            "FADE",
+            "FLAG",
+            "WANE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ABSOLUTE",
+        "values": [
+            "PURE",
+            "SHEER",
+            "TOTAL",
+            "UTTER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EXPRESS",
+        "values": [
+            "AIR",
+            "SPEAK",
+            "STATE",
+            "VOICE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SUPERHERO LAST NAMES",
+        "values": [
+            "BANNER",
+            "PRINCE",
+            "STARK",
+            "WAYNE"
+        ]
+    }
+]

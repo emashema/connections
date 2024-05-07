@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HOT DRINKS",
+        "values": [
+            "CHAI",
+            "COCOA",
+            "COFFEE",
+            "TEA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ANIMAL SOUNDS",
+        "values": [
+            "BUZZ",
+            "CLUCK",
+            "MEOW",
+            "OINK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TREE FEATURES",
+        "values": [
+            "BARK",
+            "BRANCH",
+            "ROOT",
+            "TRUNK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "INSIDE INFO",
+        "values": [
+            "DIRT",
+            "DISH",
+            "SCOOP",
+            "SKINNY"
+        ]
+    }
+]

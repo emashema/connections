@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SODA FOUNTAIN ORDERS",
+        "values": [
+            "FLOAT",
+            "MALT",
+            "SHAKE",
+            "SUNDAE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SET, AS PLANS",
+        "values": [
+            "CONCRETE",
+            "FIRM",
+            "SOLID",
+            "TANGIBLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "M. NIGHT SHYAMALAN MOVIES",
+        "values": [
+            "GLASS",
+            "OLD",
+            "SIGNS",
+            "SPLIT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___BOARD",
+        "values": [
+            "DASH",
+            "HOVER",
+            "KEY",
+            "STAR"
+        ]
+    }
+]

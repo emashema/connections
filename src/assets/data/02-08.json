@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ARCHERY EQUIPMENT",
+        "values": [
+            "ARROW",
+            "BOW",
+            "QUIVER",
+            "TARGET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CARD GAMES",
+        "values": [
+            "BRIDGE",
+            "GIN",
+            "SPIT",
+            "WAR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WALLOP",
+        "values": [
+            "BELT",
+            "CLOCK",
+            "DECK",
+            "SLUG"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CLASSIC TATTOOS",
+        "values": [
+            "ANCHOR",
+            "DRAGON",
+            "HEART",
+            "ROSE"
+        ]
+    }
+]

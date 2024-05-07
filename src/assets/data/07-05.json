@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CANDY BARS",
+        "values": [
+            "BOUNTY",
+            "CRUNCH",
+            "HEATH",
+            "MILKY WAY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "VIDEO GAME CONSOLES",
+        "values": [
+            "DREAMCAST",
+            "GENESIS",
+            "SWITCH",
+            "WII"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EAR PARTS",
+        "values": [
+            "ANVIL",
+            "COCHLEA",
+            "HAMMER",
+            "STIRRUP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BAND NAMES MINUS NUMBERS",
+        "values": [
+            "BLINK",
+            "MAROON",
+            "SUM",
+            "U"
+        ]
+    }
+]

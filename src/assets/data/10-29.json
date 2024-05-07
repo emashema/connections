@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MISHMASH",
+        "values": [
+            "HASH",
+            "JUMBLE",
+            "MEDLEY",
+            "STEW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GO UP AGAINST",
+        "values": [
+            "CHALLENGE",
+            "CONFRONT",
+            "FACE",
+            "OPPOSE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GROUP OF OFFSPRING",
+        "values": [
+            "BROOD",
+            "CLUTCH",
+            "HATCH",
+            "LITTER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GUITAR PARTS",
+        "values": [
+            "BODY",
+            "BRIDGE",
+            "FRET",
+            "NECK"
+        ]
+    }
+]

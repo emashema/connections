@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "OFF-WHITE SHADES",
+        "values": [
+            "CREAM",
+            "EGGSHELL",
+            "IVORY",
+            "VANILLA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ANTI-VAMPIRE",
+        "values": [
+            "CRUCIFIX",
+            "GARLIC",
+            "MIRROR",
+            "STAKE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF MEAT",
+        "values": [
+            "BEEF",
+            "PORK",
+            "POULTRY",
+            "VENISON"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SYNONYMS FOR ARGUMENT",
+        "values": [
+            "ROW",
+            "QUARREL",
+            "SPAT",
+            "TIFF"
+        ]
+    }
+]

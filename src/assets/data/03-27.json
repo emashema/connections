@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UPDATE FOR ACCURACY",
+        "values": [
+            "AMEND",
+            "CORRECT",
+            "FIX",
+            "REVISE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "QUARREL",
+        "values": [
+            "FIGHT",
+            "ROW",
+            "SCRAP",
+            "TIFF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GAMES OF CHANCE",
+        "values": [
+            "BINGO",
+            "LOTTERY",
+            "ROULETTE",
+            "WAR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CHIP",
+        "values": [
+            "BLUE",
+            "COMPUTER",
+            "POKER",
+            "POTATO"
+        ]
+    }
+]

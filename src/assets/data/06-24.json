@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "AIRLINES",
+        "values": [
+            "FRONTIER",
+            "SPIRIT",
+            "UNITED",
+            "VIRGIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GREEK LETTERS",
+        "values": [
+            "BETA",
+            "CHI",
+            "DELTA",
+            "IOTA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SILENT \u201cG\u201d",
+        "values": [
+            "GNAT",
+            "GNAW",
+            "GNOCCHI",
+            "GNOME"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HOMOPHONES",
+        "values": [
+            "GNU",
+            "KNEW",
+            "NEW",
+            "NU"
+        ]
+    }
+]

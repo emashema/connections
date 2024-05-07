@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PIECES OF FURNITURE",
+        "values": [
+            "BED",
+            "CHAIR",
+            "COUCH",
+            "TABLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CARRY, AS A FEELING",
+        "values": [
+            "BEAR",
+            "HARBOR",
+            "HOLD",
+            "MAINTAIN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WINE TASTING DESCRIPTORS",
+        "values": [
+            "BALANCED",
+            "DRY",
+            "FULL",
+            "SWEET"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTING WITH METALS",
+        "values": [
+            "GOLDILOCKS",
+            "IRONIC",
+            "LEADERSHIP",
+            "TINDER"
+        ]
+    }
+]

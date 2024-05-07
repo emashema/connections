@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MOVIE GENRES",
+        "values": [
+            "HORROR",
+            "MUSICAL",
+            "ROMANCE",
+            "WESTERN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PATTERNS",
+        "values": [
+            "HOUNDSTOOTH",
+            "PAISLEY",
+            "PLAID",
+            "STRIPES"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SYNONYMS FOR FALSEHOOD",
+        "values": [
+            "FIB",
+            "FICTION",
+            "LIE",
+            "TALE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CANDY PIECES",
+        "values": [
+            "DOT",
+            "GOOBER",
+            "KISS",
+            "WHOPPER"
+        ]
+    }
+]

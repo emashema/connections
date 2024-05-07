@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HALLOWEEN DECORATIONS",
+        "values": [
+            "BAT",
+            "COBWEB",
+            "PUMPKIN",
+            "TOMBSTONE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TV SHOWS",
+        "values": [
+            "24",
+            "BONES",
+            "FIREFLY",
+            "WEEDS"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLOT MACHINE SYMBOLS",
+        "values": [
+            "7",
+            "BAR",
+            "BELL",
+            "CHERRY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NUMBERS IN BOOK TITLES",
+        "values": [
+            "22",
+            "451",
+            "2001",
+            "20,000"
+        ]
+    }
+]

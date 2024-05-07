@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "NIGHTSPOTS",
+        "values": [
+            "BAR",
+            "CLUB",
+            "DISCO",
+            "LOUNGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CAST OFF",
+        "values": [
+            "DITCH",
+            "DROP",
+            "LOSE",
+            "SHED"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNITS OF LENGTH",
+        "values": [
+            "FATHOM",
+            "FOOT",
+            "LEAGUE",
+            "YARD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ SALE",
+        "values": [
+            "BAKE",
+            "CLEARANCE",
+            "GARAGE",
+            "SAMPLE"
+        ]
+    }
+]

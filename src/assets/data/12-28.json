@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PARTS OF A CAR",
+        "values": [
+            "BUMPER",
+            "HOOD",
+            "TIRE",
+            "TRUNK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MOVE QUICKLY",
+        "values": [
+            "BOLT",
+            "DART",
+            "DASH",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BIRDS",
+        "values": [
+            "CARDINAL",
+            "JAY",
+            "LARK",
+            "SWIFT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "JAZZ LEGENDS",
+        "values": [
+            "HANCOCK",
+            "HOLIDAY",
+            "MONK",
+            "PARKER"
+        ]
+    }
+]

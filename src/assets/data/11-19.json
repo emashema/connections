@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ONSET",
+        "values": [
+            "BIRTH",
+            "CREATION",
+            "DAWN",
+            "START"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "VENERABLE",
+        "values": [
+            "AUGUST",
+            "GRAND",
+            "NOBLE",
+            "REGAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WALK",
+        "values": [
+            "MARCH",
+            "STEP",
+            "STRIDE",
+            "TREAD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ DAY HOLIDAYS",
+        "values": [
+            "EARTH",
+            "GROUNDHOG",
+            "LABOR",
+            "MAY"
+        ]
+    }
+]

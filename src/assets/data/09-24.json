@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "KITCHEN UTENSILS",
+        "values": [
+            "GRATER",
+            "LADLE",
+            "PEELER",
+            "WHISK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "VERTEBRATES",
+        "values": [
+            "BIRD",
+            "FISH",
+            "MAMMAL",
+            "REPTILE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUPER MARIO-RELATED",
+        "values": [
+            "DINOSAUR",
+            "MUSHROOM",
+            "PLUMBER",
+            "PRINCESS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SITCOM FAMILIES",
+        "values": [
+            "BUNKER",
+            "CLEAVER",
+            "PARTRIDGE",
+            "TANNER"
+        ]
+    }
+]

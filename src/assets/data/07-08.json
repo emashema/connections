@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HATS",
+        "values": [
+            "BERET",
+            "BOWLER",
+            "FEDORA",
+            "FEZ"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ORGANS",
+        "values": [
+            "HEART",
+            "KIDNEY",
+            "LIVER",
+            "LUNG"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARTS OF A BOOK",
+        "values": [
+            "COVER",
+            "JACKET",
+            "PAGE",
+            "SPINE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "JACK ___",
+        "values": [
+            "ASS",
+            "KNIFE",
+            "POT",
+            "RABBIT"
+        ]
+    }
+]

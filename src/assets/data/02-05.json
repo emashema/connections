@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "\"GIVE ME A BREAK!\"",
+        "values": [
+            "BROTHER",
+            "LORD",
+            "PLEASE",
+            "SHEESH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ECCLESIASTICAL TITLES",
+        "values": [
+            "BISHOP",
+            "CARDINAL",
+            "PASTOR",
+            "PRIOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ROCK & ROLL HALL OF FAME INDUCTEES",
+        "values": [
+            "HEART",
+            "MADONNA",
+            "PRINCE",
+            "QUEEN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CITY HOMOPHONES",
+        "values": [
+            "DELI",
+            "NIECE",
+            "ROAM",
+            "SOUL"
+        ]
+    }
+]

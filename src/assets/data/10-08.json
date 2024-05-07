@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CELEBRATORY OCCASIONS",
+        "values": [
+            "ANNIVERSARY",
+            "BIRTHDAY",
+            "SHOWER",
+            "WEDDING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PHONE CONNECTIVITY",
+        "values": [
+            "BARS",
+            "RECEPTION",
+            "SERVICE",
+            "SIGNAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CITIES AND TOWNS IN ENGLAND",
+        "values": [
+            "BATH",
+            "DERBY",
+            "READING",
+            "SANDWICH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ OPERA",
+        "values": [
+            "COMIC",
+            "MET",
+            "ROCK",
+            "SOAP"
+        ]
+    }
+]

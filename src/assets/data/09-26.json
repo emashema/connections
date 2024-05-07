@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SNAKES",
+        "values": [
+            "BOA",
+            "MAMBA",
+            "PYTHON",
+            "VIPER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LINGERIE",
+        "values": [
+            "GARTER",
+            "SLIP",
+            "TEDDY",
+            "THONG"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SUMMARY",
+        "values": [
+            "ABSTRACT",
+            "BRIEF",
+            "DIGEST",
+            "RUNDOWN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FULL ___",
+        "values": [
+            "CIRCLE",
+            "HOUSE",
+            "MONTY",
+            "MOON"
+        ]
+    }
+]

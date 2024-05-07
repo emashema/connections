@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HURT",
+        "values": [
+            "ACHE",
+            "BURN",
+            "SMART",
+            "STING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LOOK AFTER",
+        "values": [
+            "GUARD",
+            "MIND",
+            "TEND",
+            "WATCH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SOUGHT AFTER IN \u201cTHE WIZARD OF OZ\u201d",
+        "values": [
+            "BRAIN",
+            "COURAGE",
+            "HEART",
+            "HOME"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SILENT \u201cW\u201d",
+        "values": [
+            "ANSWER",
+            "TWO",
+            "WRIST",
+            "WRONG"
+        ]
+    }
+]

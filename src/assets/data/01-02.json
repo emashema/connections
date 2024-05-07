@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "B.L.T. INGREDIENTS",
+        "values": [
+            "BREAD",
+            "BACON",
+            "LETTUCE",
+            "TOMATO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "OBSTRUCT",
+        "values": [
+            "BLOCK",
+            "CLOG",
+            "JAM",
+            "STOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BASEBALL STATS",
+        "values": [
+            "DOUBLE",
+            "HIT",
+            "RUN",
+            "WALK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SMALL ___",
+        "values": [
+            "FRY",
+            "TALK",
+            "WONDER",
+            "WORLD"
+        ]
+    }
+]

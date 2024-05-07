@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SPICES",
+        "values": [
+            "ANISE",
+            "DILL",
+            "NUTMEG",
+            "SAGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INTELLIGENT",
+        "values": [
+            "BRIGHT",
+            "QUICK",
+            "SHARP",
+            "SMART"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DEODORANTS",
+        "values": [
+            "AXE",
+            "DEGREE",
+            "OLD SPICE",
+            "SECRET"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MEDIEVAL WEAPONS",
+        "values": [
+            "CLUB",
+            "MACE",
+            "SPEAR",
+            "SWORD"
+        ]
+    }
+]

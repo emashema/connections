@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEEN IN A LAUNDRY ROOM",
+        "values": [
+            "DRYER",
+            "HAMPER",
+            "IRON",
+            "WASHER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHEPHERD",
+        "values": [
+            "DIRECT",
+            "GUIDE",
+            "LEAD",
+            "STEER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WHAT \u201cI\u201d MIGHT MEAN",
+        "values": [
+            "IODINE",
+            "IOTA",
+            "MYSELF",
+            "ONE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ VALLEY",
+        "values": [
+            "DEATH",
+            "HIDDEN",
+            "SILICON",
+            "UNCANNY"
+        ]
+    }
+]

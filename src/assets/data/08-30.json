@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PLAYGROUND FIXTURES",
+        "values": [
+            "SANDBOX",
+            "SEESAW",
+            "SLIDE",
+            "SWING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "INFLUENCE",
+        "values": [
+            "CLOUT",
+            "PULL",
+            "SWAY",
+            "WEIGHT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EGYPTIAN SYMBOLS",
+        "values": [
+            "ANKH",
+            "CROOK",
+            "EYE",
+            "SCARAB"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FONTS",
+        "values": [
+            "COURIER",
+            "IMPACT",
+            "PAPYRUS",
+            "TIMES"
+        ]
+    }
+]

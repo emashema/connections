@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BEDS",
+        "values": [
+            "BUNK",
+            "CANOPY",
+            "MURPHY",
+            "TRUNDLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FAMOUS BROTHERS",
+        "values": [
+            "JONAS",
+            "MARX",
+            "WARNER",
+            "WRIGHT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HONDAS",
+        "values": [
+            "ACCORD",
+            "CIVIC",
+            "PASSPORT",
+            "PILOT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "VIDEO GAME CHARACTERS",
+        "values": [
+            "CRASH",
+            "LINK",
+            "MARIO",
+            "SONIC"
+        ]
+    }
+]

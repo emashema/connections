@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RELAX",
+        "values": [
+            "CHILL",
+            "HANG",
+            "LOAF",
+            "LOUNGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CATCHY SONG",
+        "values": [
+            "BANGER",
+            "BOP",
+            "GROOVE",
+            "JAM"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BRITISH CUISINE",
+        "values": [
+            "MASH",
+            "ROAST",
+            "SCONE",
+            "TRIFLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STICKY SITUATION",
+        "values": [
+            "BIND",
+            "PICKLE",
+            "SCRAPE",
+            "SPOT"
+        ]
+    }
+]

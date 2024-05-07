@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PAINTING ACCESSORIES",
+        "values": [
+            "BRUSH",
+            "CANVAS",
+            "EASEL",
+            "PALETTE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AUTOMATIC TRANSMISSION SETTINGS",
+        "values": [
+            "DRIVE",
+            "NEUTRAL",
+            "PARK",
+            "REVERSE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS WITH TEETH",
+        "values": [
+            "COMB",
+            "GEAR",
+            "SAW",
+            "ZIPPER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CHAIR",
+        "values": [
+            "FIRST",
+            "FOLDING",
+            "HIGH",
+            "LAWN"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FRUITS",
+        "values": [
+            "APRICOT",
+            "FIG",
+            "GRAPE",
+            "LIME"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LUXURIOUS",
+        "values": [
+            "DELUXE",
+            "GRAND",
+            "LAVISH",
+            "OPULENT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BEST ACTRESS OSCAR WINNERS",
+        "values": [
+            "BERRY",
+            "FOSTER",
+            "STONE",
+            "SWANK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cGREEN\u201d MIGHT MEAN",
+        "values": [
+            "ENVIOUS",
+            "FRESH",
+            "NAIVE",
+            "UNWELL"
+        ]
+    }
+]

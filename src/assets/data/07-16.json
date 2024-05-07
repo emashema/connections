@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "U.S. COINS",
+        "values": [
+            "DIME",
+            "NICKEL",
+            "PENNY",
+            "QUARTER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "METAL ELEMENTS",
+        "values": [
+            "IRON",
+            "LEAD",
+            "TIN",
+            "ZINC"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "LUCKY CHARMS MARSHMALLOWS",
+        "values": [
+            "CLOVER",
+            "HORSESHOE",
+            "MOON",
+            "RAINBOW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ AND ___",
+        "values": [
+            "AGAIN",
+            "HALF",
+            "NECK",
+            "SO"
+        ]
+    }
+]

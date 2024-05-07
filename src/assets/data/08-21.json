@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "U.S. MOUNTAIN STATES",
+        "values": [
+            "ARIZONA",
+            "COLORADO",
+            "NEVADA",
+            "UTAH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SODA BRANDS",
+        "values": [
+            "CRUSH",
+            "MUG",
+            "SPRITE",
+            "SQUIRT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CLASSIC ROCK BANDS",
+        "values": [
+            "GENESIS",
+            "KANSAS",
+            "RUSH",
+            "YES"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TONY ___",
+        "values": [
+            "HAWK",
+            "MONTANA",
+            "SOPRANO",
+            "STARK"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "COFFEE COUNTER ITEMS",
+        "values": [
+            "CUP",
+            "LID",
+            "STIRRER",
+            "STRAW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NOCTURNAL ANIMALS",
+        "values": [
+            "BAT",
+            "MOTH",
+            "OWL",
+            "WOLF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS THAT ARE RED",
+        "values": [
+            "BEET",
+            "BRICK",
+            "CARDINAL",
+            "POPPY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ FIGURE",
+        "values": [
+            "ACTION",
+            "BALLPARK",
+            "GO",
+            "STICK"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INTELLIGENT",
+        "values": [
+            "BRIGHT",
+            "CLEVER",
+            "QUICK",
+            "SHARP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AIRLINES",
+        "values": [
+            "ALASKA",
+            "FRONTIER",
+            "SOUTHWEST",
+            "SPIRIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WESTERN TROPES",
+        "values": [
+            "COWBOY",
+            "DRIFTER",
+            "OUTLAW",
+            "SHERIFF"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TV SHOW TITLE SURNAMES",
+        "values": [
+            "LASSO",
+            "MARS",
+            "ROGERS",
+            "SMART"
+        ]
+    }
+]

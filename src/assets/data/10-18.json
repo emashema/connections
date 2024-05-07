@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SOMETHING TIRESOME",
+        "values": [
+            "BORE",
+            "DRAG",
+            "SNOOZE",
+            "YAWN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIT OF WIND",
+        "values": [
+            "BREEZE",
+            "DRAFT",
+            "GUST",
+            "PUFF"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PIQUANCY",
+        "values": [
+            "BITE",
+            "KICK",
+            "TANG",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SINGULAR OF THINGS SEEN IN PAIRS",
+        "values": [
+            "BOXER",
+            "GOGGLE",
+            "PANT",
+            "TONG"
+        ]
+    }
+]

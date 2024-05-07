@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CONCEAL",
+        "values": [
+            "BLOCK",
+            "COVER",
+            "HIDE",
+            "MASK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PARTS OF A WATCH",
+        "values": [
+            "CROWN",
+            "DIAL",
+            "HAND",
+            "STRAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WONDER WOMAN\u2019S COSTUME",
+        "values": [
+            "LASSO",
+            "SHIELD",
+            "SWORD",
+            "TIARA"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT CAN RUN",
+        "values": [
+            "CANDIDATE",
+            "FAUCET",
+            "MASCARA",
+            "NOSE"
+        ]
+    }
+]

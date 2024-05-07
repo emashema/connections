@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEEN AT A SPORTS STADIUM",
+        "values": [
+            "ASTROTURF",
+            "JUMBOTRON",
+            "SCOREBOARD",
+            "SKYBOX"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CAMERA BRANDS",
+        "values": [
+            "FUJIFILM",
+            "HASSELBLAD",
+            "OLYMPUS",
+            "POLAROID"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ITALIAN DEMONYMS",
+        "values": [
+            "BOLOGNESE",
+            "NEAPOLITAN",
+            "PARMESAN",
+            "VENETIAN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTING WITH ROCK BANDS",
+        "values": [
+            "CREAMSICLE",
+            "JOURNEYMAN",
+            "KISSCAM",
+            "RUSHMORE"
+        ]
+    }
+]

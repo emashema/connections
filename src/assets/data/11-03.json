@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "NEVERTHELESS",
+        "values": [
+            "HOWEVER",
+            "STILL",
+            "THOUGH",
+            "YET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "REPEATED WORDS IN EXPRESSIONS",
+        "values": [
+            "HEAR",
+            "KNOCK",
+            "THERE",
+            "TUT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORDS ABBREVIATED WITH LETTERS",
+        "values": [
+            "ARE",
+            "SEE",
+            "WHY",
+            "YOU"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ROYAL ___",
+        "values": [
+            "FAMILY",
+            "FLUSH",
+            "JELLY",
+            "WE"
+        ]
+    }
+]

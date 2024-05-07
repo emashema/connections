@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BEANS",
+        "values": [
+            "FAVA",
+            "KIDNEY",
+            "LIMA",
+            "PINTO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CITIES BEGINNING WITH \u201cL\u201d",
+        "values": [
+            "LAGOS",
+            "LIMERICK",
+            "LINCOLN",
+            "LUXOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "POETRY TERMS",
+        "values": [
+            "LINE",
+            "METER",
+            "RHYME",
+            "VERSE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cTHE(E) ___\u201d RAPPERS",
+        "values": [
+            "CREATOR",
+            "DUDE",
+            "RAPPER",
+            "STALLION"
+        ]
+    }
+]

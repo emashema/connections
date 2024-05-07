@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FLOWERS",
+        "values": [
+            "DAISY",
+            "ROSE",
+            "TULIP",
+            "VIOLET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SEEN ON A FARM",
+        "values": [
+            "BARN",
+            "CHICKEN",
+            "FARMER",
+            "TRACTOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "HORROR DIRECTORS",
+        "values": [
+            "ASTER",
+            "CARPENTER",
+            "CRAVEN",
+            "WAN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ JACKET",
+        "values": [
+            "DUST",
+            "LIFE",
+            "SPORTS",
+            "YELLOW"
+        ]
+    }
+]

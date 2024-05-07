@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CURMUDGEON",
+        "values": [
+            "CRAB",
+            "CRANK",
+            "GROUCH",
+            "GRUMP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "GET LOW",
+        "values": [
+            "CROUCH",
+            "DUCK",
+            "SQUAT",
+            "STOOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "NATIONAL SYMBOLS",
+        "values": [
+            "ANTHEM",
+            "FLAG",
+            "MOTTO",
+            "SEAL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SWINDLER",
+        "values": [
+            "CHEAT",
+            "CROOK",
+            "QUACK",
+            "SHARK"
+        ]
+    }
+]

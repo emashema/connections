@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MANUFACTURING LOCATIONS",
+        "values": [
+            "FACTORY",
+            "MILL",
+            "PLANT",
+            "SHOP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WIN + LETTER",
+        "values": [
+            "WIND",
+            "WINE",
+            "WING",
+            "WINK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARTS OF FRUIT YOU MIGHT NOT EAT",
+        "values": [
+            "CORE",
+            "RIND",
+            "SEED",
+            "STEM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WEIGHTS IN BOXING",
+        "values": [
+            "FEATHER",
+            "HEAVY",
+            "LIGHT",
+            "MIDDLE"
+        ]
+    }
+]

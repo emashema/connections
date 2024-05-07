@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ROOMS IN A HOUSE",
+        "values": [
+            "BEDROOM",
+            "DEN",
+            "KITCHEN",
+            "STUDY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LAND SURROUNDED BY WATER",
+        "values": [
+            "ATOLL",
+            "BAR",
+            "ISLAND",
+            "KEY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FILL TO EXCESS",
+        "values": [
+            "CRAM",
+            "JAM",
+            "PACK",
+            "STUFF"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BEAN ___",
+        "values": [
+            "BAG",
+            "COUNTER",
+            "DIP",
+            "SPROUT"
+        ]
+    }
+]

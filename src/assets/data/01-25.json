@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "OF-THE-MOMENT",
+        "values": [
+            "BIG",
+            "HOT",
+            "IN",
+            "POPULAR"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PICTOGRAPH",
+        "values": [
+            "CHARACTER",
+            "GLYPH",
+            "ICON",
+            "SYMBOL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "IMPOSE, AS A PENALTY",
+        "values": [
+            "ASSESS",
+            "CHARGE",
+            "FINE",
+            "LEVY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS BEGINNING WITH BODY PARTS",
+        "values": [
+            "HANDSOME",
+            "HIPPO",
+            "LEGEND",
+            "LIPID"
+        ]
+    }
+]

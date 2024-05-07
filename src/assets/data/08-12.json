@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATE ABBREVIATIONS",
+        "values": [
+            "CO",
+            "MA",
+            "ME",
+            "PA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSICAL NOTES",
+        "values": [
+            "DO",
+            "FA",
+            "LA",
+            "TI"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GREEK LETTERS",
+        "values": [
+            "MU",
+            "NU",
+            "PI",
+            "XI"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PERIODIC TABLE SYMBOLS",
+        "values": [
+            "FE",
+            "HE",
+            "NA",
+            "NI"
+        ]
+    }
+]

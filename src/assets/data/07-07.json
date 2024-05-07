@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EUROPEAN COUNTRIES",
+        "values": [
+            "DENMARK",
+            "GREECE",
+            "POLAND",
+            "PORTUGAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SYNONYMS FOR IMITATE",
+        "values": [
+            "COPY",
+            "ECHO",
+            "MIMIC",
+            "PARROT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TOMS",
+        "values": [
+            "CRUISE",
+            "HOLLAND",
+            "PETTY",
+            "WAITS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS SPELLED WITH ROMAN NUMERALS",
+        "values": [
+            "DILL",
+            "LIVID",
+            "MILD",
+            "MIX"
+        ]
+    }
+]

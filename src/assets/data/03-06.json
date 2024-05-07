@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PARTS OF AN AIRPORT",
+        "values": [
+            "HANGAR",
+            "RUNWAY",
+            "TARMAC",
+            "TERMINAL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LEGAL TERMS",
+        "values": [
+            "ACTION",
+            "CLAIM",
+            "COMPLAINT",
+            "LAWSUIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS A JUGGLER JUGGLES",
+        "values": [
+            "BEANBAG",
+            "CLUB",
+            "RING",
+            "TORCH"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS ENDING IN CLOTHING",
+        "values": [
+            "FOXGLOVE",
+            "GUMSHOE",
+            "TURNCOAT",
+            "WINDSOCK"
+        ]
+    }
+]

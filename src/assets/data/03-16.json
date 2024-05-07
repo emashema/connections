@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GET SMALLER",
+        "values": [
+            "CONTRACT",
+            "LESSEN",
+            "REDUCE",
+            "SHRINK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AIRLINE CLASSES",
+        "values": [
+            "BUSINESS",
+            "COACH",
+            "FIRST",
+            "PREMIUM"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EXAMINE, AS AN APPLICANT",
+        "values": [
+            "CHECK",
+            "REVIEW",
+            "SCREEN",
+            "VET"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "NOTABLE TV EPISODES",
+        "values": [
+            "FINALE",
+            "PILOT",
+            "PREMIERE",
+            "SPECIAL"
+        ]
+    }
+]

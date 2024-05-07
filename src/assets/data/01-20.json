@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DECLINE",
+        "values": [
+            "DIP",
+            "DROP",
+            "FALL",
+            "SINK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MOVE WITH SPEED",
+        "values": [
+            "BLAZE",
+            "FLY",
+            "RACE",
+            "TEAR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF DANCE",
+        "values": [
+            "MODERN",
+            "SALSA",
+            "SWING",
+            "TAP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BABY ___",
+        "values": [
+            "BOOM",
+            "CARROT",
+            "SHOWER",
+            "TALK"
+        ]
+    }
+]

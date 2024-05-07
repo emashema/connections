@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UPRIGHT SUPPORT",
+        "values": [
+            "COLUMN",
+            "PILLAR",
+            "POLE",
+            "POST"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "HEED, AS RULES",
+        "values": [
+            "FOLLOW",
+            "MIND",
+            "OBSERVE",
+            "REGARD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ALLOTMENT",
+        "values": [
+            "INTEREST",
+            "PERCENTAGE",
+            "SHARE",
+            "STAKE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GATHERED BY SPIES",
+        "values": [
+            "DIRT",
+            "INFORMATION",
+            "INTELLIGENCE",
+            "SECRETS"
+        ]
+    }
+]

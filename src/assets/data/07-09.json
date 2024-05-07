@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEVEN DWARFS",
+        "values": [
+            "BASHFUL",
+            "DOC",
+            "GRUMPY",
+            "HAPPY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FILE EXTENSIONS",
+        "values": [
+            "GIF",
+            "PDF",
+            "TIFF",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FLIGHTLESS BIRDS",
+        "values": [
+            "EMU",
+            "KIWI",
+            "OSTRICH",
+            "PENGUIN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TROPICAL FRUITS",
+        "values": [
+            "BANANA",
+            "COCONUT",
+            "MANGO",
+            "PINEAPPLE"
+        ]
+    }
+]

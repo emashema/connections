@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOOLISHNESS",
+        "values": [
+            "ABSURDITY",
+            "FOLLY",
+            "MADNESS",
+            "NONSENSE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MOVE FORWARD",
+        "values": [
+            "ADVANCE",
+            "MARCH",
+            "PROGRESS",
+            "PUSH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS THAT MIGHT STINK",
+        "values": [
+            "CHEESE",
+            "FEET",
+            "GARBAGE",
+            "SKUNK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS AFTER \u201cDEEP\u201d",
+        "values": [
+            "CUT",
+            "FAKE",
+            "FREEZE",
+            "SIX"
+        ]
+    }
+]

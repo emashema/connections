@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FABRICS",
+        "values": [
+            "CORDUROY",
+            "DENIM",
+            "LINEN",
+            "TWEED"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "APPARITIONS",
+        "values": [
+            "GHOST",
+            "PHANTOM",
+            "SPECTER",
+            "SPIRIT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SYNONYMS FOR BOTHER",
+        "values": [
+            "NEEDLE",
+            "POKE",
+            "RIB",
+            "TEASE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "DISNEY CHARACTERS",
+        "values": [
+            "BEAST",
+            "GENIE",
+            "SCAR",
+            "STITCH"
+        ]
+    }
+]

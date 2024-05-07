@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EAT VORACIOUSLY",
+        "values": [
+            "DOWN",
+            "INHALE",
+            "SCARF",
+            "WOLF"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AREAS OF ACADEMIC FOCUS",
+        "values": [
+            "CONCENTRATION",
+            "DEGREE",
+            "MAJOR",
+            "MINOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "UNIVERSAL",
+        "values": [
+            "BLANKET",
+            "BROAD",
+            "GENERAL",
+            "SWEEPING"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SPACE ___",
+        "values": [
+            "BAR",
+            "CADET",
+            "HEATER",
+            "STATION"
+        ]
+    }
+]

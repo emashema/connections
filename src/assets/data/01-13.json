@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CREDENTIALS FOR ENTRY",
+        "values": [
+            "BADGE",
+            "INVITE",
+            "PASS",
+            "TICKET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRESIDE OVER",
+        "values": [
+            "CHAIR",
+            "DIRECT",
+            "LEAD",
+            "RUN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AMERICAN FOOTBALL POSITIONS",
+        "values": [
+            "CENTER",
+            "END",
+            "SAFETY",
+            "TACKLE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "POSTPONE",
+        "values": [
+            "HOLD",
+            "PUNT",
+            "STALL",
+            "TABLE"
+        ]
+    }
+]

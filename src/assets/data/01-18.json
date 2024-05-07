@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHOW OFF",
+        "values": [
+            "GRANDSTAND",
+            "PEACOCK",
+            "POSTURE",
+            "STRUT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FOREMOST",
+        "values": [
+            "MAIN",
+            "PARAMOUNT",
+            "PRIME",
+            "SUPREME"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COLORS IN BRAZIL\u2019S FLAG",
+        "values": [
+            "BLUE",
+            "GREEN",
+            "WHITE",
+            "YELLOW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ LETTER",
+        "values": [
+            "CHAIN",
+            "COVER",
+            "LOVE",
+            "SCARLET"
+        ]
+    }
+]

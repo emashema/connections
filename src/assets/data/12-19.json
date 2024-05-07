@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ACCESSORIES",
+        "values": [
+            "BELT",
+            "BRACELET",
+            "TIE",
+            "WATCH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COMEDIAN\u2019S OUTPUT",
+        "values": [
+            "BIT",
+            "JOKE",
+            "ROUTINE",
+            "SKETCH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ATTRACTION",
+        "values": [
+            "APPEAL",
+            "CHARM",
+            "DRAW",
+            "PULL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TWO LETTERS + NUMBER",
+        "values": [
+            "CANINE",
+            "FREIGHT",
+            "OFTEN",
+            "STONE"
+        ]
+    }
+]

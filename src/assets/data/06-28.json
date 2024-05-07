@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "NECKWEAR",
+        "values": [
+            "ASCOT",
+            "BOLO",
+            "SCARF",
+            "TIE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHIP DIRECTIONS",
+        "values": [
+            "BOW",
+            "PORT",
+            "STARBOARD",
+            "STERN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DETERGENTS",
+        "values": [
+            "ALL",
+            "ERA",
+            "GAIN",
+            "TIDE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ TRIANGLE",
+        "values": [
+            "ACUTE",
+            "BERMUDA",
+            "LOVE",
+            "RIGHT"
+        ]
+    }
+]

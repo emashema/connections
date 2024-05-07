@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LEG PARTS",
+        "values": [
+            "ANKLE",
+            "KNEE",
+            "SHIN",
+            "THIGH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BABY ANIMALS",
+        "values": [
+            "CALF",
+            "CUB",
+            "JOEY",
+            "KID"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLANG FOR TOILET",
+        "values": [
+            "CAN",
+            "HEAD",
+            "JOHN",
+            "THRONE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ FISH THAT AREN\u2019T FISH",
+        "values": [
+            "CRAY",
+            "JELLY",
+            "SILVER",
+            "STAR"
+        ]
+    }
+]

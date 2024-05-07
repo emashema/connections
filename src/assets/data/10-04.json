@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CHRISTMAS-RELATED",
+        "values": [
+            "MISTLETOE",
+            "REINDEER",
+            "SNOWMAN",
+            "STOCKING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MAKE PUBLIC",
+        "values": [
+            "DISPLAY",
+            "EXHIBIT",
+            "PRESENT",
+            "SHOW"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TORUS-SHAPED FOOD",
+        "values": [
+            "BAGEL",
+            "CHEERIO",
+            "DONUT",
+            "LIFESAVER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH STRIPES",
+        "values": [
+            "CANDY CANE",
+            "CROSSWALK",
+            "REFEREE",
+            "TIGER"
+        ]
+    }
+]

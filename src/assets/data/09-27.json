@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PRODUCED BY TREES",
+        "values": [
+            "ACORN",
+            "CONE",
+            "POLLEN",
+            "SAP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CANDY STORE TREATS",
+        "values": [
+            "CHOCOLATE",
+            "GUM",
+            "LICORICE",
+            "LOLLIPOP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TARGET OF A SCHEME",
+        "values": [
+            "CHUMP",
+            "FOOL",
+            "MARK",
+            "SUCKER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH EYE(S)",
+        "values": [
+            "FACE",
+            "HURRICANE",
+            "NEEDLE",
+            "POTATO"
+        ]
+    }
+]

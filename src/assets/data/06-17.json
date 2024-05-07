@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MONOPOLY SQUARES",
+        "values": [
+            "BOARDWALK",
+            "CHANCE",
+            "GO",
+            "JAIL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHADES OF BLUE",
+        "values": [
+            "BABY",
+            "MIDNIGHT",
+            "POWDER",
+            "ROYAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "RAPPERS",
+        "values": [
+            "COMMON",
+            "FUTURE",
+            "ICE CUBE",
+            "Q-TIP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MEMBERS OF A SEPTET",
+        "values": [
+            "SEA",
+            "SIN",
+            "SISTER",
+            "WONDER"
+        ]
+    }
+]

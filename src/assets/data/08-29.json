@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DEPART QUICKLY",
+        "values": [
+            "BOOK",
+            "BOUNCE",
+            "RUN",
+            "SPLIT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ANIMALS THAT END WITH \u201cX\u201d",
+        "values": [
+            "FOX",
+            "IBEX",
+            "LYNX",
+            "ORYX"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHADES OF BLACK",
+        "values": [
+            "EBONY",
+            "JET",
+            "ONYX",
+            "RAVEN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS BEFORE DAYS OF THE WEEK",
+        "values": [
+            "ASH",
+            "BLACK",
+            "CYBER",
+            "FAT"
+        ]
+    }
+]

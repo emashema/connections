@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INDICATION OF THINGS TO COME",
+        "values": [
+            "MESSAGE",
+            "OMEN",
+            "SIGN",
+            "WARNING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "NAME PREFIXES",
+        "values": [
+            "GEN",
+            "MS",
+            "PROF",
+            "REV"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ART MEDIUMS",
+        "values": [
+            "CHARCOAL",
+            "INK",
+            "PAINT",
+            "PASTEL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ PEPPER",
+        "values": [
+            "BELL",
+            "BLACK",
+            "DR",
+            "GHOST"
+        ]
+    }
+]

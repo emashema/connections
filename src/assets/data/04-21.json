@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "EMBODIMENT",
+        "values": [
+            "EXAMPLE",
+            "IDEAL",
+            "MODEL",
+            "SYMBOL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "RELATED TO TRAINS",
+        "values": [
+            "CAR",
+            "CONDUCTOR",
+            "STATION",
+            "TRACK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "STARTING WITH THE SAME SOUND",
+        "values": [
+            "CYMBAL",
+            "SCIMITAR",
+            "SIMMER",
+            "SYMPHONY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "EAR___",
+        "values": [
+            "DRUM",
+            "MARK",
+            "WAX",
+            "WIG"
+        ]
+    }
+]

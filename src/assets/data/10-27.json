@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHAMELESS BOLDNESS",
+        "values": [
+            "BRASS",
+            "CHEEK",
+            "GALL",
+            "NERVE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "METAL ELEMENTS",
+        "values": [
+            "COPPER",
+            "GOLD",
+            "NICKEL",
+            "SILVER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "W.N.B.A. TEAMS",
+        "values": [
+            "MERCURY",
+            "SKY",
+            "SPARKS",
+            "LIBERTY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH TRUNKS",
+        "values": [
+            "CARS",
+            "ELEPHANTS",
+            "SWIMMERS",
+            "TREES"
+        ]
+    }
+]

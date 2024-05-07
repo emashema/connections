@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DOCTORS\u2019 ORDERS",
+        "values": [
+            "DIET",
+            "EXERCISE",
+            "FRESH AIR",
+            "SLEEP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EMAIL ACTIONS",
+        "values": [
+            "COMPOSE",
+            "FORWARD",
+            "REPLY ALL",
+            "SEND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PODCASTS",
+        "values": [
+            "RADIOLAB",
+            "SERIAL",
+            "UP FIRST",
+            "WTF"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ COMEDY",
+        "values": [
+            "BLACK",
+            "DIVINE",
+            "PROP",
+            "SKETCH"
+        ]
+    }
+]

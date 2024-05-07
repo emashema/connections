@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "JUMPING ANIMALS",
+        "values": [
+            "CRICKET",
+            "FROG",
+            "HARE",
+            "KANGAROO"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "APPLY PRESSURE TO",
+        "values": [
+            "CRUSH",
+            "MASH",
+            "PRESS",
+            "SQUASH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "OLYMPIC SPORTS",
+        "values": [
+            "BREAKING",
+            "HOCKEY",
+            "SKELETON",
+            "TRAMPOLINE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS YOU CAN SET",
+        "values": [
+            "MOOD",
+            "RECORD",
+            "TABLE",
+            "VOLLEYBALL"
+        ]
+    }
+]

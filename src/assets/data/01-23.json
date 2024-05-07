@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BRING INTO BEING",
+        "values": [
+            "COIN",
+            "CREATE",
+            "DEVISE",
+            "INVENT"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EXCELLENT",
+        "values": [
+            "FINE",
+            "PRIME",
+            "QUALITY",
+            "STERLING"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SYMBOLS ABOVE NUMBERS ON A KEYBOARD",
+        "values": [
+            "AT",
+            "DOLLAR",
+            "PERCENT",
+            "POUND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PASS THE ___",
+        "values": [
+            "BAR",
+            "BUCK",
+            "TIME",
+            "TORCH"
+        ]
+    }
+]

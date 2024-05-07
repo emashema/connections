@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BOTTLED WATER BRANDS",
+        "values": [
+            "DASANI",
+            "EVIAN",
+            "FIJI",
+            "VOSS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SLANG FOR COFFEE",
+        "values": [
+            "BREW",
+            "JAVA",
+            "JOE",
+            "MUD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ISLAND COUNTRIES",
+        "values": [
+            "CUBA",
+            "JAPAN",
+            "MALTA",
+            "PALAU"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CEREAL MASCOTS",
+        "values": [
+            "LUCKY",
+            "POP",
+            "SAM",
+            "TONY"
+        ]
+    }
+]

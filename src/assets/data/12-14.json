@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PESTER",
+        "values": [
+            "BADGER",
+            "BUG",
+            "HOUND",
+            "NAG"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SPORTS VENUES",
+        "values": [
+            "ARENA",
+            "BOWL",
+            "DOME",
+            "FIELD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEPARATE",
+        "values": [
+            "DIVIDE",
+            "FORK",
+            "PART",
+            "SPLIT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SILVER ___",
+        "values": [
+            "FOX",
+            "LINING",
+            "SCREEN",
+            "SPOON"
+        ]
+    }
+]

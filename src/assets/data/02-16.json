@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "COMFY SHOES",
+        "values": [
+            "CROC",
+            "LOAFER",
+            "MOCCASIN",
+            "SLIPPER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "THINGS MADE WITH FEATHERS",
+        "values": [
+            "BOA",
+            "HEADDRESS",
+            "PILLOW",
+            "SHUTTLECOCK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PROGRAMMING LANGUAGES",
+        "values": [
+            "BASIC",
+            "JAVA",
+            "PYTHON",
+            "RUBY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT CAN STRIKE",
+        "values": [
+            "COBRA",
+            "INSPIRATION",
+            "LIGHTNING",
+            "UNION"
+        ]
+    }
+]

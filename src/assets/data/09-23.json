@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ROBUST",
+        "values": [
+            "FIT",
+            "HEALTHY",
+            "SOUND",
+            "STRONG"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DECLINE",
+        "values": [
+            "DIP",
+            "DROP",
+            "FALL",
+            "SINK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WATER SOURCES",
+        "values": [
+            "FOUNTAIN",
+            "SPRING",
+            "TAP",
+            "WELL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WOMEN SINGERS",
+        "values": [
+            "KEYS",
+            "NICKS",
+            "SUMMER",
+            "SWIFT"
+        ]
+    }
+]

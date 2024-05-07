@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "THRUST",
+        "values": [
+            "JAB",
+            "POKE",
+            "PROD",
+            "STICK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF SNAKES",
+        "values": [
+            "ADDER",
+            "BOA",
+            "MAMBA",
+            "MOCCASIN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEEN IN \u201cCINDERELLA\u201d",
+        "values": [
+            "BALL",
+            "PRINCE",
+            "PUMPKIN",
+            "SLIPPER"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "PASTA SHAPES",
+        "values": [
+            "BOWTIE",
+            "ELBOW",
+            "TUBE",
+            "WHEEL"
+        ]
+    }
+]

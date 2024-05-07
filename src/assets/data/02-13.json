@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ENCOURAGE, WITH \"ON\"",
+        "values": [
+            "EGG",
+            "GOAD",
+            "SPUR",
+            "URGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SPHERICAL FOODS",
+        "values": [
+            "JAWBREAKER",
+            "MEATBALL",
+            "MOZZARELLA",
+            "ORANGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GROCERY STORE AISLES",
+        "values": [
+            "DAIRY",
+            "FROZEN",
+            "PRODUCE",
+            "SNACK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "GO ___",
+        "values": [
+            "BANANAS",
+            "FIGURE",
+            "FISH",
+            "STEADY"
+        ]
+    }
+]

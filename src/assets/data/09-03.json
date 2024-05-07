@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FEMALE ANIMALS",
+        "values": [
+            "COW",
+            "DOE",
+            "HEN",
+            "MARE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRONOUNS",
+        "values": [
+            "I",
+            "IT",
+            "THEY",
+            "WE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ROMAN NUMERALS",
+        "values": [
+            "D",
+            "L",
+            "M",
+            "V"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HOMOPHONES",
+        "values": [
+            "EWE",
+            "U",
+            "YEW",
+            "YOU"
+        ]
+    }
+]

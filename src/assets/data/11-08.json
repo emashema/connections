@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BROUGHT TO THE BEACH",
+        "values": [
+            "FLIP-FLOP",
+            "SUNSCREEN",
+            "TOWEL",
+            "UMBRELLA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TYPES OF FRENCH FRIES",
+        "values": [
+            "CURLY",
+            "SHOESTRING",
+            "WAFFLE",
+            "WEDGE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EQUIVOCATE",
+        "values": [
+            "HEDGE",
+            "SEE-SAW",
+            "WAVER",
+            "YO-YO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SECOND WORDS OF VODKA COCKTAILS",
+        "values": [
+            "BREEZE",
+            "MARY",
+            "MULE",
+            "RUSSIAN"
+        ]
+    }
+]

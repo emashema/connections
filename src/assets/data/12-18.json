@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BRIEF MOMENT",
+        "values": [
+            "FLASH",
+            "JIFFY",
+            "SECOND",
+            "WINK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRIMARY",
+        "values": [
+            "CHIEF",
+            "FIRST",
+            "MAIN",
+            "PRINCIPAL"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "AVENUES IN N.Y.C.",
+        "values": [
+            "BROADWAY",
+            "FIFTH",
+            "MADISON",
+            "PARK"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ HOUR",
+        "values": [
+            "AMATEUR",
+            "ELEVENTH",
+            "HAPPY",
+            "RUSH"
+        ]
+    }
+]

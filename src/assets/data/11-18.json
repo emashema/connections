@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "QUICK PEEK",
+        "values": [
+            "GANDER",
+            "GLANCE",
+            "GLIMPSE",
+            "LOOK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DECEIT",
+        "values": [
+            "ACT",
+            "BLUFF",
+            "CHARADE",
+            "FRONT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PARTS OF A MOUNTAIN",
+        "values": [
+            "CLIFF",
+            "CRAG",
+            "LEDGE",
+            "RIDGE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "HOMOPHONES",
+        "values": [
+            "PEAK",
+            "PEEK",
+            "PEKE",
+            "PIQUE"
+        ]
+    }
+]

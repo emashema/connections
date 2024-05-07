@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CHEESES, FAMILIARLY",
+        "values": [
+            "AMERICAN",
+            "BLUE",
+            "JACK",
+            "SWISS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TRACK AND FIELD EQUIPMENT",
+        "values": [
+            "HAMMER",
+            "HURDLE",
+            "JAVELIN",
+            "POLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "KINDS OF HEELS",
+        "values": [
+            "CUBAN",
+            "KITTEN",
+            "STILETTO",
+            "WEDGE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "DOUBLE ___",
+        "values": [
+            "DATE",
+            "DUTCH",
+            "JEOPARDY",
+            "SPACE"
+        ]
+    }
+]

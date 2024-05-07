@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "RELATIVES",
+        "values": [
+            "AUNT",
+            "COUSIN",
+            "MOTHER",
+            "NEPHEW"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SYNONYMS FOR OFFBEAT",
+        "values": [
+            "DAFFY",
+            "KOOKY",
+            "QUIRKY",
+            "WACKY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DISNEY DUCKS",
+        "values": [
+            "DAISY",
+            "DEWEY",
+            "DONALD",
+            "SCROOGE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CLOCK",
+        "values": [
+            "ALARM",
+            "BIOLOGICAL",
+            "CUCKOO",
+            "GRANDFATHER"
+        ]
+    }
+]

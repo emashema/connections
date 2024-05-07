@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "AMAZON ANIMALS",
+        "values": [
+            "ANACONDA",
+            "CAPYBARA",
+            "JAGUAR",
+            "TOUCAN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LOWEST POINT",
+        "values": [
+            "BASE",
+            "BOTTOM",
+            "FOOT",
+            "FOUNDATION"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MUSICALS",
+        "values": [
+            "COMPANY",
+            "GREASE",
+            "HAIR",
+            "RENT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SEA ___",
+        "values": [
+            "CHANGE",
+            "CUCUMBER",
+            "LEGS",
+            "LION"
+        ]
+    }
+]

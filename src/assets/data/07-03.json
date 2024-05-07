@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DOG BREEDS",
+        "values": [
+            "BOXER",
+            "DALMATIAN",
+            "HUSKY",
+            "POODLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ANIMAL NOSES",
+        "values": [
+            "BEAK",
+            "MUZZLE",
+            "SNOUT",
+            "TRUNK"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "TRAFFIC SIGNS",
+        "values": [
+            "DETOUR",
+            "SLOW",
+            "STOP",
+            "YIELD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SOUND ___",
+        "values": [
+            "ASLEEP",
+            "BARRIER",
+            "BITE",
+            "WAVE"
+        ]
+    }
+]

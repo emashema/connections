@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "BASIC EMOTIONS",
+        "values": [
+            "ANGER",
+            "FEAR",
+            "HAPPINESS",
+            "SURPRISE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIT OF VOCAL FANFARE",
+        "values": [
+            "BEHOLD",
+            "PRESTO",
+            "TADA",
+            "VOILA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "OBTAIN",
+        "values": [
+            "GET",
+            "LAND",
+            "SECURE",
+            "WIN"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ ANT",
+        "values": [
+            "ADAM",
+            "CARPENTER",
+            "FIRE",
+            "RED"
+        ]
+    }
+]

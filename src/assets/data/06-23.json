@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ANIMAL GROUP NAMES",
+        "values": [
+            "FLOCK",
+            "PACK",
+            "POD",
+            "SCHOOL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DEADLY SINS",
+        "values": [
+            "ENVY",
+            "GREED",
+            "LUST",
+            "PRIDE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SLOW ANIMALS",
+        "values": [
+            "LORIS",
+            "SLOTH",
+            "SNAIL",
+            "TORTOISE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TRIG FUNCTIONS",
+        "values": [
+            "COT",
+            "SEC",
+            "SIN",
+            "TAN"
+        ]
+    }
+]

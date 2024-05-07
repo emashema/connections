@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATES OF ELATION",
+        "values": [
+            "BLISS",
+            "CLOUD NINE",
+            "HEAVEN",
+            "PARADISE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SCAM",
+        "values": [
+            "CON",
+            "FAST ONE",
+            "HUSTLE",
+            "RACKET"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "GREETING GESTURES",
+        "values": [
+            "HIGH FIVE",
+            "HUG",
+            "SHAKE",
+            "WAVE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ LIST",
+        "values": [
+            "BUCKET",
+            "GUEST",
+            "TOP TEN",
+            "WISH"
+        ]
+    }
+]

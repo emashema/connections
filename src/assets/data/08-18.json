@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNITS OF VOLUME",
+        "values": [
+            "CUP",
+            "GALLON",
+            "PINT",
+            "QUART"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "EXTREMELY",
+        "values": [
+            "AWFUL",
+            "QUITE",
+            "SUPER",
+            "VERY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WORLD CURRENCIES",
+        "values": [
+            "RAND",
+            "REAL",
+            "STERLING",
+            "WON"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ CAKE",
+        "values": [
+            "CARROT",
+            "COFFEE",
+            "POUND",
+            "SPONGE"
+        ]
+    }
+]

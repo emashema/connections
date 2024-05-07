@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ORDERLY",
+        "values": [
+            "CLEAN",
+            "NEAT",
+            "TIDY",
+            "TRIM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "AUGMENTATIVE PREFIXES",
+        "values": [
+            "HYPER",
+            "SUPER",
+            "UBER",
+            "ULTRA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BECOME LARGER",
+        "values": [
+            "BALLOON",
+            "MUSHROOM",
+            "SNOWBALL",
+            "SWELL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "ITEMS IN CLASSIC KIDS\u2019 GAMES",
+        "values": [
+            "DOMINO",
+            "JACK",
+            "MARBLE",
+            "STICK"
+        ]
+    }
+]

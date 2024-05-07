@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DISORDERLY PLACE",
+        "values": [
+            "DUMP",
+            "MESS",
+            "PIGPEN",
+            "STY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "STURDY",
+        "values": [
+            "FIRM",
+            "SOLID",
+            "SOUND",
+            "STABLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FOUND IN CRACKER JACKS",
+        "values": [
+            "CARAMEL",
+            "PEANUTS",
+            "POPCORN",
+            "PRIZE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ HORSE",
+        "values": [
+            "CHARLEY",
+            "CRAZY",
+            "DARK",
+            "GIFT"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STATE ABBREVIATIONS",
+        "values": [
+            "HI",
+            "LA",
+            "MA",
+            "OK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CABLE CHANNELS",
+        "values": [
+            "BET",
+            "E",
+            "HALLMARK",
+            "USA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "IN THE NATO ALPHABET",
+        "values": [
+            "ALFA",
+            "BRAVO",
+            "ROMEO",
+            "TANGO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___-___",
+        "values": [
+            "BOO",
+            "POM",
+            "TOM",
+            "YO"
+        ]
+    }
+]

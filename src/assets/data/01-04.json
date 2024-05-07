@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "GIFT-GIVING ACCESSORIES",
+        "values": [
+            "BOW",
+            "BOX",
+            "CARD",
+            "WRAPPING"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "DATING APP ACTIONS",
+        "values": [
+            "BLOCK",
+            "MATCH",
+            "MESSAGE",
+            "SWIPE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COOL, IN SLANG",
+        "values": [
+            "FIRE",
+            "LIT",
+            "SICK",
+            "TIGHT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LUCKY ___",
+        "values": [
+            "BREAK",
+            "CHARM",
+            "DUCK",
+            "STRIKE"
+        ]
+    }
+]

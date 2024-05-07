@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PARTS OF A RIVER",
+        "values": [
+            "BANK",
+            "BED",
+            "DELTA",
+            "MOUTH"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SOMETHING EASY TO DO",
+        "values": [
+            "BREEZE",
+            "CINCH",
+            "PICNIC",
+            "SNAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WRAP AROUND IN A CIRCLE",
+        "values": [
+            "COIL",
+            "SPIRAL",
+            "TWIST",
+            "WIND"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "JUMP INTO THE AIR",
+        "values": [
+            "BOUND",
+            "LEAP",
+            "SPRING",
+            "VAULT"
+        ]
+    }
+]

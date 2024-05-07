@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "COMMERCIAL ORGANIZATION",
+        "values": [
+            "AGENCY",
+            "COMPANY",
+            "ENTERPRISE",
+            "FIRM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FARM FIXTURES",
+        "values": [
+            "COOP",
+            "PEN",
+            "STABLE",
+            "STY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CLASSIC DOG NAMES",
+        "values": [
+            "FLUFFY",
+            "REX",
+            "ROVER",
+            "SPOT"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COLORS MINUS THEIR FIRST LETTERS",
+        "values": [
+            "INK",
+            "LACK",
+            "OLD",
+            "RANGE"
+        ]
+    }
+]

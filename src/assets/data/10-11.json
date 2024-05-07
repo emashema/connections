@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FILM SET DIRECTIVES",
+        "values": [
+            "ACTION",
+            "CAMERA",
+            "CUT",
+            "LIGHTS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CONDITIONAL WORDS",
+        "values": [
+            "CAN",
+            "COULD",
+            "MAY",
+            "MIGHT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FOREMOST",
+        "values": [
+            "HEAD",
+            "LEAD",
+            "PRIME",
+            "TOP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ PAPER",
+        "values": [
+            "BUTCHER",
+            "SCRAP",
+            "TOILET",
+            "WAX"
+        ]
+    }
+]

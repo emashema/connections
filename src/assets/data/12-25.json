@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DARLING",
+        "values": [
+            "BABY",
+            "BOO",
+            "DEAR",
+            "LOVE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BASIC GEOMETRIC OBJECTS",
+        "values": [
+            "LINE",
+            "POINT",
+            "RAY",
+            "SEGMENT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "OOMPH",
+        "values": [
+            "ENERGY",
+            "FIRE",
+            "JUICE",
+            "ZIP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SECRET ___",
+        "values": [
+            "AGENT",
+            "CODE",
+            "SANTA",
+            "SAUCE"
+        ]
+    }
+]

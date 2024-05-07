@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TOUCH LIGHTLY",
+        "values": [
+            "BRUSH",
+            "GRAZE",
+            "KISS",
+            "SKIM"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF NUMBERS",
+        "values": [
+            "ODD",
+            "PERFECT",
+            "PRIME",
+            "WHOLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SAUCES IN CHINESE CUISINE",
+        "values": [
+            "OYSTER",
+            "PLUM",
+            "SOY",
+            "XO"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "BEAR ___",
+        "values": [
+            "CLAW",
+            "FRUIT",
+            "HUG",
+            "WITNESS"
+        ]
+    }
+]

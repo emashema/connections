@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TAKE A TUMBLE",
+        "values": [
+            "FALL",
+            "SLIP",
+            "SPILL",
+            "TRIP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF WATER",
+        "values": [
+            "MINERAL",
+            "SPRING",
+            "STILL",
+            "TAP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS THAT ARE CINCHED IN THE MIDDLE",
+        "values": [
+            "CORSET",
+            "DIABOLO",
+            "HOURGLASS",
+            "WASP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BEAR",
+        "values": [
+            "BOO-BOO",
+            "BROWN",
+            "HONEY",
+            "TEDDY"
+        ]
+    }
+]

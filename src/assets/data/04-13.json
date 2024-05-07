@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEEN AT THE CIRCUS",
+        "values": [
+            "CLOWN",
+            "RING",
+            "TENT",
+            "TRAPEZE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "\u201cTHE WIZARD OF OZ\u201d FIGURES",
+        "values": [
+            "LION",
+            "SCARECROW",
+            "WITCH",
+            "WIZARD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FILM DEPARTMENTS",
+        "values": [
+            "HAIR",
+            "MAKEUP",
+            "PROPS",
+            "WARDROBE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "\u201cI\u2019M A ___\u201d (LYRICS IN \u201cTHE JOKER\u201d)",
+        "values": [
+            "JOKER",
+            "LOVER",
+            "SINNER",
+            "SMOKER"
+        ]
+    }
+]

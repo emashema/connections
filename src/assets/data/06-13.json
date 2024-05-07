@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FOOTWEAR",
+        "values": [
+            "BOOT",
+            "LOAFER",
+            "PUMP",
+            "SNEAKER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "UNITS OF LENGTH",
+        "values": [
+            "FOOT",
+            "LEAGUE",
+            "MILE",
+            "YARD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "MAGAZINES",
+        "values": [
+            "ESSENCE",
+            "PEOPLE",
+            "TIME",
+            "US"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LETTER HOMOPHONES",
+        "values": [
+            "ARE",
+            "QUEUE",
+            "SEA",
+            "WHY"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SEA CREATURES",
+        "values": [
+            "CRAB",
+            "RAY",
+            "SPONGE",
+            "SQUID"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BASIC TWO-DIMENSIONAL SHAPES",
+        "values": [
+            "CIRCLE",
+            "DIAMOND",
+            "SQUARE",
+            "TRIANGLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "BOXING MANEUVERS",
+        "values": [
+            "BOB",
+            "CROSS",
+            "HOOK",
+            "WEAVE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FANCY ___",
+        "values": [
+            "FEAST",
+            "FREE",
+            "PANTS",
+            "THAT"
+        ]
+    }
+]

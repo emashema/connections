@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "LUXURIOUS FABRICS",
+        "values": [
+            "CHIFFON",
+            "SATIN",
+            "SILK",
+            "VELVET"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COME DOWN TO REST",
+        "values": [
+            "PERCH",
+            "ROOST",
+            "SETTLE",
+            "LAND"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHOE PARTS",
+        "values": [
+            "EYELET",
+            "LACE",
+            "SOLE",
+            "TONGUE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT ARE DELIVERED",
+        "values": [
+            "BABY",
+            "BLOW",
+            "PACKAGE",
+            "SPEECH"
+        ]
+    }
+]

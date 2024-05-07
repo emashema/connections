@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "ROOMS IN THE GAME CLUE",
+        "values": [
+            "HALL",
+            "LIBRARY",
+            "LOUNGE",
+            "STUDY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COLLEAGUE",
+        "values": [
+            "ASSOCIATE",
+            "FELLOW",
+            "PARTNER",
+            "PEER"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SEEN DURING EASTER",
+        "values": [
+            "BUNNY",
+            "EGG",
+            "JELLY BEAN",
+            "PEEP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT A MOLE CAN BE",
+        "values": [
+            "ANIMAL",
+            "BIRTHMARK",
+            "SPY",
+            "UNIT"
+        ]
+    }
+]

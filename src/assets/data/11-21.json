@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "TYPES OF TEETH",
+        "values": [
+            "CANINE",
+            "FANG",
+            "MOLAR",
+            "TUSK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FASHIONABLE",
+        "values": [
+            "CHIC",
+            "HIP",
+            "HOT",
+            "IN"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DANCE MOVES",
+        "values": [
+            "FLOSS",
+            "ROBOT",
+            "VOGUE",
+            "WORM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS THAT SUCK",
+        "values": [
+            "LEECH",
+            "STRAW",
+            "VACUUM",
+            "VAMPIRE"
+        ]
+    }
+]

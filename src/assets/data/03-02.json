@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INTELLIGENCE OPERATIVE",
+        "values": [
+            "AGENT",
+            "ASSET",
+            "MOLE",
+            "SLEEPER"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "UNITS IN POETRY",
+        "values": [
+            "FOOT",
+            "LINE",
+            "METER",
+            "VERSE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "EXPRESS INDIRECTLY",
+        "values": [
+            "COUCH",
+            "IMPLY",
+            "INTIMATE",
+            "SUGGEST"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WHAT \u201cK\u201d MIGHT MEAN",
+        "values": [
+            "KELVIN",
+            "OKAY",
+            "POTASSIUM",
+            "THOUSAND"
+        ]
+    }
+]

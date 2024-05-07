@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "HAIRCUTS, WITH \u201cCUT\u201d",
+        "values": [
+            "BOWL",
+            "BUZZ",
+            "CREW",
+            "PIXIE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MEASURING INSTRUMENTS",
+        "values": [
+            "COMPASS",
+            "RULER",
+            "SCALE",
+            "WATCH"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WATER AND GAS CONDUITS",
+        "values": [
+            "CHANNEL",
+            "LINE",
+            "MAIN",
+            "PIPE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "FAST FOOD MASCOTS",
+        "values": [
+            "CLOWN",
+            "COLONEL",
+            "KING",
+            "MERMAID"
+        ]
+    }
+]

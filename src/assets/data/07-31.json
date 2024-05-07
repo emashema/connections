@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "UNITS OF LENGTH",
+        "values": [
+            "FOOT",
+            "INCH",
+            "MILE",
+            "YARD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TYPES OF PAINT",
+        "values": [
+            "ACRYLIC",
+            "OIL",
+            "TEMPERA",
+            "WATERCOLOR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DEEP-FRIED FOOD",
+        "values": [
+            "FALAFEL",
+            "KATSU",
+            "SAMOSA",
+            "SCHNITZEL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTS OF U.S. COINS",
+        "values": [
+            "DIM",
+            "NICK",
+            "PEN",
+            "QUART"
+        ]
+    }
+]

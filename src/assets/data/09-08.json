@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INHERENT NATURE",
+        "values": [
+            "ESSENCE",
+            "HEART",
+            "SPIRIT",
+            "SOUL"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FERMENTED ALCOHOLIC BEVERAGES",
+        "values": [
+            "CIDER",
+            "PORT",
+            "SAKE",
+            "STOUT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "PIXAR MOVIES",
+        "values": [
+            "BRAVE",
+            "CARS",
+            "COCO",
+            "UP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ TAPE",
+        "values": [
+            "DEMO",
+            "RED",
+            "SCOTCH",
+            "TICKER"
+        ]
+    }
+]

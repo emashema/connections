@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "FLABBERGAST",
+        "values": [
+            "FLOOR",
+            "ROCK",
+            "SHOCK",
+            "SURPRISE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "BIT OF JOURNALISM",
+        "values": [
+            "ARTICLE",
+            "FEATURE",
+            "REPORT",
+            "STORY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ON THE SAME PLANE",
+        "values": [
+            "EVEN",
+            "FLAT",
+            "FLUSH",
+            "LEVEL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THEATER SECTIONS",
+        "values": [
+            "BALCONY",
+            "BOX",
+            "ORCHESTRA",
+            "STAGE"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "YELLOW-BROWN SHADES",
+        "values": [
+            "BEIGE",
+            "CAMEL",
+            "KHAKI",
+            "TAN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "FAIL TO ATTEND",
+        "values": [
+            "CUT",
+            "DITCH",
+            "MISS",
+            "SKIP"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "DECISIVE VICTORY",
+        "values": [
+            "BLOWOUT",
+            "ROMP",
+            "ROUT",
+            "SWEEP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ WHEEL",
+        "values": [
+            "CHEESE",
+            "COLOR",
+            "HAMSTER",
+            "PRAYER"
+        ]
+    }
+]

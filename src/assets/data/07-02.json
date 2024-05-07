@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MUSIC GENRES",
+        "values": [
+            "JAZZ",
+            "POP",
+            "PUNK",
+            "RAP"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "WEB BROWSERS",
+        "values": [
+            "CHROME",
+            "EDGE",
+            "OPERA",
+            "SAFARI"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "\u201cLITTLE WOMEN\u201d SISTERS",
+        "values": [
+            "AMY",
+            "BETH",
+            "JO",
+            "MEG"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "LIL ___ RAPPERS",
+        "values": [
+            "BABY",
+            "JON",
+            "KIM",
+            "WAYNE"
+        ]
+    }
+]

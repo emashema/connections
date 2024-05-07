@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "COFFEE DRINKS",
+        "values": [
+            "AMERICANO",
+            "CAPPUCCINO",
+            "ESPRESSO",
+            "LATTE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TREE NUTS",
+        "values": [
+            "ALMOND",
+            "CASHEW",
+            "PECAN",
+            "WALNUT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SHADES OF GREEN",
+        "values": [
+            "EMERALD",
+            "FOREST",
+            "KELLY",
+            "OLIVE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MR. ___",
+        "values": [
+            "BEAN",
+            "CLEAN",
+            "FOX",
+            "PEANUT"
+        ]
+    }
+]

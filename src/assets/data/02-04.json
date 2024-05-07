@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DRINKS WITH CAFFEINE",
+        "values": [
+            "COCOA",
+            "COFFEE",
+            "MATE",
+            "TEA"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "UNEXCITING",
+        "values": [
+            "BORING",
+            "DULL",
+            "MUNDANE",
+            "VANILLA"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "COMEDIAN\u2019S PERFORMANCE",
+        "values": [
+            "ACT",
+            "BIT",
+            "ROUTINE",
+            "SET"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "MARTINI SPECIFICATIONS",
+        "values": [
+            "DIRTY",
+            "DRY",
+            "TWIST",
+            "UP"
+        ]
+    }
+]

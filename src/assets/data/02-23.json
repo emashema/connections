@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PROCESSION",
+        "values": [
+            "CARAVAN",
+            "FLEET",
+            "PARADE",
+            "TRAIN"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SHADES OF GREEN",
+        "values": [
+            "OLIVE",
+            "FOREST",
+            "LIME",
+            "MINT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "WHAT \u201cBLUE\u201d MIGHT MEAN",
+        "values": [
+            "DEMOCRATIC",
+            "EROTIC",
+            "NOBLE",
+            "SAD"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "THINGS WITH SPINES",
+        "values": [
+            "BOOK",
+            "CACTUS",
+            "HEDGEHOG",
+            "SKELETON"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHIRTS",
+        "values": [
+            "CROP",
+            "POLO",
+            "TANK",
+            "TEE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "COOL, IN \u201980S SLANG",
+        "values": [
+            "BAD",
+            "FLY",
+            "FRESH",
+            "RAD"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "LETTER SPELLINGS",
+        "values": [
+            "BEE",
+            "EX",
+            "GEE",
+            "JAY"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ GEORGE",
+        "values": [
+            "BOY",
+            "BY",
+            "CURIOUS",
+            "SAINT"
+        ]
+    }
+]

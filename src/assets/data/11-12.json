@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PRESIDENTS",
+        "values": [
+            "FORD",
+            "GRANT",
+            "LINCOLN",
+            "WILSON"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "SPORTS PROFESSIONALS",
+        "values": [
+            "COACH",
+            "GM",
+            "PLAYER",
+            "SCOUT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CAR COMPANIES",
+        "values": [
+            "BMW",
+            "HONDA",
+            "JAGUAR",
+            "SUBARU"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "COMMON PREFIXES",
+        "values": [
+            "AUTO",
+            "POST",
+            "SEMI",
+            "SUB"
+        ]
+    }
+]

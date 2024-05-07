@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "PESTERS",
+        "values": [
+            "BADGERS",
+            "BUGS",
+            "HOUNDS",
+            "NAGS"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TONY WINNERS FOR BEST MUSICAL",
+        "values": [
+            "ANNIE",
+            "CABARET",
+            "CATS",
+            "COMPANY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THEY HAVE KEYS",
+        "values": [
+            "COMPUTER",
+            "PIANO",
+            "SUPER",
+            "TESTS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SCHOOL OF ___",
+        "values": [
+            "FISH",
+            "HARD KNOCKS",
+            "ROCK",
+            "THOUGHT"
+        ]
+    }
+]

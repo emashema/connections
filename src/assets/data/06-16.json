@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "STREAMING SERVICES",
+        "values": [
+            "HULU",
+            "NETFLIX",
+            "PEACOCK",
+            "PRIME"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CONDIMENTS",
+        "values": [
+            "KETCHUP",
+            "MAYO",
+            "RELISH",
+            "TARTAR"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "SYNONYMS FOR SAD",
+        "values": [
+            "BLUE",
+            "DOWN",
+            "GLUM",
+            "LOW"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "CLUE CHARACTERS",
+        "values": [
+            "GREEN",
+            "MUSTARD",
+            "PLUM",
+            "SCARLET"
+        ]
+    }
+]

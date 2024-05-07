@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SNEAKER BRANDS",
+        "values": [
+            "ADIDAS",
+            "NIKE",
+            "PUMA",
+            "REEBOK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "MUSICALS BEGINNING WITH \u201cC\u201d",
+        "values": [
+            "CABARET",
+            "CAROUSEL",
+            "CATS",
+            "CHICAGO"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CLEANING VERBS",
+        "values": [
+            "DUST",
+            "MOP",
+            "SWEEP",
+            "VACUUM"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ MAN SUPERHEROES",
+        "values": [
+            "BAT",
+            "IRON",
+            "SPIDER",
+            "SUPER"
+        ]
+    }
+]

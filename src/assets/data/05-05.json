@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SOMETHING GAINED FROM HARD WORK",
+        "values": [
+            "BENEFIT",
+            "FRUIT",
+            "RETURN",
+            "REWARD"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "KINDS OF BAGELS",
+        "values": [
+            "EGG",
+            "EVERYTHING",
+            "PLAIN",
+            "POPPY"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CONTRIBUTE TO A MOVIE",
+        "values": [
+            "ACT",
+            "DIRECT",
+            "PRODUCE",
+            "WRITE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "STARTS OF MONSTERS",
+        "values": [
+            "FRANK",
+            "MUM",
+            "VAMP",
+            "WERE"
+        ]
+    }
+]

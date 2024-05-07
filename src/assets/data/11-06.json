@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "INVESTMENTS",
+        "values": [
+            "BOND",
+            "CD",
+            "OPTION",
+            "STOCK"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "TERMS FOR RECORDS",
+        "values": [
+            "LP",
+            "PLATTER",
+            "VINYL",
+            "WAX"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CUBE-SHAPED",
+        "values": [
+            "BOUILLON",
+            "DIE",
+            "ICE",
+            "SUGAR"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "WORDS THAT GO WITH \u201cBONE\u201d",
+        "values": [
+            "FUNNY",
+            "HERRING",
+            "SOUP",
+            "WISH"
+        ]
+    }
+]

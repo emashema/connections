@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "MOVIE SUMMARY INFO",
+        "values": [
+            "CAST",
+            "GENRE",
+            "PLOT",
+            "TITLE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "PRETENSE",
+        "values": [
+            "AFFECT",
+            "AIRS",
+            "CHARADE",
+            "FRONT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "FAMOUS GUITARISTS",
+        "values": [
+            "BERRY",
+            "KING",
+            "PAGE",
+            "WATERS"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "SECOND ___",
+        "values": [
+            "FIDDLE",
+            "GUESS",
+            "NATURE",
+            "WIND"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "DATA SET DATA",
+        "values": [
+            "MEAN",
+            "MEDIAN",
+            "MODE",
+            "RANGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "CHEMISTRY TERMS",
+        "values": [
+            "BASE",
+            "BOND",
+            "ELEMENT",
+            "SOLUTION"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "ADJECTIVE INTENSIFIERS",
+        "values": [
+            "AWFUL",
+            "PRETTY",
+            "RATHER",
+            "REAL"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "RADIO HALL OF FAME MEMBERS",
+        "values": [
+            "GLASS",
+            "GROSS",
+            "KING",
+            "STERN"
+        ]
+    }
+]

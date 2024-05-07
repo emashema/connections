@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "CLEANING SUPPLIES",
+        "values": [
+            "BROOM",
+            "MOP",
+            "RAG",
+            "SPONGE"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "ELEMENTS OF COOKING,  PER SAMIN NOSRAT",
+        "values": [
+            "SALT",
+            "FAT",
+            "ACID",
+            "HEAT"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "THINGS THAT MAKE YOU SNEEZE",
+        "values": [
+            "DUST",
+            "PEPPER",
+            "POLLEN",
+            "SMOKE"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "TITULAR FICTIONAL DETECTIVES",
+        "values": [
+            "MAGNUM",
+            "MONK",
+            "SHAFT",
+            "TRACY"
+        ]
+    }
+]
