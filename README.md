@@ -1,8 +1,9 @@
 # Connections
-An implementation of the [Connections game by the New York Times](https://www.nytimes.com/games/connections) using Vue2.
 
-<sub>Made with 💘 </sub>
+An implementation of the [Connections game by the New York Times](https://www.nytimes.com/games/connections) using Vue2
 
+
+<sub>made with 💙💛💚💜</sub>
 
 ## Project setup
 ```
