@@ -1,0 +1,100 @@
+// Grid CSS
+.grid {
+    width: 370px;
+    text-align: -webkit-center;
+}
+.mistake {
+    width:20px;
+    height:20px;
+    border-radius:10px;
+    background-color: dimgray;
+}
+.custom-toast {
+    margin: auto !important;
+    color: white !important;
+    font-weight: 600 !important;
+    background: black !important;
+    width: fit-content !important;
+    text-align: center !important;
+}
+
+// Row CSS
+.connection {
+    height: 80px;
+    width: 335px;
+    border-radius: 5px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.level-1 {
+    background: rgb(176, 196, 239);
+}
+.level-2 {
+    background: rgb(160, 195, 90);
+}
+.level-3 {
+    background: rgb(249, 223, 109);
+}
+.level-4 {
+    background: rgb(186, 129, 197);
+}
+
+// Cell CSS
+.cell {
+    width: 80px;
+    max-width: 80px;
+    height: 80px;
+    background: whitesmoke;
+    border-radius: 5px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.mini-cell {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.mini-cell-container {
+    width: 185px
+}
+.clicked {
+    color: white;
+    background: dimgray !important;
+}
+.cell:active {
+  transform: translateY(4px);
+}
+
+// Animation
+.bounce {
+    animation: bounce 0.5s ease;
+}
+@keyframes bounce {
+    0% { transform:translateY(0px); }
+    50% { transform:translateY(-5px); }
+    100% { transform:translateY(0); }
+}
+
+.shake {
+    animation: shake 0.8s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+    transform: translate3d(0, 0, 0);
+}
+@keyframes shake {
+    30%, 50%, 70% {
+        transform: translate3d(-5px, 0, 0);
+    }
+    40%, 60% {
+        transform: translate3d(5px, 0, 0);
+    }
+}
+
+.zoom {
+    animation: bounce 0.1s ease;
+}
+@keyframes bounce {
+    0% { transform:translateY(0px); }
+    50% { transform:translateY(-5px); }
+    100% { transform:translateY(0); }
+}
