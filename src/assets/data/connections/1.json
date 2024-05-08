@@ -1,0 +1,42 @@
+[
+    {
+        "level": 1,
+        "key": "SHADES OF RED",
+        "values": [
+            "BRICK",
+            "CHERRY",
+            "ROSE",
+            "RUBY"
+        ]
+    },
+    {
+        "level": 2,
+        "key": "LITTLE BIT OF A BEVERAGE",
+        "values": [
+            "DROP",
+            "SPLASH",
+            "SPOT",
+            "SPRINKLE"
+        ]
+    },
+    {
+        "level": 3,
+        "key": "CHOICEST",
+        "values": [
+            "BEST",
+            "CREAM",
+            "PICK",
+            "TOP"
+        ]
+    },
+    {
+        "level": 4,
+        "key": "___ BATH",
+        "values": [
+            "BIRD",
+            "BUBBLE",
+            "MUD",
+            "SPONGE"
+        ]
+    }
+]

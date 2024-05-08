@@ -1,5 +1,6 @@
 import requests
 import datetime
+import os, os.path
 from json import dumps
 
 ############################################################################
@@ -8,10 +9,14 @@ from json import dumps
 ############################################################################
 
 today = datetime.date.today()
-date_list = [today - datetime.timedelta(days=x) for x in range(365)]
+date_list = [today - datetime.timedelta(days=x) for x in range(1500)]
+i=0
+d=0
 
-for date in date_list:
-    response = requests.get("https://www.nytimes.com/svc/connections/v2/"+str(date)+".json")
+while len([f for f in os.listdir('./connections/')]) != 365:
+    i+=1
+
+    response = requests.get(f'https://www.nytimes.com/svc/connections/v2/{str(date_list[d])}.json')
     data = response.json()
 
     if data['status'] == 'OK':
@@ -26,6 +31,8 @@ for date in date_list:
             level += 1
 
         json_obj = dumps(obj, indent=4)
-    
-        with open(str(date)[5:]+".json", "w") as file:
+
+        with open(f'./connections/{i}.json', "w") as file:
             file.write(json_obj)
+
+    d+=1

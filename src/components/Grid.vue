@@ -1,7 +1,8 @@
 <template>
-    <b-container id="app" class="grid">
+    <b-container class="grid">
         <!-- Results modal -->
         <results-modal
+            :day_of_year="day_of_year"
             :attempts="attempts"
             :message="finished_message"
         />
@@ -10,7 +11,7 @@
             CONNECTIONS
         </b-row>
 
-        <b-row class="mb-3 justify-content-center">
+        <b-row class="mb-3 justify-content-center text-secondary">
             Create four groups of four!
         </b-row>
 
@@ -24,6 +25,7 @@
                 :key="connection.key"
             >
                 <row
+                    :ref="connection.level"
                     :connection="connection"
                 />
             </b-col>
@@ -105,6 +107,13 @@ export default {
         }
     },
     computed: {
+        day_of_year() {
+            var now = new Date();
+            var start = new Date(now.getFullYear(), 0, 0);
+            var diff = now - start;
+            var day_of_year = Math.floor(diff / (1000 * 60 * 60 * 24));
+            return day_of_year
+        },
         unsolved() {
             this.watchForRefresh;
 
@@ -152,8 +161,7 @@ export default {
         }
     },
     created() {
-        let today = new Date().toISOString().substr(5, 5)
-        this.connections = require('./../assets/data/'+today+'.json')
+        this.connections = require('./../assets/data/connections/'+this.day_of_year+'.json')
 
         this.mistakes_remaining = 4
     },
@@ -182,30 +190,31 @@ export default {
             this.selected.forEach((x, i) => {
                 setTimeout(() => {
                     this.$refs[x.value][0].bounce = true
-                    setTimeout(() => {
-                        this.$refs[x.value][0].bounce = false
-                    }, ((i+1)*300)+100);
-                }, (i+1)*300);
+                }, (i+1)*200);
             });
 
             setTimeout(() => {
                 // Register attempt
                 this.attempts.push(this.selected)
                 
-                let categories = new Set(this.selected.map(s => s.key))
+                let categories = new Set(this.selected.map(s => s.level))
 
                 // Correct guess
                 if(categories.size == 1) {
                     setTimeout(() => {
-                        this.solved.push(this.connections.find(c => c.key == categories.values().next().value))
-                        this.selected = []
+                        let category = categories.values().next().value
+                        this.solved.push(this.connections.find(c => c.level == category))
 
-                        // GAME OVER - SUCCESS
-                        if(this.unsolved.length == 0) {
-                            this.$toast(this.finished_message)
-                            this.$bvModal.show('results-modal')
-                        }
-                    }, 800)
+                        // Zoom
+                        setTimeout(() => {
+                            this.$refs[category][0].zoom = true
+                            setTimeout(() => {
+                                this.$refs[category][0].zoom = false
+                            }, 550);
+                        }, 50);
+
+                        this.selected = []
+                    }, 500)
                 }
                 // Incorrect guess
                 else {
@@ -214,25 +223,27 @@ export default {
                         this.$refs[x.value][0].shake = true
                         setTimeout(() => {
                             this.$refs[x.value][0].shake = false
-                        }, 1000);
+                            this.$refs[x.value][0].bounce = false
+                        }, 800);
                     });
 
-                    setTimeout(() => {
-                        this.mistakes_remaining--;
+                    this.mistakes_remaining--;
 
-                        if(this.one_away == true)
-                            this.$toast('One away...')
-
-                        if(this.mistakes_remaining == 0) {
-                            // GAME OVER - FAIL
-                            this.$toast(this.finished_message)
-                            setTimeout(() => {
-                                this.$bvModal.show('results-modal')
-                            }, 1000);
-                        }
-                    }, 1000);
+                    if(this.one_away == true)
+                        this.$toast('One away...')
                 }
-            }, 1800);
+
+                // Game Over ?
+                setTimeout(() => {
+                    if(this.unsolved.length == 0 || this.mistakes_remaining == 0) {
+                        this.$toast(this.finished_message)
+                        setTimeout(() => {
+                            this.$bvModal.show('results-modal')
+                        }, 1000);
+                    }
+                }, 1000);
+
+            }, 1000);
         }
     }
 }

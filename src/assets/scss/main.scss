@@ -69,7 +69,7 @@
 
 // Animation
 .bounce {
-    animation: bounce 0.5s ease;
+    animation: bounce 0.3s ease;
 }
 @keyframes bounce {
     0% { transform:translateY(0px); }
@@ -91,10 +91,9 @@
 }
 
 .zoom {
-    animation: bounce 0.1s ease;
+    animation: zoom 0.5s ease
 }
-@keyframes bounce {
-    0% { transform:translateY(0px); }
-    50% { transform:translateY(-5px); }
-    100% { transform:translateY(0); }
+@keyframes zoom {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
 }

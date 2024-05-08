@@ -6,7 +6,7 @@
     >
         <div class="text-center">
             <h2 class="font-weight-bold">{{message}}</h2>
-            <p> Connections #{{ id }}</p>
+            <p> Connections #{{ day_of_year }}</p>
             <b-container class="mini-cell-container">
                 <b-row
                     v-for="(attempt, index) in attempts"
@@ -40,6 +40,10 @@ export default {
         Timer
     },
     props: {
+        "day_of_year": {
+            type: Number,
+            required: true
+        },
         "message": {
             type: String,
             required: true
@@ -47,15 +51,6 @@ export default {
         "attempts": {
             type: Array,
             required: true
-        }
-    },
-    computed: {
-        id() {
-            var now = new Date();
-            var start = new Date(now.getFullYear(), 0, 0);
-            var diff = now - start;
-            var day_of_year = Math.floor(diff / (1000 * 60 * 60 * 24));
-            return day_of_year
         }
     }
 }
